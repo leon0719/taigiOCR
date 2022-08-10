@@ -1,0 +1,11 @@
+import os
+with open('/home/leon/Paper_work/back_up_test_data/en/rec_gt.txt','r',encoding='utf8') as f:
+    f = f.readlines()
+    line_list = [line.strip().split('\t') for line in f]
+
+img_path = '/home/leon/Paper_work/back_up_test_data/en/crop_img'
+
+count = 1
+for line in line_list:
+    os.rename(os.path.join(img_path, line[0]),os.path.join(img_path, line[1].replace(' ','_')+f'_{count}'+'.jpg'))
+    count += 1
