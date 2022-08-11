@@ -51,3 +51,17 @@ python3 python train_test_split.py
 | 漢羅   | 9000   | 1000   | 10000 |
 
 ## 如何訓練
+
+修改 PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml 設定檔
+
+|                     | 修改為                                       |
+| ------------------- | -------------------------------------------- |
+| num_workers         | GPU 個數                                     |
+| character_dict_path | 字典路徑 e.x. ppocr/utils/dict/total_dic.txt |
+
+修改後即可開始訓練
+
+```
+cd PaddleOCR
+sh train.sh
+```
