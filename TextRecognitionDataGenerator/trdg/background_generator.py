@@ -7,9 +7,9 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFilter
 
 
-def gaussian_noise(height: int, width: int) -> Image:
+def gaussian_noise(height, width):
     """
-    Create a background with Gaussian noise (to mimic paper)
+        Create a background with Gaussian noise (to mimic paper)
     """
 
     # We create an all white image
@@ -21,17 +21,17 @@ def gaussian_noise(height: int, width: int) -> Image:
     return Image.fromarray(image).convert("RGBA")
 
 
-def plain_white(height: int, width: int) -> Image:
+def plain_white(height, width):
     """
-    Create a plain white background
+        Create a plain white background
     """
 
     return Image.new("L", (width, height), 255).convert("RGBA")
 
 
-def quasicrystal(height: int, width: int) -> Image:
+def quasicrystal(height, width):
     """
-    Create a background with quasicrystal (https://en.wikipedia.org/wiki/Quasicrystal)
+        Create a background with quasicrystal (https://en.wikipedia.org/wiki/Quasicrystal)
     """
 
     image = Image.new("L", (width, height))
@@ -55,9 +55,9 @@ def quasicrystal(height: int, width: int) -> Image:
     return image.convert("RGBA")
 
 
-def image(height: int, width: int, image_dir: str) -> Image:
+def image(height, width, image_dir):
     """
-    Create a background with a image
+        Create a background with a image
     """
     images = os.listdir(image_dir)
 
@@ -68,13 +68,11 @@ def image(height: int, width: int, image_dir: str) -> Image:
 
         if pic.size[0] < width:
             pic = pic.resize(
-                [width, int(pic.size[1] * (width / pic.size[0]))],
-                Image.Resampling.LANCZOS,
+                [width, int(pic.size[1] * (width / pic.size[0]))], Image.ANTIALIAS
             )
         if pic.size[1] < height:
             pic = pic.resize(
-                [int(pic.size[0] * (height / pic.size[1])), height],
-                Image.Resampling.LANCZOS,
+                [int(pic.size[0] * (height / pic.size[1])), height], Image.ANTIALIAS
             )
 
         if pic.size[0] == width:

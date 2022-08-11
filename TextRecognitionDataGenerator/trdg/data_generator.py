@@ -4,7 +4,7 @@ import random as rnd
 from PIL import Image, ImageFilter, ImageStat
 
 from trdg import computer_text_generator, background_generator, distorsion_generator
-from trdg.utils import mask_to_bboxes, make_filename_valid
+from trdg.utils import mask_to_bboxes
 
 try:
     from trdg import handwritten_text_generator
@@ -16,7 +16,7 @@ class FakeTextDataGenerator(object):
     @classmethod
     def generate_from_tuple(cls, t):
         """
-        Same as generate, but takes all parameters as one tuple
+            Same as generate, but takes all parameters as one tuple
         """
 
         cls.generate(*t)
@@ -24,37 +24,37 @@ class FakeTextDataGenerator(object):
     @classmethod
     def generate(
         cls,
-        index: int,
-        text: str,
-        font: str,
-        out_dir: str,
-        size: int,
-        extension: str,
-        skewing_angle: int,
-        random_skew: bool,
-        blur: int,
-        random_blur: bool,
-        background_type: int,
-        distorsion_type: int,
-        distorsion_orientation: int,
-        is_handwritten: bool,
-        name_format: int,
-        width: int,
-        alignment: int,
-        text_color: str,
-        orientation: int,
-        space_width: int,
-        character_spacing: int,
-        margins: int,
-        fit: bool,
-        output_mask: bool,
-        word_split: bool,
-        image_dir: str,
-        stroke_width: int = 0,
-        stroke_fill: str = "#282828",
-        image_mode: str = "RGB",
-        output_bboxes: int = 0,
-    ) -> Image:
+        index,
+        text,
+        font,
+        out_dir,
+        size,
+        extension,
+        skewing_angle,
+        random_skew,
+        blur,
+        random_blur,
+        background_type,
+        distorsion_type,
+        distorsion_orientation,
+        is_handwritten,
+        name_format,
+        width,
+        alignment,
+        text_color,
+        orientation,
+        space_width,
+        character_spacing,
+        margins,
+        fit,
+        output_mask,
+        word_split,
+        image_dir,
+        stroke_width=0, 
+        stroke_fill="#282828",
+        image_mode="RGB", 
+        output_bboxes=0,
+    ):
         image = None
 
         margin_top, margin_left, margin_bottom, margin_right = margins
@@ -79,7 +79,7 @@ class FakeTextDataGenerator(object):
                 character_spacing,
                 fit,
                 word_split,
-                stroke_width,
+                stroke_width, 
                 stroke_fill,
             )
         random_angle = rnd.randint(0 - skewing_angle, skewing_angle)
@@ -131,11 +131,9 @@ class FakeTextDataGenerator(object):
                 * (float(size - vertical_margin) / float(distorted_img.size[1]))
             )
             resized_img = distorted_img.resize(
-                (new_width, size - vertical_margin), Image.Resampling.LANCZOS
+                (new_width, size - vertical_margin), Image.ANTIALIAS
             )
-            resized_mask = distorted_mask.resize(
-                (new_width, size - vertical_margin), Image.Resampling.NEAREST
-            )
+            resized_mask = distorted_mask.resize((new_width, size - vertical_margin), Image.NEAREST)
             background_width = width if width > 0 else new_width + horizontal_margin
             background_height = size
         # Vertical text
@@ -145,10 +143,10 @@ class FakeTextDataGenerator(object):
                 * (float(size - horizontal_margin) / float(distorted_img.size[0]))
             )
             resized_img = distorted_img.resize(
-                (size - horizontal_margin, new_height), Image.Resampling.LANCZOS
+                (size - horizontal_margin, new_height), Image.ANTIALIAS
             )
             resized_mask = distorted_mask.resize(
-                (size - horizontal_margin, new_height), Image.Resampling.NEAREST
+                (size - horizontal_margin, new_height), Image.NEAREST
             )
             background_width = size
             background_height = new_height + vertical_margin
@@ -183,7 +181,7 @@ class FakeTextDataGenerator(object):
         ##############################################################
         try:
             resized_img_st = ImageStat.Stat(resized_img, resized_mask.split()[2])
-            background_img_st = ImageStat.Stat(background_img)
+            background_img_st = ImageStat.Stat(background_img) 
 
             resized_img_px_mean = sum(resized_img_st.mean[:2]) / 3
             background_img_px_mean = sum(background_img_st.mean) / 3
@@ -227,24 +225,24 @@ class FakeTextDataGenerator(object):
                 resized_mask,
                 (background_width - new_text_width - margin_right, margin_top),
             )
-
+                    
         ############################################
         # Change image mode (RGB, grayscale, etc.) #
         ############################################
-
+        
         background_img = background_img.convert(image_mode)
-        background_mask = background_mask.convert(image_mode)
+        background_mask = background_mask.convert(image_mode) 
 
         #######################
         # Apply gaussian blur #
         #######################
 
         gaussian_filter = ImageFilter.GaussianBlur(
-            radius=blur if not random_blur else rnd.random() * blur
+            radius=blur if not random_blur else rnd.randint(0, blur)
         )
         final_image = background_img.filter(gaussian_filter)
         final_mask = background_mask.filter(gaussian_filter)
-
+        
         #####################################
         # Generate name for resulting image #
         #####################################
@@ -261,11 +259,11 @@ class FakeTextDataGenerator(object):
             print("{} is not a valid name format. Using default.".format(name_format))
             name = "{}_{}".format(text, str(index))
 
-        name = make_filename_valid(name, allow_unicode=True)
         image_name = "{}.{}".format(name, extension)
         mask_name = "{}_mask.png".format(name)
         box_name = "{}_boxes.txt".format(name)
         tess_box_name = "{}.box".format(name)
+
 
         # Save the image
         if out_dir is not None:
@@ -281,9 +279,7 @@ class FakeTextDataGenerator(object):
                 bboxes = mask_to_bboxes(final_mask, tess=True)
                 with open(os.path.join(out_dir, tess_box_name), "w") as f:
                     for bbox, char in zip(bboxes, text):
-                        f.write(
-                            " ".join([char] + [str(v) for v in bbox] + ["0"]) + "\n"
-                        )
+                        f.write(" ".join([char] + [str(v) for v in bbox] + ['0']) + "\n")
         else:
             if output_mask == 1:
                 return final_image, final_mask
