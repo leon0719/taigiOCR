@@ -27,7 +27,7 @@ docker run --gpus all -it --name OCR_ENV -v /path/to/OCR/:/workspace/ -v /path/t
 
 ```
 cd tools/
-python3 python train_test_split.py
+python train_test_split.py
 ```
 
 生成結果
