@@ -80,7 +80,7 @@ python train_test_split.py
 |                         | 修改為                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------- |
 | num_workers             | GPU 個數                                                                              |
-| character_dict_path     | 字典路徑 e.x. ppocr/utils/dict/total_dic.txt                                          |
+| character_dict_path     | 自定義字典路徑 e.x. ppocr/utils/dict/total_dic.txt                                    |
 | Architecture-algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
 | Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
