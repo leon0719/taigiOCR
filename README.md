@@ -16,7 +16,7 @@ git clone https://github.com/leon0719/OCR.git
 #建立 資料夾儲存圖片
 mkdir img_data
 
-docker run --gpus all -it --name OCR_ENV -v /path/to/OCR/:/workspace/ -v /path/to/img_data/:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
+docker run --gpus all -it --name OCR_ENV -v /path/to/OCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
 
 ```
 
@@ -120,4 +120,10 @@ cd tools/
 python test_data_predict.py
 ```
 
-預測結果
+# 預測結果 (CER)
+
+使用架構 SVTR Backbone MobileNetV1Enhance
+
+| 中    | 英     | 日      | 白話字 | 漢羅   | 台羅   |
+| ----- | ------ | ------- | ------ | ------ | ------ |
+| 4.83% | 9.207% | 11.466% | 1.576% | 0.862% | 0.596% |
