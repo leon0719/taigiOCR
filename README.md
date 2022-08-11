@@ -81,7 +81,7 @@ python train_test_split.py
 | ----------------------- | ------------------------------------------------------------------------------------- |
 | num_workers             | GPU 個數                                                                              |
 | character_dict_path     | 自定義字典路徑 e.x. ppocr/utils/dict/total_dic.txt                                    |
-| Architecture-algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
+| Architecture-Algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
 | Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
 修改後即可開始訓練
@@ -125,7 +125,7 @@ python test_data_predict.py
 
 # 預測結果 (CER)
 
-所使用 Architecture : **SVTR** Backbone : **MobileNetV1Enhance**
+所使用 Algorithm : **SVTR** Backbone : **MobileNetV1Enhance**
 
 | 中    | 英     | 日      | 白話字 | 漢羅   | 台羅   |
 | ----- | ------ | ------- | ------ | ------ | ------ |
