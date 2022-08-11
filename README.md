@@ -85,3 +85,28 @@ python3 python train_test_split.py
 cd PaddleOCR
 sh train.sh
 ```
+
+訓練完成後在 output 目錄下會有保存後的模型與訓練目錄
+
+```
+my_ocr_model/
+├── best_accuracy.pdopt
+├── best_accuracy.pdparams
+├── best_accuracy.states
+├── config.yml
+├── latest.pdopt
+├── latest.pdparams
+├── latest.states
+└── train.log
+```
+
+## 各個語言預測結果
+
+使用 tools/test_data_predict.py 對模擬的測試圖片資料進行預測並計算 CER
+
+```
+cd tools/
+python test_data_predict.py
+```
+
+預測結果

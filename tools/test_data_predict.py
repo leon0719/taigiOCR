@@ -7,7 +7,7 @@ for lang in language:
     if not os.path.exists(f'result_{lang}'):
         os.mkdir(f'result_{lang}')
     os.system(f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.infer_img=/train_data/test_{lang}')
-    with open('/workspace/PaddleOCR/output/rec/predicts_ppocrv3_en.txt','r',encoding='utf-8') as f :
+    with open('/workspace/PaddleOCR/output/rec/predicts_my_ocr_model.txt','r',encoding='utf-8') as f :
         f=f.readlines()
         select_word_list = [line.strip().split('/')[3][:-18] for line in f]
     os.chdir(f'/workspace/PaddleOCR/result_{lang}')
@@ -49,10 +49,8 @@ for lang in language:
     os.remove('predicts.txt')
     os.remove('ground_truths.txt')
     os.remove('ground_truths_and_predicts.txt')
-
     os.system(f'wer -r Ground_truths.txt Predicts.txt > result_{lang}.txt' )
     os.system(f'wer -c Ground_truths.txt Predicts.txt > result_{lang}_confusion_matrix.txt' )
-
     os.remove('Ground_truths.txt')
     os.remove('Predicts.txt')
 
