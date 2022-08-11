@@ -130,3 +130,30 @@ python test_data_predict.py
 | 中    | 英     | 日      | 白話字 | 漢羅   | 台羅   |
 | ----- | ------ | ------- | ------ | ------ | ------ |
 | 4.83% | 9.207% | 11.466% | 1.576% | 0.862% | 0.596% |
+
+# 應用
+
+將訓練好的模型轉換成推理模型
+
+```
+cd PaddleOCR
+python3 tools/export_model.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.save_inference_dir=./rec_inference/
+```
+
+轉換過後會在 PaddleOCR/rec_inference 目錄下
+資料夾樹狀圖
+
+```
+rec_inference/
+├── inference.pdiparams
+├── inference.pdiparams.info
+└── inference.pdmodel
+```
+
+# 預測結果 (文字偵測模型+**文字辨認模型**)
+
+使用 PaddleOCR/tools/infer/predict_system.py 對圖片進行預測
+
+```
+python tools/infer/predict_system.py --det_model_dir="./ch_PP-OCRv3_det_infer" --rec_model_dir="./ch_PP-OCRv3_rec_infer" --image_dir=test/
+```
