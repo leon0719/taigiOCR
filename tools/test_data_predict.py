@@ -49,7 +49,6 @@ for lang in language:
     os.remove('predicts.txt')
     os.remove('ground_truths.txt')
     os.remove('ground_truths_and_predicts.txt')
-    os.system(f'wer -r Ground_truths.txt Predicts.txt > result_{lang}.txt' )
     os.system(f'wer -c Ground_truths.txt Predicts.txt > result_{lang}_confusion_matrix.txt' )
     os.remove('Ground_truths.txt')
     os.remove('Predicts.txt')
