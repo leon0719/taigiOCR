@@ -54,30 +54,30 @@ python3 python train_test_split.py
 
 ```
 /train_data/
-(模擬測試資料)
-├── test_ch
-├── test_en
-├── test_HAN_LO
-├── test_jp
-├── test_POJ
-├── test_TAI_LO
-└── train_data
-    ├── test (驗證集 Img)
-    ├── test_label.txt (驗證集 Label)
-    ├── train (訓練集 Img)
-    └── train_label.txt (訓練集 Label)
+    (模擬測試資料)
+    ├── test_ch
+    ├── test_en
+    ├── test_HAN_LO
+    ├── test_jp
+    ├── test_POJ
+    ├── test_TAI_LO
+    └── train_data
+        ├── test (驗證集 Img)
+        ├── test_label.txt (驗證集 Label)
+        ├── train (訓練集 Img)
+        └── train_label.txt (訓練集 Label)
 ```
 
 ## 如何訓練
 
 修改 PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml 設定檔
 
-|                         | 修改為                                                                   |
-| ----------------------- | ------------------------------------------------------------------------ |
-| num_workers             | GPU 個數                                                                 |
-| character_dict_path     | 字典路徑 e.x. ppocr/utils/dict/total_dic.txt                             |
-| Architecture-algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN                                  |
-| Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN |
+|                         | 修改為                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------- |
+| num_workers             | GPU 個數                                                                              |
+| character_dict_path     | 字典路徑 e.x. ppocr/utils/dict/total_dic.txt                                          |
+| Architecture-algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
+| Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
 修改後即可開始訓練
 
