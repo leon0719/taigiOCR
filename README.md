@@ -158,3 +158,8 @@ rec_inference/
 #選擇想要預測的圖片路徑 --image_dir=/path/to/img
 python tools/infer/predict_system.py --det_model_dir="./ch_PP-OCRv3_det_infer" --rec_model_dir="./ch_PP-OCRv3_rec_infer" --image_dir=test/
 ```
+
+![image](images/result_ch.jpg "中")
+![image](images/result_en.jpg "英")
+![image](images/result_HAN_LO.jpg "漢羅")
+![image](images/result_POJ.jpg "白話字")
