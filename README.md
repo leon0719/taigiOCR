@@ -133,7 +133,7 @@ python test_data_predict.py
 
 # 應用
 
-將訓練好的模型轉換成推理模型
+將訓練好的**文字辨認**模型轉換成推理模型
 
 ```
 cd PaddleOCR
@@ -150,10 +150,11 @@ rec_inference/
 └── inference.pdmodel
 ```
 
-# 預測結果 (文字偵測模型+**文字辨認模型**)
+# 如何預測整張圖片 (文字偵測模型+文字辨認模型)
 
 使用 PaddleOCR/tools/infer/predict_system.py 對圖片進行預測
 
 ```
+#選擇想要預測的圖片路徑 --image_dir=/path/to/img
 python tools/infer/predict_system.py --det_model_dir="./ch_PP-OCRv3_det_infer" --rec_model_dir="./ch_PP-OCRv3_rec_infer" --image_dir=test/
 ```
