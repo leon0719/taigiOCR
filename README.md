@@ -4,6 +4,12 @@
 
 ## 安裝環境
 
+下載 repository
+
+```
+git clone https://github.com/leon0719/OCR.git
+```
+
 利用 Docker 映像檔 來建立環境，安裝對應的 CUDA 及 CUDA Toolkit
 
 ```
