@@ -29,3 +29,17 @@ docker run --gpus all -it --name OCR_ENV -v /path/to/OCR/:/workspace/ -v /path/t
 cd tools/
 python3 python train_test_split.py
 ```
+
+生成後資料夾結構為
+/train_data/
+├── test_ch
+├── test_en
+├── test_HAN_LO
+├── test_jp
+├── test_POJ
+├── test_TAI_LO
+└── train_data
+├── test
+├── train
+├── test_label.txt
+└── train_label.txt
