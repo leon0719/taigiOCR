@@ -30,16 +30,11 @@ cd tools/
 python3 python train_test_split.py
 ```
 
-生成後資料夾結構為
-/train_data/
-├── test_ch
-├── test_en
-├── test_HAN_LO
-├── test_jp
-├── test_POJ
-├── test_TAI_LO
-└── train_data
-├── test
-├── train
-├── test_label.txt
-└── train_label.txt
+生成結果
+
+![image](images/ch.png "中")
+![image](images/en.jpg "英")
+![image](images/jp.jpg "日")
+![image](images/POJ.jpg "白話字")
+![image](images/TAI_LO.jpg "台羅")
+![image](images/HAN_LO.jpg "漢羅")
