@@ -156,6 +156,7 @@ rec_inference/
 
 ```
 #選擇想要預測的圖片路徑 --image_dir=/path/to/img
+cd PaddleOCR
 python tools/infer/predict_system.py --det_model_dir="./ch_PP-OCRv3_det_infer" --rec_model_dir="./ch_PP-OCRv3_rec_infer" --image_dir=test/
 ```
 
