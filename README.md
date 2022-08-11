@@ -167,6 +167,6 @@ python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_mod
 
 ## Reference
 
-[1] [paddleocr](https://github.com/PaddlePaddle/PaddleOCR)
+[1] [Paddleocr](https://github.com/PaddlePaddle/PaddleOCR)
 
-[2] [textrecognitiondatagenerator](https://github.com/Belval/TextRecognitionDataGenerator)
+[2] [Textrecognitiondatagenerator](https://github.com/Belval/TextRecognitionDataGenerator)
