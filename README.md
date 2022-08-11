@@ -13,7 +13,11 @@ git clone https://github.com/leon0719/OCR.git
 利用 Docker image 來建立環境，安裝函式庫 、 CUDA 及 CUDA Toolkit
 
 ```
+#建立 資料夾儲存圖片
+mkdir img_data
+
 docker run --gpus all -it --name OCR_ENV -v /path/to/OCR/:/workspace/ -v /path/to/img_data/:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
+
 ```
 
 確認進入 Docker 環境
@@ -117,4 +121,3 @@ python test_data_predict.py
 ```
 
 預測結果
-
