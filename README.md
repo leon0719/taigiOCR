@@ -123,7 +123,7 @@ python test_data_predict.py
 
 預測結果保存在 PaddleOCR/result 中
 
-# 預測結果 (CER)
+## 預測結果 (CER)
 
 所使用 Algorithm : **SVTR** Backbone : **MobileNetV1Enhance**
 
@@ -131,7 +131,7 @@ python test_data_predict.py
 | ----- | ------ | ------- | ------ | ------ | ------ |
 | 4.83% | 9.207% | 11.466% | 1.576% | 0.862% | 0.596% |
 
-# 應用
+## 應用
 
 將訓練好的**文字辨認**模型轉換成推理模型
 
@@ -150,7 +150,7 @@ rec_inference/
 └── inference.pdmodel
 ```
 
-# 如何預測整張圖片 (文字偵測模型+文字辨認模型)
+## 如何預測整張圖片 (文字偵測模型+文字辨認模型)
 
 使用 PaddleOCR/tools/infer/predict_system.py 對圖片進行預測
 
@@ -164,3 +164,8 @@ python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_mod
 ![image](images/result_en.jpg "英")
 ![image](images/result_HAN_LO.jpg "漢羅")
 ![image](images/result_POJ.jpg "白話字")
+
+## Reference
+
+[1]PaddleOCR(https://github.com/PaddlePaddle/PaddleOCR)
+[2]TextRecognitionDataGenerator(https://github.com/Belval/TextRecognitionDataGenerator)
