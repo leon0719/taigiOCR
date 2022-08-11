@@ -86,6 +86,13 @@ cd PaddleOCR
 sh train.sh
 ```
 
+若想暫時中斷訓練可使用 re-train.sh 恢復訓練
+
+```
+cd PaddleOCR
+sh re-train.sh
+```
+
 訓練完成後在 output 目錄下會有保存後的模型與訓練目錄
 
 ```
