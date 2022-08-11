@@ -1,3 +1,4 @@
 PaddleOCR/output
 PaddleOCR/log
 PaddleOCR/result_*
+PaddleOCR/rec_inference
