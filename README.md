@@ -160,6 +160,8 @@ cd PaddleOCR
 python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_model_dir="./rec_inference/" --image_dir=test/
 ```
 
+預測結果會存在 PaddleOCR/inference_results 目錄下
+
 ![image](images/result_ch.jpg "中")
 
 ![image](images/result_en.jpg "英")
