@@ -46,10 +46,7 @@ for lang in language:
         for line in word_list:
             f.write(line+'\n')
 # ----------------------------------------------------------------
-
     os.remove('ground_truths_and_predicts.txt')
     os.system(f'wer -c Ground_truths.txt Predicts.txt > result_{lang}_confusion_matrix.txt' )
     os.remove('Ground_truths.txt')
     os.remove('Predicts.txt')
-
-
