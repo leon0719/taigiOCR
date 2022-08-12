@@ -88,6 +88,7 @@ python train_test_split.py
 
 ```
 cd PaddleOCR
+# 需修改 train.sh --gpus 參數 e.x. 3張GPU --gpus '0,1,2'
 sh train.sh
 ```
 
@@ -95,6 +96,7 @@ sh train.sh
 
 ```
 cd PaddleOCR
+# 需修改 re-train.sh --gpus 參數
 sh re-train.sh
 ```
 
