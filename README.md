@@ -160,7 +160,7 @@ rec_inference/
 #選擇想要預測的圖片路徑 --image_dir
 #字型路徑 --vis_font_path
 cd PaddleOCR
-python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_model_dir="./rec_inference" --image_dir=./test/test_ch/ch.jpg --rec_char_dict_path=./ppocr/utils/dict/total_dic.txt --vis_font_path=./test/font/ch_en.ttf
+python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_model_dir="./rec_inference" --rec_char_dict_path=./ppocr/utils/dict/total_dic.txt --vis_font_path=./test/font/ch_en.ttf --image_dir=./test/test_ch/ch.jpg
 ```
 
 預測結果會存在 PaddleOCR/inference_results 目錄下
