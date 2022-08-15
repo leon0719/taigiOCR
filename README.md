@@ -171,7 +171,7 @@ python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_mod
 
 ![image](images/result_HAN_LO.jpg "漢羅")
 
-<!-- ![image](images/result_POJ.jpg "白話字") -->
+![image](images/result_POJ.jpg "白話字")
 
 ## Reference
 
