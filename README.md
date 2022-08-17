@@ -15,7 +15,7 @@
 下載 repository
 
 ```
-git clone https://github.com/leon0719/OCR.git
+git clone https://github.com/leon0719/taigiOCR.git
 ```
 
 利用 Docker image 來建立環境，安裝函式庫 、 CUDA 及 CUDA Toolkit
@@ -24,7 +24,7 @@ git clone https://github.com/leon0719/OCR.git
 #建立 資料夾儲存圖片
 mkdir img_data
 
-docker run --gpus all -it --name OCR_ENV -v /path/to/OCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
+docker run --gpus all -it --name OCR_ENV -v /path/to/taigiOCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
 
 ```
 
@@ -136,7 +136,7 @@ python test_data_predict.py
 
 ## 預測結果 (CER)
 
-所使用 Algorithm : **SVTR** Backbone : **MobileNetV1Enhance**
+所使用 Algorithm : **SVTR** Backbone : **ResNet**
 
 | 中    | 英     | 日      | 白話字 | 漢羅   | 台羅   |
 | ----- | ------ | ------- | ------ | ------ | ------ |
