@@ -1,6 +1,7 @@
 import os
 from sklearn.model_selection import train_test_split
 import shutil
+from tqdm import tqdm
 
 #生成圖片github 路徑
 text_gerner = '/workspace/TextRecognitionDataGenerator/trdg'
@@ -29,7 +30,7 @@ if not os.path.exists(test_path):
 def Gerner_en_img():
     os.chdir(text_gerner)
     print('生成en_img_data')
-    #參數 -c 圖片數量 -i 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
+    #參數 -c 圖片數量 -i 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(f'python run.py  -c 2500 -i dicts/en/en_article.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/en')
     os.system(f'python run.py  -c 2500 -i dicts/en/en_article2.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/en')
     os.system(f'python run.py  -c 2500 -i dicts/en/en_article3.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/en')
@@ -43,11 +44,12 @@ def Gerner_en_img():
         )
     data_en = os.listdir(en_img_path)
     train_en, test_en = train_test_split(data_en, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_en:
+    print('切割訓練集.....')
+    for file in tqdm(train_en):
         shutil.move(os.path.join(en_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_en:
+    print('切割驗證集.....')
+    for file in tqdm(test_en):
         shutil.move(os.path.join(en_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(en_img_path)
@@ -60,7 +62,7 @@ def Gerner_en_img():
 def Gerner_ch_img():
     os.chdir(text_gerner)
     print('生成ch_img_data')
-    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
+    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(f'python run.py  -c 2000 -i dicts/ch/chinese_article.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/ch')
     os.system(f'python run.py  -c 2000 -i dicts/ch/chinese_article2.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/ch')
     os.system(f'python run.py  -c 2000 -i dicts/ch/chinese_article3.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/ch')
@@ -74,11 +76,12 @@ def Gerner_ch_img():
                 )
     data_ch = os.listdir(ch_img_path)
     train_ch, test_ch = train_test_split(data_ch, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_ch:
+    print('切割訓練集.....')
+    for file in tqdm(train_ch):
         shutil.move(os.path.join(ch_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_ch:
+    print('切割驗證集.....')
+    for file in tqdm(test_ch):
         shutil.move(os.path.join(ch_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(ch_img_path)
@@ -91,7 +94,7 @@ def Gerner_ch_img():
 def Gerner_POJ_img():
     os.chdir(text_gerner)
     print('生成POJ_img_data')
-    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
+    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/POJ')
     os.system(f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus2.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 --output_dir {save_img_path}/POJ')
     os.system(f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus3.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/POJ')
@@ -104,11 +107,12 @@ def Gerner_POJ_img():
                 )
     data_POJ = os.listdir(POJ_img_path)
     train_POJ, test_POJ = train_test_split(data_POJ, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_POJ:
+    print('切割訓練集.....')
+    for file in tqdm(train_POJ):
         shutil.move(os.path.join(POJ_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_POJ:
+    print('切割驗證集.....')
+    for file in tqdm(test_POJ):
         shutil.move(os.path.join(POJ_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(POJ_img_path)
@@ -121,7 +125,7 @@ def Gerner_POJ_img():
 def Gerner_TAI_LO_img():
     os.chdir(text_gerner)
     print('生成TAI_LO_img_data')
-    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
+    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/TAI_LO')
     os.system(f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus2.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/TAI_LO')
     os.system(f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus3.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/TAI_LO')
@@ -134,11 +138,12 @@ def Gerner_TAI_LO_img():
                 )
     data_TAI_LO = os.listdir(TAI_LO_img_path)
     train_TAI_LO, test_TAI_LO = train_test_split(data_TAI_LO, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_TAI_LO:
+    print('切割訓練集.....')
+    for file in tqdm(train_TAI_LO):
         shutil.move(os.path.join(TAI_LO_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_TAI_LO:
+    print('切割驗證集.....')
+    for file in tqdm(test_TAI_LO):
         shutil.move(os.path.join(TAI_LO_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(TAI_LO_img_path)
@@ -151,7 +156,7 @@ def Gerner_TAI_LO_img():
 def Gerner_HAN_LO_img():
     os.chdir(text_gerner)
     print('生成HAN_LO_img_data')
-    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑 -k 傾斜角度 -rk 隨機傾斜
+    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑 -k 傾斜角度 -rk 隨機傾斜
     os.system(f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/HAN_LO')
     os.system(f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus2.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/HAN_LO')
     os.system(f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus3.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/HAN_LO')
@@ -164,11 +169,12 @@ def Gerner_HAN_LO_img():
                 )
     data_HAN_LO = os.listdir(HAN_LO_img_path)
     train_HAN_LO, test_HAN_LO = train_test_split(data_HAN_LO, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_HAN_LO:
+    print('切割訓練集.....')
+    for file in tqdm(train_HAN_LO):
         shutil.move(os.path.join(HAN_LO_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_HAN_LO:
+    print('切割驗證集.....')
+    for file in tqdm(test_HAN_LO):
         shutil.move(os.path.join(HAN_LO_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(HAN_LO_img_path)
@@ -181,7 +187,7 @@ def Gerner_HAN_LO_img():
 def Gerner_jp_img():
     os.chdir(text_gerner)
     print('生成jp_img_data')
-    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
+    #參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(f'python run.py  -c 2500 -i dicts/jp/jp_corpus.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/jp')
     os.system(f'python run.py  -c 2500 -i dicts/jp/jp_corpus2.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/jp')
     os.system(f'python run.py  -c 2500 -i dicts/jp/jp_corpus3.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/jp')
@@ -194,11 +200,12 @@ def Gerner_jp_img():
                 )
     data_jp = os.listdir(jp_img_path)
     train_jp, test_jp = train_test_split(data_jp, test_size=0.1, random_state=0)
-    print('切割訓練驗證.....')
-    for file in train_jp:
+    print('切割訓練集.....')
+    for file in tqdm(train_jp):
         shutil.move(os.path.join(jp_img_path, file),
                 os.path.join(train_path, file))
-    for file in test_jp:
+    print('切割驗證集.....')
+    for file in tqdm(test_jp):
         shutil.move(os.path.join(jp_img_path, file),
                 os.path.join(test_path, file))
     os.rmdir(jp_img_path)

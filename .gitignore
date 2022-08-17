@@ -3,3 +3,4 @@ PaddleOCR/log
 PaddleOCR/result_*
 PaddleOCR/rec_inference
 TextRecognitionDataGenerator/trdg/out
+img_data
