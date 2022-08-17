@@ -2,7 +2,6 @@ import os
 from sklearn.model_selection import train_test_split
 import shutil
 
-#git clone https://github.com/Belval/TextRecognitionDataGenerator.git
 #生成圖片github 路徑
 text_gerner = '/workspace/TextRecognitionDataGenerator/trdg'
 #設定訓練資料圖片保存的資料夾的"絕對路徑"
