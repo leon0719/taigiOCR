@@ -5,3 +5,5 @@ PaddleOCR/rec_inference
 TextRecognitionDataGenerator/trdg/out
 img_data
 PaddleOCR/inference_results
+tools/result
+PaddleOCR/output_v1
