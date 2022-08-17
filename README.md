@@ -2,7 +2,19 @@
 
 如何利用 OCR 辨識漢羅台文、白話字、全羅等等語言
 
-## 安裝環境
+# 主要功能
+
+辨識漢羅台文、白話字、全羅等等圖片文字並儲存成 PDF 檔
+
+![image](images/result_ch.jpg "中")
+
+![image](images/result_en.jpg "英")
+
+![image](images/result_HAN_LO.jpg "漢羅")
+
+![image](images/result_POJ.jpg "白話字")
+
+# 安裝環境
 
 下載 repository
 
@@ -45,15 +57,16 @@ python train_test_split.py
 
 訓練集與驗證集
 
-|          | 訓練集 | 驗證集 |
-| -------- | ------ | ------ |
-| 中       | 9000   | 1000   |
-| 英       | 9000   | 1000   |
-| 日       | 9000   | 1000   |
-| 白話字   | 9000   | 1000   |
-| 台羅     | 9000   | 1000   |
-| 漢羅     | 9000   | 1000   |
-| 總共(張) | 54000  | 6000   |
+|          | 訓練集       | 驗證集      |
+| -------- | ------------ | ----------- |
+| 中       | 360,000      | 40,000      |
+| 英       | 360,000      | 40,000      |
+| 日       | 360,000      | 40,000      |
+| 白話字   | 360,000      | 40,000      |
+| 台羅     | 360,000      | 40,000      |
+| 漢羅     | 360,000      | 40,000      |
+| 總共(張) | 2,160,000    | 240,000     |
+| 字元數   | 100,000,000+ | 17,000,000+ |
 
 資料夾樹狀圖
 
@@ -164,14 +177,6 @@ python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_mod
 ```
 
 預測結果會存在 PaddleOCR/inference_results 目錄下
-
-![image](images/result_ch.jpg "中")
-
-![image](images/result_en.jpg "英")
-
-![image](images/result_HAN_LO.jpg "漢羅")
-
-![image](images/result_POJ.jpg "白話字")
 
 ## Reference
 
