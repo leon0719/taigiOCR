@@ -136,7 +136,7 @@ python test_data_predict.py
 
 ## 預測結果 (CER)
 
-所使用 Algorithm : **SVTR** Backbone : **ResNet**
+所使用 Algorithm : **SVTR** Backbone : **MobileNetV1Enhance**
 
 |        | 中     | 英     | 日     | 白話字 | 漢羅   | 台羅   |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
