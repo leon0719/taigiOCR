@@ -7587,7 +7587,7 @@ nā chia̍h siuⁿ chōe,tùi sin-thé chiâⁿ bái;
 chit chióng kā berh piáu-ta̍t ê ì-sìr,
 tō sī góa ê chīr-iû sî-kan,
 chai-iáⁿ gír-giân ê tiōng-iàu-sèng,
-Kàm-chhat-īⁿ mā iau-kiû Hêng-chèng-īⁿ ài kā to-chhok＊kiám-thó kái-liông.
+Kàm-chhat-īⁿ mā iau-kiû Hêng-chèng-īⁿ ài kā to-chhokkiám-thó kái-liông.
 chèng-tī to̍k-li̍p chīr-chú liáu-āu,
 ta̍k-tèr lóng chin iu-bí,kám-tōng lâng,
 chok-chiá:Khu Bûn-sip
@@ -10343,7 +10343,7 @@ koh ē-sái kā só͘-ū ê hoân-ló,
 che tō sī chò-seng-lí berh sêng-kong ê thâu-seng-sò͘.
 lír thih-mn̂g tú thoah--khui,
 koh chiong chit hūn un-chêng kā thoân--lo̍h-khì.
-oân＊lâi,chit-ê kò͘-sīr sī án-ne khai-sí--ê:
+oânlâi,chit-ê kò͘-sīr sī án-ne khai-sí--ê:
 siōng-kài lī-piān--ê to̍h sī pōe-bōng ê âng-ku-kér,mī-ku,chháu-á-kér téng.
 gō͘ kang ê oa̍h-tāng kiu-chò chhun sì kang,
 chit chióng liân-bêng koan-hē khì-ia̍p ê hoàn-bōe cho͘-chit,
@@ -13680,7 +13680,6 @@ Pán-pún
 Ki-tok cháiⁿ-iūⁿ pí Liām-hu̍t khah-iâⁿ?
 Tāi-khài hun-chò kip.
 Chiong-hoà, Liân--sī Má-gio̍k nî, Phoaⁿ Î-cheng nî, Lí Thian-sióng nî.
-
 A-má: “Khah hó--a-lah ! ”
 Hiān-chāi ê Iû-thài-lâng
 Kau-thong sui-jiân put-piān, Chú ka-kī chòe-kang:
@@ -13927,7 +13926,7 @@ Chú iáu-kú lîn-bín, hû-chhî
 A.Jîn-bu̍t: Sio-hûi sai-hū, Tê-au, Oe-á, hâm-ô͘, Pûi-kng.
 Hó-táⁿ soan-thoân lóng bô kiaⁿ.
 thang éng-oán ho̍k-sāi Ki-tok
-Bú-sèng（）ê bô͘-hoān-chiá Mô͘-nî-ka
+Bú-sèngê bô͘-hoān-chiá Mô͘-nî-ka
 “Phah môa-chhiak iā-tio̍h khì-kàu Chhân-tiong-ng ? Tiàm lín-tau lâng-kheh-keng-á tiō-hó--a!”
 Kì-jiân siū-tio̍h chin hó ì,
 A-kong-á chiong i ê pó͘-thâu giâ--khí-lâi, chún-pī beh kā chām--lo̍h-khì.
@@ -13987,7 +13986,7 @@ Lāu cha-bó͘-lâng (Chhin-chhiūⁿ tio̍h kiaⁿ ê khóan). Êⁿ! Liân sí
 Chheⁿ-chhùi sī thun-lún.
 Tē-it-kù: Ū kiat chhun-chháu chiū ē pûi,
 Lāu-io (Kûn-húi Keh Chú-siú) iok hè
-Hok-tek chèng-sîn（）Thó͘-tī-kong
+Hok-tek chèng-sînThó͘-tī-kong
 Hit-ê lâng ìn kóng, Góa taⁿ chòe lâng tōa-tōa koh-iūⁿ chêng ji̍t.
 “A-tek, lí chai-iáⁿ Puigcerda Nuevo sī án-chóaⁿ lâi--ê ?”
 M: Hó lah, ū chi̍t ji̍t góa ē kap lín lâi sìn Siōng-tè.
@@ -13995,7 +13994,7 @@ Khēng-kiô
 Hoán-hoé tio̍h ū hāng:
 Úi-tāi ê kiō-hu
 Choan-gia̍p hâng-ōe_Cho-kong-chhin
-V. Pún-su ê su-miâ()
+V. Pún-su ê su-miâ
 Tio̍h chek-chū châi-pó tī Thiⁿ-nih
 C: ji̍t.
 Kim-ji̍t chū-tōng toā chhia-lō͘.
@@ -14011,7 +14010,7 @@ Kò͘-sū: “Bē kóe ê Má-lē”
 Ke-têng put-sî nāu chhai-chhai.
 Hióng-siū hok-khì bān-bān nî.
 “Sī lah! Chit-ê sî lán chí-ū kiû Sèng Sîn ê pang-chān, í-gōa bô pān-hoat”.
-Tâi-oân Bîn-kan Chong-kàu tiong ê Thoân-soat ()
+Tâi-oân Bîn-kan Chong-kàu tiong ê Thoân-soat
 g) Tuì hiān-chāi ê chóng-thāi.
 Chhin-chhiūⁿ chháu-á hoat tī hong-po͘;
 Iok-su-a
@@ -14097,7 +14096,7 @@ Siá Si Ài Ēng Jōa-chē Cheng-le̍k
 Giâ Chú Si̍p-kè gâu kian-jím,
 Ngá-kok kā in tiūⁿ-lâng Lia̍p-pan chhī iûⁿ ta̍k-hāng chhù-sū, pún-sin kam-goān hi-seng kan-khó͘.
 Tē chat: Iú-sú í-āu kàu Hô-lân léng Tâi uî-chí.
-Tē kài ê sek-iōng(:-:)().
+Tē kài ê sek-iōng(:-:).
 Tām-súi Tansui
 Kài-siāu Sèng-ōe
 T: Hó! Án-ni hó, ǹg-bāng góa ē thang pang-chān lí.
@@ -14109,7 +14108,7 @@ Chhàu-bí-leng
 Choân-lêng ê Siōng-tè Thiàⁿ ke̍k-toan (kè-thâu).
 Hu̍t-koaⁿ bōe ōe i góa:
 Bûn-bêng sī chōe-ok mah?
-Giû-tin Ki-tok-kàu Hoē-gī ()
+Giû-tin Ki-tok-kàu Hoē-gī
 Lūn kóng-oē
 Suî-sî toè Chú khì chio lâng.
 Tit-tio̍h Kiù ū Bêng ê Chèng-kìⁿ.
@@ -14322,7 +14321,7 @@ Kim-kù: Tiàm tī siúⁿ-sù góa khùi-la̍t ê, góa sū-sū lóng ōe. (Hui
 Tē gō͘ kéng
 Nā-sī Siōng-tè Kiáⁿ,
 Siōng-tè ia̍h thiàⁿ kèng I ê lâng,
-Ki-tok-tô͘ ê seng-oa̍h ()
+Ki-tok-tô͘ ê seng-oa̍h
 Tâi-oân iā sī sio̍k Lí ê,
 Lâi pàng-sak i ê sìⁿ-miā?
 “Ò͘, pháiⁿ-sè, góa m̄-sī Lîm thài-thài. Góa sī Lîm sió-chiá.”
@@ -14332,7 +14331,7 @@ Bōe Thang Khiàm-kheh--ê.
 Kam-tok ê bīn chheⁿ sún-sún, i chēng-chēng hiòng bo̍k-su ê bīn tia̍p-á-kú.
 Kéng Tiúⁿ-ló kuí-nā-ê chò Siông-siat pō͘-oân.
 Bassanio: Kā lí kóng góa to ū tòa--lâi, chiah, tī-chia lâi the̍h!
-Sîn ê ka-hō͘ ()
+Sîn ê ka-hō͘
 Lûn-tun
 Bo̍k-chiá kóng, Tio̍h, lín tit-tio̍h che khùi-la̍t, put-sî tio̍h ēng.
 Chit tia̍p saⁿ-kap lâi siūⁿ kui-hāng sū:
@@ -14648,7 +14647,7 @@ Tek-kok, Saⁿ pah bān kho͘.
 Bo̍h-tit ka-kī hun hó-pháiⁿ;
 Lí Hok-sêng kun kè-sin lah. Bat i ê lâng, thiaⁿ-tio̍h bô m̄ siong-sim.
 “Nā ū pàng-sim chiū bô tāi-chì.”
-Kó͘-chá ū chi̍t ê ha̍k-chiá kiò choè Kai-chhoan kî-oân (), i ū án-ni kóng:
+Kó͘-chá ū chi̍t ê ha̍k-chiá kiò choè Kai-chhoan kî-oân , i ū án-ni kóng:
 Kò͘-chip put-thong.
 Thiah Hì-phiò
 Koeh Tiâu-sêng e̍k
@@ -14799,7 +14798,7 @@ Sam-mâu Chin-kun
 iā ē pún-sin lo̍h-khì thâi.
 Taⁿ lán chit ê Sìn-keng, chiū-sī án-ni : -
 Hut-jiân thian-kun chhiùⁿ Ha-le-lu-iah:
-àm-sī ()：àm-tiong (bô bêng-bêng kóng) chí-sī hō͘ lâng put-ti put-kak lâi sūn-thàn.
+àm-sī ：àm-tiong (bô bêng-bêng kóng) chí-sī hō͘ lâng put-ti put-kak lâi sūn-thàn.
 Lia̍h choè tio̍h koh ji̍p bú-thai-lāi;
 Tang-sai lâm-pak khoàⁿ chin bêng,
 Lūn Siú-kí
@@ -14896,7 +14895,7 @@ Nî-kó͘-teng to̍k chin lī-hāi,
 Bô-m̄-tio̍h, i tio̍h-kiaⁿ. M̄-koh i ûn-ûn-á chhiò kóng, “Kin-á-ji̍t koh ū khah kiaⁿ--lâng-ê ”
 Lâu Iok-hān
 Chīn-tiong kóng, Góa khòaⁿ i ê bīn, khiok hó-khòaⁿ.
-Tī chia sūn-piān chhau Sèng-keng ha̍p-phek tē tiâu tēng-ki-lé () chò chham-khó:
+Tī chia sūn-piān chhau Sèng-keng ha̍p-phek tē tiâu tēng-ki-lé  chò chham-khó:
 P. K. U. ê kang-chok
 Goá iā o-ló lâi gîm.
 Lāu cha-bó͘-lâng: Chhìn-chhái sím-mi̍h chōe kiám lóng ē sià?
@@ -14930,11 +14929,11 @@ Sió-ông-chú cháu khì khòaⁿ mûi-kùi-hoe.
 OÂN-CHÉNG Ê BÛN-JĪ THOÂN-TŌ KI-KÒ͘
 Iú bêng bû si̍t
 En̂g-kng Siōng-tè, tit hok-khì.
-＊ ＊ ＊ ＊
+
 Ta̍k-hāng piān, chí-ū bô kiù-seng-chûn. "Góa bô ûi-ke̍h Thiⁿ ē hián-hiān." (Hēng : )
 Chì-hó pêng-iú. Chú Iâ-so͘
 Bó͘ lâng to iā bô toan-chèng,
-Gô͘ Lîm Choan Lú-sū()
+Gô͘ Lîm Choan Lú-sū
 Chit ê lâng, bat tù chi̍t-pún “Sè-kài it-chiu thôan-tō lú-hêng” ê chheh, chin sim-sek.
 Kán-thé-jī ūn-tōng kap Sèng-keng Tāi-chiòng-hoà
 XIII
