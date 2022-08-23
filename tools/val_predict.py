@@ -1,5 +1,6 @@
 import os
 
+
 language = [line[5:] for line in os.listdir('/train_data') if line.startswith('test') ]
 
 for lang in language:
