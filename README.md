@@ -1,8 +1,8 @@
 English | [Chinese](README_ch.md)
 
-# 主要功能
+# Applications
 
-辨識漢羅台文、白話字、全羅等等圖片文字並儲存成文字檔
+Recognize and save Chinese, mixed Hanji, Tâi-lô and Peh-oe-ji characters as text files
 
 ![image](images/result_ch.jpg "中")
 
@@ -12,39 +12,39 @@ English | [Chinese](README_ch.md)
 
 ![image](images/result_POJ.jpg "白話字")
 
-# 安裝環境
+# Installing
 
-下載 repository
+you can clone this git repo and install Docker images
 
 ```
 git clone https://github.com/leon0719/taigiOCR.git
 ```
 
-利用 Docker image 來建立環境，安裝函式庫 、 CUDA 及 CUDA Toolkit
+Using Docker image to build environment, install library, CUDA and CUDA Toolkit
 
 ```
-#建立 資料夾儲存圖片
+#Create a folder to save pictures
 mkdir img_data
 
 docker run --gpus all -it --name OCR_ENV -v /path/to/taigiOCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
 
 ```
 
-確認進入 Docker 環境
+Confirm that you are in the Docker environment
 
 ![image](/images/Docker_env.jpg "Docker環境")
 
-## 產生 DATASET
+## Generating DATASET
 
-使用 tools/train_test_split.py 生成 中、英、日、白話字、漢羅、台羅等文字圖片並切割訓練(90%)驗證(10%)，
-與模擬的測試資料
+Using tools/train_test_split.py to generate Chinese, English, Japanese, POJ, mixed Hanji and Tâi-lô characters and to cut the training set(90%) and validation set(10%).
+and simulated test data
 
 ```
 cd tools/
 python train_test_split.py
 ```
 
-生成結果
+Generating Results
 
 ![image](images/ch.png "中")
 ![image](images/en.jpg "英")
@@ -53,24 +53,24 @@ python train_test_split.py
 ![image](images/TAI_LO.jpg "台羅")
 ![image](images/HAN_LO.jpg "漢羅")
 
-訓練集與驗證集
+Training Set and Validation Set
 
-|          | 訓練集       | 驗證集      |
+|          | Training Set       | Validation Set      |
 | -------- | ------------ | ----------- |
-| 中       | 360,000      | 40,000      |
-| 英       | 360,000      | 40,000      |
-| 日       | 360,000      | 40,000      |
-| 白話字   | 360,000      | 40,000      |
-| 台羅     | 360,000      | 40,000      |
-| 漢羅     | 360,000      | 40,000      |
-| 總共(張) | 2,160,000    | 240,000     |
-| 字元數   | 100,000,000+ | 17,000,000+ |
+| Chinese       | 360,000      | 40,000      |
+| English |       | 360,000      | 40,000      |
+| Japanese       | 360,000      | 40,000      |
+| POJ   | 360,000      | 40,000      |
+| Tâi-lô     | 360,000      | 40,000      |
+| mixed Hanji     | 360,000      | 40,000      |
+| Total(Images) | 2,160,000    | 240,000     |
+| Number of characters   | 100,000,000+ | 17,000,000+ |
 
-資料夾樹狀圖
+Folder Trees
 
 ```
 /train_data/
-    (模擬測試資料)
+    (Simulation test data)
     ├── test_ch
     ├── test_en
     ├── test_HAN_LO
@@ -78,40 +78,40 @@ python train_test_split.py
     ├── test_POJ
     ├── test_TAI_LO
     └── train_data
-        ├── test (驗證集 Img)
-        ├── test_label.txt (驗證集 Label)
-        ├── train (訓練集 Img)
-        └── train_label.txt (訓練集 Label)
+        ├── test (Validation set Img)
+        ├── test_label.txt (Validation set Labels)
+        ├── train (Training Set Img)
+        └── train_label.txt (Training Set Labels)
 ```
 
-## 如何訓練
+## Training
 
-修改 PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml 設定檔
+Modify the PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml configuration file
 
-|                         | 修改為                                                                                |
+|                         | Modify                                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------------- |
-| num_workers             | GPU 個數                                                                              |
-| character_dict_path     | 自定義字典路徑 e.x. ppocr/utils/dict/total_dic.txt                                    |
+| num_workers             | Number of GPUs                                                                              |
+| character_dict_path     | Customized dictionary path e.x. ppocr/utils/dict/total_dic.txt                                    |
 | Architecture-Algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
 | Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
-修改後即可開始訓練
+Start training after modification
 
 ```
 cd PaddleOCR
-# 需修改 train.sh --gpus 參數 e.x. 3張GPU --gpus '0,1,2'
+# Need to modify train.sh --gpus parameters e.x. 3 GPUs --gpus '0,1,2'
 sh train.sh
 ```
 
-若暫時中斷訓練想繼續訓練可使用 re-train.sh 恢復訓練
+If you temporarily interrupt training and want to continue, use re-train.sh to resume training
 
 ```
 cd PaddleOCR
-# 需修改 re-train.sh --gpus 參數
+# Need to modify re-train.sh --gpus parameters
 sh re-train.sh
 ```
 
-訓練完成後在 output 目錄下會有保存後的模型與訓練目錄
+The saved model and training directory will be available under the output directory after the training is completed
 
 ```
 my_ocr_model/
@@ -125,37 +125,37 @@ my_ocr_model/
 └── train.log
 ```
 
-## 各個語言預測結果
+## Predicted results by language
 
-使用 tools/test_data_predict.py 對**模擬的測試圖片資料**進行預測並計算 CER
+Using tools/test_data_predict.py to predict and calculate CERs for **simulated test image data**.
 
 ```
 cd tools/
 python test_data_predict.py
 ```
 
-預測結果保存在 PaddleOCR/result 中
+Predicted results are saved in PaddleOCR/result
 
-## 預測結果 (CER)
+## Predicted Results (CER)
 
-所使用 Algorithm : **SVTR** Backbone : **MobileNetV1Enhance**
+Algorithm used : **SVTR** Backbone used : **MobileNetV1Enhance**
 
-|        | 漢字   | 英     | 白話字 | 漢羅   |
+|        | Chinese Characters   | English     | POJ | mixed Hanji   |
 | ------ | ------ | ------ | ------ | ------ |
 | CER(%) | 3.949% | 0.166% | 2.350% | 1.908% |
-| 字元數 | 12050  | 17784  | 29549  | 10138  |
+| Number of characters | 12050  | 17784  | 29549  | 10138  |
 
-## 應用
+## Applications
 
-將訓練好的**文字辨認**模型轉換成推理模型
+Converting trained **text recognition** models into inference models
 
 ```
 cd PaddleOCR
 python3 tools/export_model.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.save_inference_dir=./rec_inference/
 ```
 
-轉換過後會在 PaddleOCR/rec_inference 目錄下
-資料夾樹狀圖
+After conversion, it will be in the PaddleOCR/rec_inference directory.
+Folder Tree
 
 ```
 rec_inference/
@@ -164,18 +164,18 @@ rec_inference/
 └── inference.pdmodel
 ```
 
-## 如何預測整張圖片 (文字偵測模型+文字辨認模型)
+## How to predict the whole picture (text detection model + text recognition model)
 
-使用 PaddleOCR/tools/infer/predict_system.py 對圖片進行預測
+Use PaddleOCR/tools/infer/predict_system.py to make predictions about the pictures
 
 ```
-#選擇想要預測的圖片路徑 --image_dir
-#字型路徑 --vis_font_path
+#Image Path --image_dir
+#Font Path --vis_font_path
 cd PaddleOCR
 python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_model_dir="./rec_inference" --rec_char_dict_path=./ppocr/utils/dict/total_dic.txt --vis_font_path=./test/font/ch_en.ttf --image_dir=./test/test_ch/ch.jpg
 ```
 
-預測結果會存在 PaddleOCR/inference_results 目錄下
+Prediction results are saved under the PaddleOCR/inference_results directory
 
 ## Reference
 
