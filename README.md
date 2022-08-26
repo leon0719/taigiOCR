@@ -2,7 +2,7 @@ English | [Chinese](README_ch.md)
 
 # Applications
 
-Recognize and save Chinese, mixed Hanji, Tâi-lô and Peh-oe-ji characters as text files
+Recognize and save Chinese,English ,Japanese ,mixed Hanji, Tâi-lô and Peh-oe-ji characters as text files
 
 ![image](images/result_ch.jpg "中")
 
@@ -58,7 +58,7 @@ Training Set and Validation Set
 |          | Training Set       | Validation Set      |
 | -------- | ------------ | ----------- |
 | Chinese       | 360,000      | 40,000      |
-| English |       | 360,000      | 40,000      |
+| English |      360,000      | 40,000      |
 | Japanese       | 360,000      | 40,000      |
 | POJ   | 360,000      | 40,000      |
 | Tâi-lô     | 360,000      | 40,000      |
@@ -125,7 +125,7 @@ my_ocr_model/
 └── train.log
 ```
 
-## Predicted results by language
+## Predicted results for each language
 
 Using tools/test_data_predict.py to predict and calculate CERs for **simulated test image data**.
 
@@ -135,15 +135,6 @@ python test_data_predict.py
 ```
 
 Predicted results are saved in PaddleOCR/result
-
-## Predicted Results (CER)
-
-Algorithm used : **SVTR** Backbone used : **MobileNetV1Enhance**
-
-|        | Chinese Characters   | English     | POJ | mixed Hanji   |
-| ------ | ------ | ------ | ------ | ------ |
-| CER(%) | 3.949% | 0.166% | 2.350% | 1.908% |
-| Number of characters | 12050  | 17784  | 29549  | 10138  |
 
 ## Applications
 
