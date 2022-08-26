@@ -1,7 +1,7 @@
 Global:
   debug: false
   use_gpu: true
-  epoch_num: 200
+  epoch_num: 50
   log_smooth_window: 20
   print_batch_step: 10
   save_model_dir: ./output/my_ocr_model
@@ -103,7 +103,7 @@ Train:
     shuffle: true
     batch_size_per_card: 96
     drop_last: true
-    num_workers: 8
+    num_workers: 10
 Eval:
   dataset:
     name: SimpleDataSet
@@ -128,4 +128,4 @@ Eval:
     shuffle: false
     drop_last: false
     batch_size_per_card: 96
-    num_workers: 8
+    num_workers: 10
