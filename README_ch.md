@@ -1,4 +1,5 @@
-English | [Chinese](README_ch.md)
+[English](README.md) | Chinese
+
 
 # 主要功能
 
