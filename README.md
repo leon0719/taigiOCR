@@ -127,11 +127,11 @@ my_ocr_model/
 
 ## Predicted results for each language
 
-Using tools/test_data_predict.py to predict and calculate CERs for **simulated test image data**.
+Using tools/Real_Test_predict.py to predict and calculate CERs for **simulated test image data**.
 
 ```
 cd tools/
-python test_data_predict.py
+python Real_Test_predict.py
 ```
 
 Predicted results are saved in PaddleOCR/result
