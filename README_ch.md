@@ -1,6 +1,5 @@
 [English](README.md) | Chinese
 
-
 # 主要功能
 
 辨識中、英、日、漢羅台文、白話字、全羅等等圖片文字並儲存成文字檔
@@ -128,11 +127,11 @@ my_ocr_model/
 
 ## 各個語言預測結果
 
-使用 tools/test_data_predict.py 對**模擬的測試圖片資料**進行預測並計算 CER
+使用 tools/Real_Test_predict.py 對**模擬的測試圖片資料**進行預測並計算 CER
 
 ```
 cd tools/
-python test_data_predict.py
+python Real_Test_predict.py
 ```
 
 預測結果保存在 PaddleOCR/result 中
