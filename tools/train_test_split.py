@@ -34,13 +34,13 @@ def Gerner_en_img():
     print('生成en_img_data')
     # 參數 -c 圖片數量 -i 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 75000 -i dicts/en/en_article.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/en')
+        f'python run.py  -c 75000 -i dicts/en/en_article.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/en')
     os.system(
-        f'python run.py  -c 75000 -i dicts/en/en_article2.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/en')
+        f'python run.py  -c 75000 -i dicts/en/en_article2.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/en')
     os.system(
         f'python run.py  -c 75000 -i dicts/en/en_article3.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/en')
     os.system(
-        f'python run.py  -c 75000 -i dicts/en/en_article4.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 2 -rbl --output_dir {save_img_path}/en')
+        f'python run.py  -c 75000 -i dicts/en/en_article4.txt -fd fonts/train_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 1 --output_dir {save_img_path}/en')
 
     en_img_path = os.path.join(save_img_path, 'en')
     for file in os.listdir(en_img_path):
@@ -62,13 +62,13 @@ def Gerner_en_img():
     os.rmdir(en_img_path)
 
     os.system(
-        f'python run.py  -c 2500 -i dicts/en/en_article.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {test_en_img_path}')
+        f'python run.py  -c 2500 -i dicts/en/en_article.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_en_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/en/en_article2.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {test_en_img_path}')
+        f'python run.py  -c 2500 -i dicts/en/en_article2.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_en_img_path}')
     os.system(
         f'python run.py  -c 2500 -i dicts/en/en_article3.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {test_en_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/en/en_article4.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 2 -rbl --output_dir {test_en_img_path}')
+        f'python run.py  -c 2500 -i dicts/en/en_article4.txt -fd fonts/test_font/en/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 1 --output_dir {test_en_img_path}')
     for file in os.listdir(test_en_img_path):
         os.rename(
             os.path.join(test_en_img_path, file),
@@ -81,15 +81,15 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 60000 -i dicts/ch/chinese_article.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/ch')
+        f'python run.py  -c 60000 -i dicts/ch/chinese_article.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/ch')
     os.system(
-        f'python run.py  -c 60000 -i dicts/ch/chinese_article2.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/ch')
+        f'python run.py  -c 60000 -i dicts/ch/chinese_article2.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/ch')
     os.system(
         f'python run.py  -c 60000 -i dicts/ch/chinese_article3.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/ch')
     os.system(
-        f'python run.py  -c 60000 -i dicts/ch/chinese_article4.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {save_img_path}/ch')
+        f'python run.py  -c 60000 -i dicts/ch/chinese_article4.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/ch')
     os.system(
-        f'python run.py  -c 60000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 --output_dir {save_img_path}/ch')
+        f'python run.py  -c 60000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 --output_dir {save_img_path}/ch')
     ch_img_path = os.path.join(save_img_path, 'ch')
     for file in os.listdir(ch_img_path):
         os.rename(
@@ -110,15 +110,15 @@ def Gerner_ch_img():
     os.rmdir(ch_img_path)
 
     os.system(
-        f'python run.py  -c 2000 -i dicts/ch/chinese_article.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {test_ch_img_path}')
+        f'python run.py  -c 2000 -i dicts/ch/chinese_article.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_ch_img_path}')
     os.system(
-        f'python run.py  -c 2000 -i dicts/ch/chinese_article2.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {test_ch_img_path}')
+        f'python run.py  -c 2000 -i dicts/ch/chinese_article2.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_ch_img_path}')
     os.system(
         f'python run.py  -c 2000 -i dicts/ch/chinese_article3.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {test_ch_img_path}')
     os.system(
-        f'python run.py  -c 2000 -i dicts/ch/chinese_article4.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {test_ch_img_path}')
+        f'python run.py  -c 2000 -i dicts/ch/chinese_article4.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {test_ch_img_path}')
     os.system(
-        f'python run.py  -c 2000 -i dicts/ch/chinese_article5.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 --output_dir {test_ch_img_path}')
+        f'python run.py  -c 2000 -i dicts/ch/chinese_article5.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 --output_dir {test_ch_img_path}')
     for file in os.listdir(test_ch_img_path):
         os.rename(
             os.path.join(test_ch_img_path, file),
@@ -131,13 +131,13 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/POJ')
+        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/POJ')
     os.system(
-        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus2.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 --output_dir {save_img_path}/POJ')
+        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus2.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/POJ')
     os.system(
         f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus3.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/POJ')
     os.system(
-        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus4.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 2 -rbl --output_dir {save_img_path}/POJ')
+        f'python run.py  -c 75000 -i dicts/POJ/POJ_corpus4.txt -fd fonts/train_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 1 --output_dir {save_img_path}/POJ')
     POJ_img_path = os.path.join(save_img_path, 'POJ')
     for file in os.listdir(POJ_img_path):
         os.rename(
@@ -158,13 +158,13 @@ def Gerner_POJ_img():
     os.rmdir(POJ_img_path)
 
     os.system(
-        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {test_POJ_img_path}')
+        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_POJ_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus2.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 --output_dir {test_POJ_img_path}')
+        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus2.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_POJ_img_path}')
     os.system(
         f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus3.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 -k 3 -rk --output_dir {test_POJ_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus4.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 2 -rbl --output_dir {test_POJ_img_path}')
+        f'python run.py  -c 2500 -i dicts/POJ/POJ_corpus4.txt -fd fonts/test_font/POJ/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -bl 1 --output_dir {test_POJ_img_path}')
 
     for file in os.listdir(test_POJ_img_path):
         os.rename(
@@ -178,13 +178,13 @@ def Gerner_TAI_LO_img():
     print('生成TAI_LO_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/TAI_LO')
+        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/TAI_LO')
     os.system(
-        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus2.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/TAI_LO')
+        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus2.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/TAI_LO')
     os.system(
         f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus3.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {save_img_path}/TAI_LO')
     os.system(
-        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus4.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {save_img_path}/TAI_LO')
+        f'python run.py  -c 75000 -i dicts/TAI_LO/TAI_LO_corpus4.txt -fd fonts/train_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/TAI_LO')
     TAI_LO_img_path = os.path.join(save_img_path, 'TAI_LO')
     for file in os.listdir(TAI_LO_img_path):
         os.rename(
@@ -204,13 +204,13 @@ def Gerner_TAI_LO_img():
                     os.path.join(test_path, file))
     os.rmdir(TAI_LO_img_path)
     os.system(
-        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus.txt -fd fonts/test_font/TAI_LO/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 --output_dir {test_TAI_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus.txt -fd fonts/test_font/TAI_LO/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_TAI_LO_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus2.txt -fd fonts/test_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {test_TAI_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus2.txt -fd fonts/test_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_TAI_LO_img_path}')
     os.system(
         f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus3.txt -fd fonts/test_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 -b 3 -k 3 -rk --output_dir {test_TAI_LO_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus4.txt -fd fonts/test_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {test_TAI_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/TAI_LO/TAI_LO_corpus4.txt -fd fonts/test_font/TAI_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {test_TAI_LO_img_path}')
     for file in os.listdir(test_TAI_LO_img_path):
         os.rename(
             os.path.join(test_TAI_LO_img_path, file),
@@ -223,13 +223,13 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑 -k 傾斜角度 -rk 隨機傾斜
     os.system(
-        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/HAN_LO')
+        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/HAN_LO')
     os.system(
-        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus2.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/HAN_LO')
+        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus2.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/HAN_LO')
     os.system(
         f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus3.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/HAN_LO')
     os.system(
-        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus4.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {save_img_path}/HAN_LO')
+        f'python run.py  -c 75000 -i dicts/HAN_LO/HAN_LO_corpus4.txt -fd fonts/train_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/HAN_LO')
     HAN_LO_img_path = os.path.join(save_img_path, 'HAN_LO')
     for file in os.listdir(HAN_LO_img_path):
         os.rename(
@@ -249,13 +249,13 @@ def Gerner_HAN_LO_img():
                     os.path.join(test_path, file))
     os.rmdir(HAN_LO_img_path)
     os.system(
-        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus.txt -fd fonts/test_font/HAN_LO/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 --output_dir {test_HAN_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus.txt -fd fonts/test_font/HAN_LO/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_HAN_LO_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus2.txt -fd fonts/test_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {test_HAN_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus2.txt -fd fonts/test_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_HAN_LO_img_path}')
     os.system(
         f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus3.txt -fd fonts/test_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {test_HAN_LO_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus4.txt -fd fonts/test_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {test_HAN_LO_img_path}')
+        f'python run.py  -c 2500 -i dicts/HAN_LO/HAN_LO_corpus4.txt -fd fonts/test_font/HAN_LO/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {test_HAN_LO_img_path}')
     for file in os.listdir(test_HAN_LO_img_path):
         os.rename(
             os.path.join(test_HAN_LO_img_path, file),
@@ -268,13 +268,13 @@ def Gerner_jp_img():
     print('生成jp_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 75000 -i dicts/jp/jp_corpus.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) --character_spacing 3 -b 3 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 75000 -i dicts/jp/jp_corpus.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 75000 -i dicts/jp/jp_corpus2.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 75000 -i dicts/jp/jp_corpus2.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {save_img_path}/jp')
     os.system(
         f'python run.py  -c 75000 -i dicts/jp/jp_corpus3.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 75000 -i dicts/jp/jp_corpus4.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {save_img_path}/jp')
+        f'python run.py  -c 75000 -i dicts/jp/jp_corpus4.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/jp')
     jp_img_path = os.path.join(save_img_path, 'jp')
     for file in os.listdir(jp_img_path):
         os.rename(
@@ -294,13 +294,13 @@ def Gerner_jp_img():
                     os.path.join(test_path, file))
     os.rmdir(jp_img_path)
     os.system(
-        f'python run.py  -c 2500 -i dicts/jp/jp_corpus.txt -fd fonts/test_font/jp/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -f 48 --output_dir {test_jp_img_path}')
+        f'python run.py  -c 2500 -i dicts/jp/jp_corpus.txt -fd fonts/test_font/jp/ -b 3 -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 --output_dir {test_jp_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/jp/jp_corpus2.txt -fd fonts/test_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 3 -f 48 -b 3 --output_dir {test_jp_img_path}')
+        f'python run.py  -c 2500 -i dicts/jp/jp_corpus2.txt -fd fonts/test_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 --output_dir {test_jp_img_path}')
     os.system(
         f'python run.py  -c 2500 -i dicts/jp/jp_corpus3.txt -fd fonts/test_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk --output_dir {test_jp_img_path}')
     os.system(
-        f'python run.py  -c 2500 -i dicts/jp/jp_corpus4.txt -fd fonts/test_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 2 -rbl --output_dir {test_jp_img_path}')
+        f'python run.py  -c 2500 -i dicts/jp/jp_corpus4.txt -fd fonts/test_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {test_jp_img_path}')
     for file in os.listdir(test_jp_img_path):
         os.rename(
             os.path.join(test_jp_img_path, file),
@@ -347,7 +347,7 @@ if __name__ == '__main__':
     Gerner_POJ_img()
     Gerner_TAI_LO_img()
     Gerner_HAN_LO_img()
-    Gerner_jp_img()
+    #Gerner_jp_img()
     # -------------------------
     Gerner_train_test_label()
 
