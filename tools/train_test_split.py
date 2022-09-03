@@ -89,7 +89,7 @@ def Gerner_ch_img():
     os.system(
         f'python run.py  -c 80000 -i dicts/ch/chinese_article4.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/ch')
     os.system(
-        f'python run.py  -c 80000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 -or 1 --output_dir {save_img_path}/temp')
+        f'python run.py  -c 80000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 --output_dir {save_img_path}/ch')
     ch_img_path = os.path.join(save_img_path, 'ch')
     for file in os.listdir(ch_img_path):
         os.rename(
@@ -97,17 +97,17 @@ def Gerner_ch_img():
             os.path.join(ch_img_path, file.replace(' ', '_'))
         )
 
-    ch_temp_img_path = os.path.join(save_img_path, 'temp')
-    for file in os.listdir(ch_temp_img_path):
-        os.rename(
-            os.path.join(ch_temp_img_path, file),
-            os.path.join(ch_temp_img_path, file.replace(' ', '_'))
-        )
-    for img in os.listdir(ch_temp_img_path):
-        old_img = Image.open(os.path.join(ch_temp_img_path,img))
-        new_img = old_img.rotate(90,expand=True)
-        new_img.save(os.path.join(ch_img_path,img))
-    shutil.rmtree(os.path.join(save_img_path, 'temp'))
+    # ch_temp_img_path = os.path.join(save_img_path, 'temp')
+    # for file in os.listdir(ch_temp_img_path):
+    #     os.rename(
+    #         os.path.join(ch_temp_img_path, file),
+    #         os.path.join(ch_temp_img_path, file.replace(' ', '_'))
+    #     )
+    # for img in os.listdir(ch_temp_img_path):
+    #     old_img = Image.open(os.path.join(ch_temp_img_path,img))
+    #     new_img = old_img.rotate(90,expand=True)
+    #     new_img.save(os.path.join(ch_img_path,img))
+    # shutil.rmtree(os.path.join(save_img_path, 'temp'))
 
     data_ch = os.listdir(ch_img_path)
     train_ch, test_ch = train_test_split(
@@ -277,15 +277,15 @@ def Gerner_jp_img():
     print('生成jp_img_data')
     # 參數 -c 圖片數量 -l 語料庫 -fd 字型資料夾 -b 背景圖片 -t cpu核心數(可加快生成圖片速度) -d 加入扭曲雜訊 -k傾斜角度 -rk 隨機左右傾斜 -bl 模糊程度 -rbl 隨機模糊 -f 圖片大小 (預設是32) --output_dir 圖片保存資料夾路徑
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0 -or 1 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 0  --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus2.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2 -or 1 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus2.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -d 2 -b 2  --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus3.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk -or 1 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus3.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -k 3 -rk  --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus4.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 -or 1 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus4.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1  --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 -or 1 --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1  --output_dir {save_img_path}/jp')
     jp_img_path = os.path.join(save_img_path, 'jp')
     for file in os.listdir(jp_img_path):
         os.rename(
