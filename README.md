@@ -55,16 +55,16 @@ Generating Results
 
 Training Set and Validation Set
 
-|          | Training Set       | Validation Set      |
-| -------- | ------------ | ----------- |
-| Chinese       | 360,000      | 40,000      |
-| English |      360,000      | 40,000      |
-| Japanese       | 360,000      | 40,000      |
-| POJ   | 360,000      | 40,000      |
-| Tâi-lô     | 360,000      | 40,000      |
-| mixed Hanji     | 360,000      | 40,000      |
-| Total(Images) | 2,160,000    | 240,000     |
-| Number of characters   | 100,000,000+ | 17,000,000+ |
+|                      | Training Set | Validation Set |
+| -------------------- | ------------ | -------------- |
+| Chinese              | 360,000      | 40,000         |
+| English              | 360,000      | 40,000         |
+| Japanese             | 360,000      | 40,000         |
+| POJ                  | 360,000      | 40,000         |
+| Tâi-lô               | 360,000      | 40,000         |
+| mixed Hanji          | 360,000      | 40,000         |
+| Total(Images)        | 2,160,000    | 240,000        |
+| Number of characters | 100,000,000+ | 17,000,000+    |
 
 Folder Trees
 
@@ -88,10 +88,10 @@ Folder Trees
 
 Modify the PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml configuration file
 
-|                         | Modify                                                                                 |
+|                         | Modify                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------- |
-| num_workers             | Number of GPUs                                                                              |
-| character_dict_path     | Customized dictionary path e.x. ppocr/utils/dict/total_dic.txt                                    |
+| num_workers             | Number of GPUs                                                                        |
+| character_dict_path     | Customized dictionary path e.x. ppocr/utils/dict/total_dic.txt                        |
 | Architecture-Algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
 | Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
