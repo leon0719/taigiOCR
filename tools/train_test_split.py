@@ -89,25 +89,13 @@ def Gerner_ch_img():
     os.system(
         f'python run.py  -c 80000 -i dicts/ch/chinese_article4.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {save_img_path}/ch')
     os.system(
-        f'python run.py  -c 80000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 --output_dir {save_img_path}/ch')
+        f'python run.py  -c 80000 -i dicts/ch/chinese_article5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 -or 1 --output_dir {save_img_path}/ch')
     ch_img_path = os.path.join(save_img_path, 'ch')
     for file in os.listdir(ch_img_path):
         os.rename(
             os.path.join(ch_img_path, file),
             os.path.join(ch_img_path, file.replace(' ', '_'))
         )
-
-    # ch_temp_img_path = os.path.join(save_img_path, 'temp')
-    # for file in os.listdir(ch_temp_img_path):
-    #     os.rename(
-    #         os.path.join(ch_temp_img_path, file),
-    #         os.path.join(ch_temp_img_path, file.replace(' ', '_'))
-    #     )
-    # for img in os.listdir(ch_temp_img_path):
-    #     old_img = Image.open(os.path.join(ch_temp_img_path,img))
-    #     new_img = old_img.rotate(90,expand=True)
-    #     new_img.save(os.path.join(ch_img_path,img))
-    # shutil.rmtree(os.path.join(save_img_path, 'temp'))
 
     data_ch = os.listdir(ch_img_path)
     train_ch, test_ch = train_test_split(
@@ -131,7 +119,7 @@ def Gerner_ch_img():
     os.system(
         f'python run.py  -c 2000 -i dicts/ch/chinese_article4.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1 --output_dir {test_ch_img_path}')
     os.system(
-        f'python run.py  -c 2000 -i dicts/ch/chinese_article5.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 --output_dir {test_ch_img_path}')
+        f'python run.py  -c 2000 -i dicts/ch/chinese_article5.txt -fd fonts/test_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 -or 1 --output_dir {test_ch_img_path}')
     for file in os.listdir(test_ch_img_path):
         os.rename(
             os.path.join(test_ch_img_path, file),
@@ -285,7 +273,7 @@ def Gerner_jp_img():
     os.system(
         f'python run.py  -c 80000 -i dicts/jp/jp_corpus4.txt -fd fonts/train_font/jp/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 3 -f 48 -bl 1  --output_dir {save_img_path}/jp')
     os.system(
-        f'python run.py  -c 80000 -i dicts/jp/jp_corpus5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1  --output_dir {save_img_path}/jp')
+        f'python run.py  -c 80000 -i dicts/jp/jp_corpus5.txt -fd fonts/train_font/ch/ -t $(cat /proc/cpuinfo | grep "processor" |  wc -l) -b 1 -or 1 --output_dir {save_img_path}/jp')
     jp_img_path = os.path.join(save_img_path, 'jp')
     for file in os.listdir(jp_img_path):
         os.rename(
