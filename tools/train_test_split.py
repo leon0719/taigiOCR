@@ -59,7 +59,6 @@ def closing(img_path, save_en_path):
             image, cv2.MORPH_CLOSE, kernel=kernel, iterations=1)
         cv2.imwrite(os.path.join(save_en_path, file), closing)
 
-
 # -------------------------------------------------------
 
 
@@ -687,9 +686,8 @@ def Gerner_train_test_label():
     print('test_img:', len(os.listdir(vaild_path)))
 
 
-if __name__ == '__main__':
+def main():
     # 選想要製作資料的語言 不想製作哪個語言可註解掉
-
     Gerner_en_img()
     Gerner_ch_img()
     Gerner_POJ_img()
@@ -698,7 +696,6 @@ if __name__ == '__main__':
     Gerner_jp_img()
     # -------------------------
     Gerner_train_test_label()
-
     '''
     執行後資料夾樹狀圖
     save_img_path/
@@ -714,3 +711,8 @@ if __name__ == '__main__':
         ├── train
         └── train_label.txt
     '''
+
+
+if __name__ == '__main__':
+
+    main()
