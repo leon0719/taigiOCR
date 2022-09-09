@@ -688,12 +688,12 @@ def Gerner_train_test_label():
 
 def main():
     # 選想要製作資料的語言 不想製作哪個語言可註解掉
-    # Gerner_en_img()
-    # Gerner_ch_img()
+    Gerner_en_img()
+    Gerner_ch_img()
     Gerner_POJ_img()
-    # Gerner_TAI_LO_img()
-    # Gerner_HAN_LO_img()
-    # Gerner_jp_img()
+    Gerner_TAI_LO_img()
+    Gerner_HAN_LO_img()
+    Gerner_jp_img()
     # -------------------------
     Gerner_train_test_label()
     '''
