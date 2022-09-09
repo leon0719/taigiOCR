@@ -508,7 +508,7 @@ sī sió-thâu seng khì kah thâu-ke chhe̍k hó-sè ê kè-siàu,
 m̄-koh,chit kúi-cha̍p tang lāi,
 iáu bô thiaⁿ-kóng kè-siàu ū lak--kòe,
 tī Tâi-oân che sī sù-siâng ê tāi-chì,
-liân Au-bí sian-chìn ê bûn-bêng kok-ka mā sī án-ne/án-ni.
+liân Au-bí sian-chìn ê bûn-bêng kok-ka mā sī án-neán-ni.
 Kah-nā kóng ū tiāⁿ ê sí-ti-á-kè,
 chhia sò͘ ku̍t khah-ke,
 niá hiàng ê chóng chîⁿ-gia̍h tō ē khah chē,
@@ -2205,7 +2205,7 @@ tō chio Tek-hôa kah Pó-liân tàu-saⁿ-kāng,
 in ang-á-bó͘ lóng sī chin piàⁿ-sè ê Tâi-gí-bûn kang-chok-chiá.
 īⁿ-tiúⁿ chio goán khì i ê koaⁿ-tí chia̍h-pn̄g,
 thó-lūn iōng-lī ê kiōng-sek,
-khó-pí“góa/goán”,“lí/lín”,“i/in”,
+khó-pí“góagoán”,“lílín”,“iin”,
 che sī tan,ho̍k-sò͘ ê tùi-èng,
 siá hàn-jī bô kám-kak,
 m̄-koh nā siá Lô-má-jī,
@@ -4403,13 +4403,13 @@ A-hun m̄-chai iáⁿ ūi-siáⁿ-mi̍h i ê hó-pêng-iú thái-ē tùi i án-n
 Āu--lâi,i siūⁿ-tio̍h A-thô kám sī thau-khòaⁿ i ê pho̍k-á lāi-bīn siá ê mi̍h-kiāⁿ.
 Chit ê sî-chūn,A-tang chai-iáⁿ A-hun hō͘ lâng khi-hū,
 hiông-hiông-kông-kông khì khòaⁿ A-hun ū án-chóaⁿ bô.
-Kî-si̍t A-tang pún-lâi bô teh/leh kah-ì A-hun,
-m̄-koh/m̄-kò/m̄-kù āu--lâi hām/hâm i tàu-tīn,i kám-kak i ê lâng chiok un-loán--ê,tō/tiō/tio̍h/to̍h saⁿh-tio̍h A-hun.
-A-hun kàu chit-má koh m̄-chai iáⁿ,i ài ê lâng mā teh/leh kah-ì i.
+Kî-si̍t A-tang pún-lâi bô tehleh kah-ì A-hun,
+m̄-kohm̄-kòm̄-kù āu--lâi hāmhâm i tàu-tīn,i kám-kak i ê lâng chiok un-loán--ê,tōtiōtio̍hto̍h saⁿh-tio̍h A-hun.
+A-hun kàu chit-má koh m̄-chai iáⁿ,i ài ê lâng mā tehleh kah-ì i.
 Nā-sī i chai,it-tēng chiok hoaⁿ-hí--ê.
-Hit ê A-tang kā A-hun chia̍h-chheⁿ-kha ê lâng mē/mā kah chiâⁿ tōa-siaⁿ,chin hùn-nō͘,chhōe/chhē hiah ê lâng sǹg-siàu.
-Āu-lâi,in nn̄g ê lâng tō/tiō/tio̍h/to̍h chò-hóe--ah,
-A-tang sī chin-sim teh/leh kah-ì A-hun,A-hun mā kám-kak chiok hēng-hok--ê.
+Hit ê A-tang kā A-hun chia̍h-chheⁿ-kha ê lâng mēmā kah chiâⁿ tōa-siaⁿ,chin hùn-nō͘,chhōechhē hiah ê lâng sǹg-siàu.
+Āu-lâi,in nn̄g ê lâng tōtiōtio̍hto̍h chò-hóe--ah,
+A-tang sī chin-sim tehleh kah-ì A-hun,A-hun mā kám-kak chiok hēng-hok--ê.
 Liân i ê pêng-iú A-thô mā chin-sim chiok-hok in nn̄g lâng ē-tàng hēng-hok.
 Ha̍k-tiúⁿ A-tang khó--tio̍h ê tāi-ha̍k,āu-lâi A-hun mā khó--tio̍h,
 in nn̄g ê lâng ê ài-chêng kò͘-sū mā thoân kàu choân ha̍k-hāu lóng chai-iáⁿ--ah!
@@ -5638,7 +5638,7 @@ it kiú pat chhit nî Tâi-oân kái-tû saⁿ-cha̍p-peh tang lâi ê kài-giâ
 ap-le̍k put-chí tōa,
 bián-hùi choan-sòaⁿ khòng pat khòng khòng pat sù it chhit sam ngó͘
 saⁿ hāng tī saⁿ-cha̍p hun-cheng lāi-té oân-sêng?
-khó-pí“góa/goán”,“lí/lín”,“i/in”,
+khó-pí“góagoán”,“lílín”,“iin”,
 sì-pah khòng saⁿ hō,chhiáⁿ-lâi saⁿ hō kūi-tâi
 kî-tiong ū chi̍t phiⁿ bûn-chiong kóng-tio̍h chin chē lîm-bū tiôⁿ-só͘ ê su̍t-gí,
 sī chò siáⁿ khoán ūn-tōng?

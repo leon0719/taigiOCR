@@ -1645,7 +1645,7 @@ tsham tsi̍t kûn hí-ài tāi-tsū-jiân ê hó-pîng-iú,
 tsuè-tīn tuì Tsiong-huà lo̍h-lâm,
 khì Ko-hiông-tshī Tuā-siā-khu ê Kuan-im-suann hong-kíng-khu tshit-thô.
 tsá-khí peh tiám tsó-iū,
-gún ê iû-lám-tshia tiō lo̍h Tiong-san-ko ê Lâm-tsú / Tuā-siā kau-liû-tō--ah,
+gún ê iû-lám-tshia tiō lo̍h Tiong-san-ko ê Lâm-tsú  Tuā-siā kau-liû-tō--ah,
 kè-sio̍k hiòng-tsîng sái tsha-put-to jī-tsa̍p hun-tsing,
 tiō lâi kàu Kuan-im-suann Tshuì-pîn-gâm Tāi-kak-sī--ah.
 gún kah tsi̍t-tuā-tīn suann-iú e-e-tīn-tīn kiânn-kuè “tshuì pîn iu kíng” ê pâi-lâu,
@@ -2448,7 +2448,7 @@ kā înn-tsu̍t-á tsìm nńg tsiah-koh e-tsò kué-tsionn,
 teh ta nuá sîng kué-tshè,
 pau-ānn liáu-āu iōng muâ-tik-ha̍h-á pau hó,
 tsiah-koh iōng kiâm-tsháu pa̍k-tsò kui kuānn,
-sa̍h si̍k tio̍h sī hó-tsia̍h ê kué-tsàng /tshè-tsàng.
+sa̍h si̍k tio̍h sī hó-tsia̍h ê kué-tsàng tshè-tsàng.
 nā-sī pa̍k bí-tsàng,
 tō iōng tn̂g-tsu̍t-á,
 kah bun bí-ko kāng-khuán ê tsu̍t-bí,
@@ -4919,7 +4919,7 @@ lâi tī sam-suànn-lōo lâm-suànn tsia-ê ha̍k-hāu kà Tâi-gí í-king kà
 sui-jiân  ta̍k-lé-pài tsiah lâi kà e-tsái-á ê sann tseh khò,
 m̄-kohò kà suah, tsia̍h-tàu í-āu,
 kiânn-khì Tâi-pak tshia-thâu ê  kuè-thîng  tang-tiong,
-tsua̋nn piàn-sîng ka-kī/ka-tī tsi̍t ê lâng iû-siúnn, tsáu-tshuē, jīn-bat Tâi-pak-siânn li̍k-sú ê tshù-bī sî-khik.
+tsua̋nn piàn-sîng ka-kīka-tī tsi̍t ê lâng iû-siúnn, tsáu-tshuē, jīn-bat Tâi-pak-siânn li̍k-sú ê tshù-bī sî-khik.
 “sam-suànn-lōo” sī it kiú khòng kiú nî Ji̍t-pún sî-tāi thiah Tâi-pak-hú siânn-tshiûnn,
 tsiàu guân ki-tē khí-tsō sì tiâu sì-tsa̍p bí khuah ê khuân siânn tō-lōo,
 sī tsham-khó tsa̍p-káu sè-kí Au-tsiu too-tshī kui-uē pān-huat,
@@ -7558,7 +7558,7 @@ Pa-khik-lé bo̍k-su iōng tsit tâi ìn-suat-ki tī Tsū-tin-tông huat-hîng �
 guân-tsá sóo-uī ê “tshenn-mê-gû”,
 in-uī ū pò-tsuá thang khuànn,
 ē-tàng siá bûn-tsiunn tâu-kó,
-huán-tò-tńg pí hia-ê hàn-sik tha̍k-tsheh-lâng tsá tit-tio̍h hiān-tāi-huà kàu-io̍k kah/kap tì-sik ê ki-huē.
+huán-tò-tńg pí hia-ê hàn-sik tha̍k-tsheh-lâng tsá tit-tio̍h hiān-tāi-huà kàu-io̍k kahkap tì-sik ê ki-huē.
 sóo-í “Hú-siânn kàu-huē-pò” tuì Tâi-uân kīn-tāi bûn-huà kah siā-huē huat-tián ū tsiânn tuā ê kòng-hiàn.
 huat-hîng “Hú-siânn kàu-huē-pò” ê Tsū-tin-tông kám m̄ sī lán ing-kai tuā-tuā kám-un pó-liû ê uî-tsik,
 mā ing-kai sī kok-ka-kip ê tiōng-iàu uî-tsik.
@@ -8583,7 +8583,7 @@ sī sió-thâu sing khì kah thâu-ke tshi̍k hó-sè ê kè-siàu,
 m̄-koh, tsit kuí-tsa̍p tang lāi,
 iáu bô thiann-kóng kè-siàu ū lak--kuè,
 tī Tâi-uân tse sī sù-siâng ê tāi-tsì,
-liân Au-bí sian-tsìn ê bûn-bîng kok-ka mā sī án-ne/án-ni.
+liân Au-bí sian-tsìn ê bûn-bîng kok-ka mā sī án-neán-ni.
 Kah-nā kóng ū tiānn ê sí-ti-á-kè,
 tshia sòo ku̍t khah-ke,
 niá hiàng ê tsóng tsînn-gia̍h tō ē khah tsē,
@@ -10262,7 +10262,7 @@ tō tsio Tik-huâ kah Pó-liân tàu-sann-kāng,
 in ang-á-bóo lóng sī tsin piànn-sè ê Tâi-gí-bûn kang-tsok-tsiá.
 īnn-tiúnn tsio guán khì i ê kuann-tí tsia̍h-pn̄g,
 thó-lūn iōng-lī ê kiōng-sik,
-khó-pí “guá / guán”, “lí / lín”, “i / in”,
+khó-pí “guá  guán”, “lí  lín”, “i  in”,
 tse sī tan, ho̍k-sòo ê tuì-ìng,
 siá hàn-jī bô kám-kak,
 m̄-koh nā siá Lô-má-jī,
@@ -12431,13 +12431,13 @@ A-hun m̄-tsai iánn uī-siánn-mi̍h i ê hó-pîng-iú thái-ē tuì i án-ne.
 Āu--lâi, i siūnn-tio̍h A-thô kám sī thau-khuànn i ê pho̍k-á lāi-bīn siá ê mi̍h-kiānn.
 Tsit ê sî-tsūn, A-tang tsai-iánn A-hun hōo lâng khi-hū,
 hiông-hiông-kông-kông khì khuànn A-hun ū án-tsuánn bô.
-Kî-si̍t A-tang pún-lâi bô teh/leh kah-ì A-hun,
-m̄-koh/m̄-kò/m̄-kù āu--lâi hām/hâm i tàu-tīn, i kám-kak i ê lâng tsiok un-luán--ê, tō/tiō/tio̍h/to̍h sannh-tio̍h A-hun.
-A-hun kàu tsit-má koh m̄-tsai iánn, i aì ê lâng mā teh/leh kah-ì i.
+Kî-si̍t A-tang pún-lâi bô tehleh kah-ì A-hun,
+m̄-kohm̄-kòm̄-kù āu--lâi hāmhâm i tàu-tīn, i kám-kak i ê lâng tsiok un-luán--ê, tōtiōtio̍hto̍h sannh-tio̍h A-hun.
+A-hun kàu tsit-má koh m̄-tsai iánn, i aì ê lâng mā tehleh kah-ì i.
 Nā-sī i tsai, it-tīng tsiok huann-hí--ê.
-Hit ê A-tang kā A-hun tsia̍h-tshenn-kha ê lâng mē/mā kah tsiânn tuā-siann, tsin hùn-nōo, tshuē/tshē hiah ê lâng sǹg-siàu.
-Āu-lâi, in nn̄g ê lâng tō/tiō/tio̍h/to̍h tsò-hué--ah,
-A-tang sī tsin-sim teh/leh kah-ì A-hun, A-hun mā kám-kak tsiok hīng-hok--ê.
+Hit ê A-tang kā A-hun tsia̍h-tshenn-kha ê lâng mēmā kah tsiânn tuā-siann, tsin hùn-nōo, tshuētshē hiah ê lâng sǹg-siàu.
+Āu-lâi, in nn̄g ê lâng tōtiōtio̍hto̍h tsò-hué--ah,
+A-tang sī tsin-sim tehleh kah-ì A-hun, A-hun mā kám-kak tsiok hīng-hok--ê.
 Liân i ê pîng-iú A-thô mā tsin-sim tsiok-hok in nn̄g lâng ē-tàng hīng-hok.
 Ha̍k-tiúnn A-tang khó--tio̍h ê tāi-ha̍k, āu-lâi A-hun mā khó--tio̍h,
 in nn̄g ê lâng ê ài-tsîng kòo-sū mā thuân kàu tsuân ha̍k-hāu lóng tsai-iánn--ah!
@@ -13647,7 +13647,7 @@ it kiú pat tshit nî Tâi-uân kái-tû sann-tsa̍p-peh tang lâi ê kài-giâm
 ap-li̍k put-tsí tuā,
 bián-huì tsuan-suànn khòng pat khòng khòng pat sù it tshit sam ngóo
 sann hāng tī sann-tsa̍p hun-tsing lāi-té uân-sîng?
-khó-pí “guá/guán”,  “lí/lín ”, “i/in”,
+khó-pí “guáguán”,  “lílín ”, “iin”,
 sì-pah khòng sann hō, tshiánn-lâi sann hō kuī-tâi
 kî-tiong ū tsi̍t phinn bûn-tsiong kóng-tio̍h tsin tsē lîm-bū tiônn-sóo ê su̍t-gí,
 sī tsò siánn khuán ūn-tōng?
@@ -20905,7 +20905,7 @@ Ueh ueh ueh!Kin-á-ji̍t lán sī beh kóng iú-hàu,
 bô tui-kiû tsū-kí ê sū-gia̍p si̍t-tsāi tsin bô-tshái ,
 Sam bûn-tsiong it
 tsit-má sī tong-tē tiōng-iàu ê gē-su̍t kap bûn-huà tsu-sán .
-kuà-hō / pò-miâ
+kuà-hō  pò-miâ
 kuán i Pak-kiann lo̍h-seh!
 ma-ma tsiok m̄-kam kóng:“phâng gû-ling hit mê,
 tsit-tsūn ná-ū tsi̍t-pue liâng-tsuí ia̍h-sī tsi̍t-ki ki-á-ping thang tsia̍h,

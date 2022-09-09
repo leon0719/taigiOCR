@@ -3450,7 +3450,7 @@ chham chi̍t kûn hí-ài tāi-chū-jiân ê hó-pêng-iú,
 chòe-tīn tùi Chiong-hòa lo̍h-lâm,
 khì Ko-hiông-chhī Tōa-siā-khu ê Koan-im-soaⁿ hong-kéng-khu chhit-thô.
 chá-khí peh tiám chó-iū,
-gún ê iû-lám-chhia tiō lo̍h Tiong-san-ko ê Lâm-chú/Tōa-siā kau-liû-tō--ah,
+gún ê iû-lám-chhia tiō lo̍h Tiong-san-ko ê Lâm-chúTōa-siā kau-liû-tō--ah,
 kè-sio̍k hiòng-chêng sái chha-put-to jī-cha̍p hun-cheng,
 tiō lâi kàu Koan-im-soaⁿ Chhùi-pîn-gâm Tāi-kak-sī--ah.
 gún kah chi̍t-tōa-tīn soaⁿ-iú e-e-tīn-tīn kiâⁿ-kòe“chhùi pîn iu kéng”ê pâi-lâu,
@@ -4263,7 +4263,7 @@ kā îⁿ-chu̍t-á chìm nńg chiah-koh e-chò kóe-chioⁿ,
 teh ta nóa sêng kóe-chhè,
 pau-āⁿ liáu-āu iōng môa-tek-ha̍h-á pau hó,
 chiah-koh iōng kiâm-chháu pa̍k-chò kui kōaⁿ,
-sa̍h se̍k tio̍h sī hó-chia̍h ê kóe-chàng/chhè-chàng.
+sa̍h se̍k tio̍h sī hó-chia̍h ê kóe-chàngchhè-chàng.
 nā-sī pa̍k bí-chàng,
 tō iōng tn̂g-chu̍t-á,
 kah bun bí-ko kāng-khoán ê chu̍t-bí,
@@ -6774,7 +6774,7 @@ lâi tī sam-sòaⁿ-lō͘ lâm-sòaⁿ chia-ê ha̍k-hāu kà Tâi-gí í-keng 
 sui-jiân ta̍k-lé-pài chiah lâi kà e-chái-á ê saⁿ cheh khò,
 m̄-kohò kà soah,chia̍h-tàu í-āu,
 kiâⁿ-khì Tâi-pak chhia-thâu ê kòe-thêng tang-tiong,
-chŏaⁿ piàn-sêng ka-kī/ka-tī chi̍t ê lâng iû-siúⁿ,cháu-chhōe,jīn-bat Tâi-pak-siâⁿ le̍k-sú ê chhù-bī sî-khek.
+chŏaⁿ piàn-sêng ka-kīka-tī chi̍t ê lâng iû-siúⁿ,cháu-chhōe,jīn-bat Tâi-pak-siâⁿ le̍k-sú ê chhù-bī sî-khek.
 “sam-sòaⁿ-lō͘”sī it kiú khòng kiú nî Ji̍t-pún sî-tāi thiah Tâi-pak-hú siâⁿ-chhiûⁿ,
 chiàu goân ki-tē khí-chō sì tiâu sì-cha̍p bí khoah ê khoân siâⁿ tō-lō͘,
 sī chham-khó cha̍p-káu sè-kí Au-chiu to͘-chhī kui-ōe pān-hoat,
@@ -9472,7 +9472,7 @@ Pa-khek-lé bo̍k-su iōng chit tâi ìn-soat-ki tī Chū-tin-tông hoat-hêng�
 goân-chá só͘-ūi ê“chheⁿ-mê-gû”,
 in-ūi ū pò-chóa thang khòaⁿ,
 ē-tàng siá bûn-chiuⁿ tâu-kó,
-hoán-tò-tńg pí hia-ê hàn-sek tha̍k-chheh-lâng chá tit-tio̍h hiān-tāi-hòa kàu-io̍k kah/kap tì-sek ê ki-hōe.
+hoán-tò-tńg pí hia-ê hàn-sek tha̍k-chheh-lâng chá tit-tio̍h hiān-tāi-hòa kàu-io̍k kahkap tì-sek ê ki-hōe.
 só͘-í“Hú-siâⁿ kàu-hōe-pò”tùi Tâi-oân kīn-tāi bûn-hòa kah siā-hōe hoat-tián ū chiâⁿ tōa ê kòng-hiàn.
 hoat-hêng“Hú-siâⁿ kàu-hōe-pò”ê Chū-tin-tông kám m̄ sī lán eng-kai tōa-tōa kám-un pó-liû ê ûi-chek,
 mā eng-kai sī kok-ka-kip ê tiōng-iàu ûi-chek.
