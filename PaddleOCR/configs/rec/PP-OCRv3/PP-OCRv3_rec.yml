@@ -20,7 +20,6 @@ Global:
   distributed: true
   save_res_path: ./output/rec/predicts_my_ocr_model.txt
 
-
 Optimizer:
   name: Adam
   beta1: 0.9
@@ -32,7 +31,6 @@ Optimizer:
   regularizer:
     name: L2
     factor: 3.0e-05
-
 
 Architecture:
   model_type: rec
@@ -79,29 +77,29 @@ Train:
     data_dir: /train_data/train_data
     ext_op_transform_idx: 1
     label_file_list:
-    - /train_data/train_data/train_label.txt
+      - /train_data/train_data/train_label.txt
     transforms:
-    - DecodeImage:
-        img_mode: BGR
-        channel_first: false
-    - RecConAug:
-        prob: 0.5
-        ext_data_num: 2
-        image_shape: [48, 320, 3]
-    - RecAug:
-    - MultiLabelEncode:
-    - RecResizeImg:
-        image_shape: [3, 48, 320]
-    - KeepKeys:
-        keep_keys:
-        - image
-        - label_ctc
-        - label_sar
-        - length
-        - valid_ratio
+      - DecodeImage:
+          img_mode: BGR
+          channel_first: false
+      - RecConAug:
+          prob: 0.5
+          ext_data_num: 2
+          image_shape: [48, 320, 3]
+      - RecAug:
+      - MultiLabelEncode:
+      - RecResizeImg:
+          image_shape: [3, 48, 320]
+      - KeepKeys:
+          keep_keys:
+            - image
+            - label_ctc
+            - label_sar
+            - length
+            - valid_ratio
   loader:
     shuffle: true
-    batch_size_per_card: 128
+    batch_size_per_card: 96
     drop_last: true
     num_workers: 10
 Eval:
@@ -109,23 +107,23 @@ Eval:
     name: SimpleDataSet
     data_dir: /train_data/train_data
     label_file_list:
-    - /train_data/train_data/test_label.txt
+      - /train_data/train_data/test_label.txt
     transforms:
-    - DecodeImage:
-        img_mode: BGR
-        channel_first: false
-    - MultiLabelEncode:
-    - RecResizeImg:
-        image_shape: [3, 48, 320]
-    - KeepKeys:
-        keep_keys:
-        - image
-        - label_ctc
-        - label_sar
-        - length
-        - valid_ratio
+      - DecodeImage:
+          img_mode: BGR
+          channel_first: false
+      - MultiLabelEncode:
+      - RecResizeImg:
+          image_shape: [3, 48, 320]
+      - KeepKeys:
+          keep_keys:
+            - image
+            - label_ctc
+            - label_sar
+            - length
+            - valid_ratio
   loader:
     shuffle: false
     drop_last: false
-    batch_size_per_card: 128
+    batch_size_per_card: 96
     num_workers: 10
