@@ -79,7 +79,7 @@ def Gerner_en_img():
             -i dicts/en/en_article.txt \
             -fd fonts/train_font/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/en --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_en_path)
@@ -95,9 +95,9 @@ def Gerner_en_img():
             -i dicts/en/en_article2.txt \
             -fd fonts/train_font/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/en --output_dir {save_img_path2}'
     )
-    closing(save_img_path2, data_en_path)
+    dilate(save_img_path2, data_en_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -110,9 +110,9 @@ def Gerner_en_img():
             -i dicts/en/en_article3.txt \
             -fd fonts/train_font/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/en3'
+            -id images/en --output_dir {save_img_path}/en3'
     )
-    dilate(save_img_path3, data_en_path)
+    closing(save_img_path3, data_en_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -124,7 +124,7 @@ def Gerner_en_img():
             -i dicts/en/en_article4.txt \
             -fd fonts/train_font/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/en4'
+            -id images/en --output_dir {save_img_path}/en4'
     )
     save_img_path4 = f'{save_img_path}/en4'
     closing(save_img_path4, data_en_path)
@@ -175,7 +175,7 @@ def Gerner_ch_img():
             -i dicts/ch/ch_article.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/Hanji --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_ch_path)
@@ -191,10 +191,10 @@ def Gerner_ch_img():
             -i dicts/ch/ch_article2.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/Hanji --output_dir {save_img_path2}'
     )
 
-    closing(save_img_path2, data_ch_path)
+    dilate(save_img_path2, data_ch_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -207,9 +207,9 @@ def Gerner_ch_img():
             -i dicts/ch/ch_article3.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/ch3'
+            -id images/Hanji --output_dir {save_img_path}/ch3'
     )
-    dilate(save_img_path3, data_ch_path)
+    closing(save_img_path3, data_ch_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -221,7 +221,7 @@ def Gerner_ch_img():
             -i dicts/ch/ch_article4.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/ch4'
+            -id images/Hanji --output_dir {save_img_path}/ch4'
     )
     save_img_path4 = f'{save_img_path}/ch4'
 
@@ -274,7 +274,7 @@ def Gerner_POJ_img():
             -i dicts/POJ/POJ_corpus.txt \
             -fd fonts/train_font/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/POJ --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_POJ_path)
@@ -290,10 +290,10 @@ def Gerner_POJ_img():
             -i dicts/POJ/POJ_corpus2.txt \
             -fd fonts/train_font/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/POJ --output_dir {save_img_path2}'
     )
 
-    closing(save_img_path2, data_POJ_path)
+    dilate(save_img_path2, data_POJ_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -306,9 +306,9 @@ def Gerner_POJ_img():
             -i dicts/POJ/POJ_corpus3.txt \
             -fd fonts/train_font/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/POJ3'
+            -id images/POJ --output_dir {save_img_path}/POJ3'
     )
-    dilate(save_img_path3, data_POJ_path)
+    closing(save_img_path3, data_POJ_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -320,7 +320,7 @@ def Gerner_POJ_img():
             -i dicts/POJ/POJ_corpus4.txt \
             -fd fonts/train_font/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/POJ4'
+            -id images/POJ --output_dir {save_img_path}/POJ4'
     )
     save_img_path4 = f'{save_img_path}/POJ4'
 
@@ -373,7 +373,7 @@ def Gerner_TAI_LO_img():
             -i dicts/TAI_LO/TAI_LO_corpus.txt \
             -fd fonts/train_font/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/POJ --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_TAI_LO_path)
@@ -389,10 +389,10 @@ def Gerner_TAI_LO_img():
             -i dicts/TAI_LO/TAI_LO_corpus2.txt \
             -fd fonts/train_font/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/POJ --output_dir {save_img_path2}'
     )
 
-    closing(save_img_path2, data_TAI_LO_path)
+    dilate(save_img_path2, data_TAI_LO_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -405,9 +405,9 @@ def Gerner_TAI_LO_img():
             -i dicts/TAI_LO/TAI_LO_corpus3.txt \
             -fd fonts/train_font/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/TAI_LO3'
+            -id images/POJ --output_dir {save_img_path}/TAI_LO3'
     )
-    dilate(save_img_path3, data_TAI_LO_path)
+    closing(save_img_path3, data_TAI_LO_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -419,7 +419,7 @@ def Gerner_TAI_LO_img():
             -i dicts/TAI_LO/TAI_LO_corpus4.txt \
             -fd fonts/train_font/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/TAI_LO4'
+            -id images/POJ --output_dir {save_img_path}/TAI_LO4'
     )
     save_img_path4 = f'{save_img_path}/TAI_LO4'
 
@@ -472,7 +472,7 @@ def Gerner_HAN_LO_img():
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/HAN_LO --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_HAN_LO_path)
@@ -488,10 +488,10 @@ def Gerner_HAN_LO_img():
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/HAN_LO --output_dir {save_img_path2}'
     )
 
-    closing(save_img_path2, data_HAN_LO_path)
+    dilate(save_img_path2, data_HAN_LO_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -504,9 +504,9 @@ def Gerner_HAN_LO_img():
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/HAN_LO3'
+            -id images/HAN_LO --output_dir {save_img_path}/HAN_LO3'
     )
-    dilate(save_img_path3, data_HAN_LO_path)
+    closing(save_img_path3, data_HAN_LO_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -518,7 +518,7 @@ def Gerner_HAN_LO_img():
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/HAN_LO4'
+            -id images/HAN_LO --output_dir {save_img_path}/HAN_LO4'
     )
     save_img_path4 = f'{save_img_path}/HAN_LO4'
 
@@ -571,7 +571,7 @@ def Gerner_jp_img():
             -i dicts/jp/jp_corpus.txt \
             -fd fonts/train_font/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path1}'
+            -id images/Hanji --output_dir {save_img_path1}'
     )
 
     dilate(save_img_path1, data_jp_path)
@@ -587,10 +587,10 @@ def Gerner_jp_img():
             -i dicts/jp/jp_corpus2.txt \
             -fd fonts/train_font/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path2}'
+            -id images/Hanji --output_dir {save_img_path2}'
     )
 
-    closing(save_img_path2, data_jp_path)
+    dilate(save_img_path2, data_jp_path)
 
     shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
@@ -603,9 +603,9 @@ def Gerner_jp_img():
             -i dicts/jp/jp_corpus3.txt \
             -fd fonts/train_font/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/jp3'
+            -id images/Hanji --output_dir {save_img_path}/jp3'
     )
-    dilate(save_img_path3, data_jp_path)
+    closing(save_img_path3, data_jp_path)
 
     shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
@@ -617,7 +617,7 @@ def Gerner_jp_img():
             -i dicts/jp/jp_corpus4.txt \
             -fd fonts/train_font/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -b 3 --output_dir {save_img_path}/jp4'
+            -id images/Hanji --output_dir {save_img_path}/jp4'
     )
     save_img_path4 = f'{save_img_path}/jp4'
 

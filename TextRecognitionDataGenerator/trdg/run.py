@@ -172,7 +172,7 @@ def parse_arguments():
         type=int,
         nargs="?",
         help="Define what kind of background to use. 0: Gaussian Noise, 1: Plain white, 2: Quasicrystal, 3: Image",
-        default=0,
+        default=3,
     )
     parser.add_argument(
         "-hw",
@@ -318,7 +318,7 @@ def parse_arguments():
     parser.add_argument(
         "-stw",
         "--stroke_width",
-        type=int, 
+        type=int,
         nargs="?",
         help="Define the width of the strokes",
         default=0,
@@ -326,7 +326,7 @@ def parse_arguments():
     parser.add_argument(
         "-stf",
         "--stroke_fill",
-        type=str, 
+        type=str,
         nargs="?",
         help="Define the color of the contour of the strokes, if stroke_width is bigger than 0",
         default="#282828",
