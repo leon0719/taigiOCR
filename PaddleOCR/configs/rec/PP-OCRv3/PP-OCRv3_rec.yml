@@ -50,7 +50,7 @@ Architecture:
           Neck:
             name: svtr
             dims: 64
-            depth: 2
+            depth: 4
             hidden_dims: 120
             use_guide: True
           Head:
@@ -103,7 +103,7 @@ Train:
     shuffle: true
     batch_size_per_card: 96
     drop_last: true
-    num_workers: 10
+    num_workers: 8
 Eval:
   dataset:
     name: SimpleDataSet
@@ -128,4 +128,4 @@ Eval:
     shuffle: false
     drop_last: false
     batch_size_per_card: 96
-    num_workers: 10
+    num_workers: 8
