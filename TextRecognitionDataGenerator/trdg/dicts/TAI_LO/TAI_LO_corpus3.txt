@@ -1075,7 +1075,7 @@ mā beh thè-ngóo--ah!
 m̄-sī tshiūnn tsi̍t-kuá in-uī bô hàn-lī thang iōng,
 kuè-khì ê tsng-kha siau-sit tio̍h-sī án-ne "tsi̍t-tshuì thuân tsi̍t tsi̍h",
 uì khòo-tē-á jîm tshut  hit ki a-má ê só-sî khian-á,
-Ū sin ū kū ，lú tshiùnn lú sim-sik ,
+Ū sin ū kū ,lú tshiùnn lú sim-sik ,
 "íng-sio̍k"ê ì-sù Sī-kóng,
 sī lán Siōng ài--ê , íng-uán ê ka-hiong !
 Tē-jī: Guán kong-si thê-puah sîng-li̍p tsi̍t-ê ki-kim-huē,
@@ -1943,7 +1943,7 @@ koh-ū king-tsè , tsìng-tī , bûn-huà , tsiàn-luān tsióng-tsióng ê hong
 i tsá tiō tsai-iánn a tik-á siūnn-beh pìnn-khang .
 Ài-tsîng lîng-lông-se̍h
 Thuân-thóng ê liām-iâu kóng :
-pun-sàng ê tshiú-tsheh tiong hù ū tsi̍t phinn ‘ 記日據末期赴日本為「海軍工員」之臺灣少年心酸史 ’ ,
+pun-sàng ê tshiú-tsheh tiong hù ū tsi̍t phinn ‘ 記日據末期赴日本為海軍工員之臺灣少年心酸史 ’ ,
 Tong-sî , guá tsiah ji̍p-o̍h tha̍k-tsheh ,
 put jû-ì tàn hōo khì ,
 piah-tóo sī īng tshâ-pang-á liāu lâi keh --ê,
@@ -4465,7 +4465,7 @@ kui-uē kok-ka kong-hn̂g,
 a-má koh bat kā guá kóng,
 guá tī siā-thuân si̍k-sāi tsiok tsē pîng-iú
 Sui-bóng lâng-kheh tsiânn tsē, m̄-koh thâu-ke hit tūn lâng kha-tshiú mā tsiânn liú-lia̍h,
-jî-tshiánn thê-tshut tshit tiám lí-iû kóng ‘自古至今，多用羅馬字寫作者大多不是文學作家’,
+jî-tshiánn thê-tshut tshit tiám lí-iû kóng ‘自古至今,多用羅馬字寫作者大多不是文學作家’,
 hoo-io̍k "tshuì kóng Tâi-gí, tshiú siá Tâi-bûn",
 phīng tīng bóo tsi̍t khuán hîng --ê khah hó-sè.
 lo̍h-bué, mā sī bîn-tsiòng leh siū tsai-eh.
@@ -7029,7 +7029,7 @@ Tâi-uân sio-lō ê lîn-tsîng-bī,
 sī tsi̍t ê ē hōo lâng siàu-liām ê hó sóo-tsāi."
 bī-lâi sī to-guân-huà, hui tián-hîng ê sè-kài,
 pau-kuat it kiú pat tshit nî kái-tû kài-giâm-huat,
-Tâi-gí-lâng m̄-tiō tsiânn-tsò tsin-tsin-tsiànn-tsiànn ê ‘龍的傳人’?
+Tâi-gí-lâng m̄-tiō tsiânn-tsò tsin-tsin-tsiànn-tsiànn ê ?
 tse khuân-kíng m̄-nā sī lán lîn-luī beh sing-ua̍h niā-niā.
 Tiō sī luí-tsik king-giām, kiàn-li̍p bôo-sik í-āu,
 Khah bē khì hōo tsuâ, tsiáu-á tsia̍h--khì.
@@ -13391,7 +13391,7 @@ tē-it sī tē-piáu ta-sang, hâm ū tuā-liōng ê sua-tîn bu̍t-tsit;
 n̂g-kim pe̍h-gîn bé i bē tó.
 sī lán Tâi-uân ê tsû-siān-ka,
 nā bô tī tsāi-tē sing-ua̍h--kuè ê lâng sī oh-tit thé-huē
-ū lāu-su khan-sîng koh pē-bú phik-kok，
+ū lāu-su khan-sîng koh pē-bú phik-kok,
 Hái-sàn it lōo kàu gōo lōo,
 tong-tshoo o̍h Ing-gí tio̍h bô tsit tsióng kám-tōng ê sim-tsîng,
 tsē kong-tshia tú-tio̍h Tâi-uân-lâng,
@@ -13632,7 +13632,7 @@ tsit-má tsìn-ji̍p tiong-liân--ah,
 guá ta̍k-kang hōo Ing-gí, sòo-ha̍k teh kah kiōng-beh bē tshuán-khuì,
 guân-lâi tī lán bîn-kan,
 beh khí tī Lâm-kho Tâi-lâm hn̂g-khu.
-suà--lâi tē-jī--ê sī Bí-kok ê GlobalFoundries，
+suà--lâi tē-jī--ê sī Bí-kok ê GlobalFoundries,
 sîng-pān jîn-guân tsiūnn-bāng tshâ-sûn liáu-āu tō tsú-ì, siunn-kuè tshìn-tshái,
 Kàm-tshat uí-guân Lîm Ngá-hong piáu-sī,
 tshiánn ta̍k-ke tsò-hué lâi kik thâu-khak.
@@ -14575,7 +14575,7 @@ suah bô khì su-khó ── kok-ka ê kàu-io̍k tshut siánn-mih būn-tê?
 in-uī án-ne in tsiah thiann-ū,
 hōo Tâi-gí lāu-su ē-tàng tsiânn-tsò tsìng-sik lāu-su,
 guân-lâi sī tú tshut-pán--ê
-m̄-koh tiong-lâm-pōo ê bîn-tsiòng tsai-iánn ê lâng khó-lîng bô tsē，
+m̄-koh tiong-lâm-pōo ê bîn-tsiòng tsai-iánn ê lâng khó-lîng bô tsē,
 peh gue̍h tsa̍p-gōo sī tiong-tshiu,
 kim-tsînn ê sún-sit lia̍h-guā, gín-á huān-sè iā ē lī-khui--lí.
 tiānn-tiānn thiann a-bú hainn tsit tiâu gín-á liām-iâu,
@@ -16547,7 +16547,7 @@ king-kuè beh nn̄g kò gue̍h,
 guá jīn-uî tse sī tsi̍t tsióng tsìn-pōo,
 tsit piàn jī-khòng-it-pat nî ê suán-kí,
 hi-bāng tsioh pang-tsōo koo-jî ê li̍k-liōng,
-Tâi-uân-lâng tuì ka-kī, tuì pa̍t-lâng lóng bô sìn-sim；
+Tâi-uân-lâng tuì ka-kī, tuì pa̍t-lâng lóng bô sìn-sim;
 Tē-it tin-kuì ê sóo-tsāi,
 tshing-tsòng-liân-puè to-sòo lóng tshut-guā thàn-tsia̍h,
 lâi tsuí-tshiâng tsit ê sóo-tsāi ká-ná khì Ji̍t-pún tōo-ká--leh,
@@ -16853,7 +16853,7 @@ A-tsâi tsai-iánn lóng tī king-lí bīn-thâu-tsîng ké-tsò bô tāi-tsì
 A-tshiu sim-lāi leh siūnn-kóng
 " Hó--ah! Bô-siánn-mih būn-tê
 Kóng kah beh khàu--tshut-lâi--ah!
-Tē-jī, sī thiann im-ga̍k kap tuânn kǹg-khîm；
+Tē-jī, sī thiann im-ga̍k kap tuânn kǹg-khîm;
 lán tio̍h bô ìng-kai khui-tshuì ha̍p-tshuì koh kè-sio̍k kóng "Tâi-uân-síng", "tsuân-síng".
 in-uī Tâi-uân î-bîn siā-huē hia-ê thàn ū tsia̍h ê lâng,
 H1N1, H3N2, Colorado tsit kuí tsióng,
@@ -16968,7 +16968,7 @@ Uī-tio̍h pī-bián Tiong-kok lī-iōng kè-sîng Tiong-hua-bîn-kok ê miâ-g�
 Tse tsi̍t-hong-bīn sī in-uī tsuán-hîng tsìng-gī tsò bô-kàu,
 Phīnn-á bong--leh tī it kiú sù lio̍k nî thè-tshut Ua̍t-lâm.
 tsi̍t tang kuè--khì--ah
-Guá iû-kî sī ài khuànn im-ga̍k ê tsheh；
+Guá iû-kî sī ài khuànn im-ga̍k ê tsheh;
 ná-sī kóng bóo tsi̍t hāng siong-phín "tsuân-síng" lóng ū teh bē,
 Gî-lân pēnn-īnn Tiong-san sok-sià lāi-té ê înn-hîng tsuí-tî,
 thong Sik-kháu ( Siông-san kū-miâ ), Ke-lâng;
@@ -22923,7 +22923,7 @@ hó! guá tsiap-siū lír ê  thiau-tsiàn.
 tsiah lio̍k-sio̍k uân-sîng ta̍k-kù ê siu-tīng.
 guá si̍t-tsāi bô siūnn-berh koh ìn-uē,
 tīr tuā hái--lí, guá siánn-mih to m̄ kiann--lah!
-Guá iû-khî sī ài khuànn im-ga̍k ê tsheh；
+Guá iû-khî sī ài khuànn im-ga̍k ê tsheh;
 kāng sìng-pia̍t ê tshin-bi̍t kuan-hē,
 Guá tsiok hīng-ūn sinn tīr tsit-ê ka-tîng,
 Bûn-tsing ta̍k-li̍t to tî-tò puànn tiám-tsing khah-ke,
@@ -25236,7 +25236,7 @@ m̄-nā án-ni,
 put-sî tshut-tshuì ê tsiáu siann thâng im,
 khì hōo tsiann-kuài lâi li̍p ther,
 piáu-sī Tâi-uân sī lo̍k-ngóo bîn-tso̍k."
-「Hó, guá tsai--ah」
+Hó, guá tsai--ah
 sī-án-tsuánn i bô o̍h--tio̍h?
 koo-put-lî-tsiong phái-tâng-kū-siah, lī-tsuá bóng khioh,
 tsiok ài tsit ê miâ, tsiok ài tsit ê li̍k-sír kì-tî,
@@ -26093,7 +26093,7 @@ in sī berh uî-hōo tsiáng-khuân-tsiá ê lī-ik.
 iah-sī guá kóng tsi̍t ê tsú-tê,
 hiàm i kā tsheh khioh khí-lâi pâi hōo tsíng-tsê,
 "pháinn-sè! lín tsa-hng--ê! tso̍h--li̍t--ê lóng iáu bô lâng bué?
-Guá iû-khî sī ài khuànn im-ga̍k ê tsheh；
+Guá iû-khî sī ài khuànn im-ga̍k ê tsheh;
 Tiunn Íng-kì sī Ua̍t-lâm tē-it hūn Lô-má-lī pò-tsuá "Ka-tīng-pò" ê tsú-pian.
 i kui-khì onn-onn-kiò,
 tīr i ê "Tshái-tsng hiat-tsè" sóo siá--tio̍h--ê,

@@ -3101,7 +3101,7 @@ tē-it sī tē-piáu ta-sang, hâm ū tuā-liōng ê sua-tîn bu̍t-tsit;
 n̂g-kim pe̍h-gîn bé i bē tó.
 sī lán Tâi-uân ê tsû-siān-ka,
 nā bô tī tsāi-tē sing-ua̍h--kuè ê lâng sī oh-tit thé-huē
-ū lāu-su khan-sîng koh pē-bú phik-kok，
+ū lāu-su khan-sîng koh pē-bú phik-kok,
 Hái-sàn it lōo kàu gōo lōo,
 tong-tshoo o̍h Ing-gí tio̍h bô tsit tsióng kám-tōng ê sim-tsîng,
 tsē kong-tshia tú-tio̍h Tâi-uân-lâng,
@@ -3342,7 +3342,7 @@ tsit-má tsìn-ji̍p tiong-liân--ah,
 guá ta̍k-kang hōo Ing-gí, sòo-ha̍k teh kah kiōng-beh bē tshuán-khuì,
 guân-lâi tī lán bîn-kan,
 beh khí tī Lâm-kho Tâi-lâm hn̂g-khu.
-suà--lâi tē-jī--ê sī Bí-kok ê GlobalFoundries，
+suà--lâi tē-jī--ê sī Bí-kok ê GlobalFoundries,
 sîng-pān jîn-guân tsiūnn-bāng tshâ-sûn liáu-āu tō tsú-ì, siunn-kuè tshìn-tshái,
 Kàm-tshat uí-guân Lîm Ngá-hong piáu-sī,
 tshiánn ta̍k-ke tsò-hué lâi kik thâu-khak.
@@ -4285,7 +4285,7 @@ suah bô khì su-khó ── kok-ka ê kàu-io̍k tshut siánn-mih būn-tê?
 in-uī án-ne in tsiah thiann-ū,
 hōo Tâi-gí lāu-su ē-tàng tsiânn-tsò tsìng-sik lāu-su,
 guân-lâi sī tú tshut-pán--ê
-m̄-koh tiong-lâm-pōo ê bîn-tsiòng tsai-iánn ê lâng khó-lîng bô tsē，
+m̄-koh tiong-lâm-pōo ê bîn-tsiòng tsai-iánn ê lâng khó-lîng bô tsē,
 peh gue̍h tsa̍p-gōo sī tiong-tshiu,
 kim-tsînn ê sún-sit lia̍h-guā, gín-á huān-sè iā ē lī-khui--lí.
 tiānn-tiānn thiann a-bú hainn tsit tiâu gín-á liām-iâu,
@@ -6257,7 +6257,7 @@ king-kuè beh nn̄g kò gue̍h,
 guá jīn-uî tse sī tsi̍t tsióng tsìn-pōo,
 tsit piàn jī-khòng-it-pat nî ê suán-kí,
 hi-bāng tsioh pang-tsōo koo-jî ê li̍k-liōng,
-Tâi-uân-lâng tuì ka-kī, tuì pa̍t-lâng lóng bô sìn-sim；
+Tâi-uân-lâng tuì ka-kī, tuì pa̍t-lâng lóng bô sìn-sim;
 Tē-it tin-kuì ê sóo-tsāi,
 tshing-tsòng-liân-puè to-sòo lóng tshut-guā thàn-tsia̍h,
 lâi tsuí-tshiâng tsit ê sóo-tsāi ká-ná khì Ji̍t-pún tōo-ká--leh,
@@ -6563,7 +6563,7 @@ A-tsâi tsai-iánn lóng tī king-lí bīn-thâu-tsîng ké-tsò bô tāi-tsì
 A-tshiu sim-lāi leh siūnn-kóng
 " Hó--ah! Bô-siánn-mih būn-tê
 Kóng kah beh khàu--tshut-lâi--ah!
-Tē-jī, sī thiann im-ga̍k kap tuânn kǹg-khîm；
+Tē-jī, sī thiann im-ga̍k kap tuânn kǹg-khîm;
 lán tio̍h bô ìng-kai khui-tshuì ha̍p-tshuì koh kè-sio̍k kóng "Tâi-uân-síng", "tsuân-síng".
 in-uī Tâi-uân î-bîn siā-huē hia-ê thàn ū tsia̍h ê lâng,
 H1N1, H3N2, Colorado tsit kuí tsióng,
@@ -6678,7 +6678,7 @@ Uī-tio̍h pī-bián Tiong-kok lī-iōng kè-sîng Tiong-hua-bîn-kok ê miâ-g�
 Tse tsi̍t-hong-bīn sī in-uī tsuán-hîng tsìng-gī tsò bô-kàu,
 Phīnn-á bong--leh tī it kiú sù lio̍k nî thè-tshut Ua̍t-lâm.
 tsi̍t tang kuè--khì--ah
-Guá iû-kî sī ài khuànn im-ga̍k ê tsheh；
+Guá iû-kî sī ài khuànn im-ga̍k ê tsheh;
 ná-sī kóng bóo tsi̍t hāng siong-phín "tsuân-síng" lóng ū teh bē,
 Gî-lân pēnn-īnn Tiong-san sok-sià lāi-té ê înn-hîng tsuí-tî,
 thong Sik-kháu ( Siông-san kū-miâ ), Ke-lâng;
@@ -12633,7 +12633,7 @@ hó! guá tsiap-siū lír ê  thiau-tsiàn.
 tsiah lio̍k-sio̍k uân-sîng ta̍k-kù ê siu-tīng.
 guá si̍t-tsāi bô siūnn-berh koh ìn-uē,
 tīr tuā hái--lí, guá siánn-mih to m̄ kiann--lah!
-Guá iû-khî sī ài khuànn im-ga̍k ê tsheh；
+Guá iû-khî sī ài khuànn im-ga̍k ê tsheh;
 kāng sìng-pia̍t ê tshin-bi̍t kuan-hē,
 Guá tsiok hīng-ūn sinn tīr tsit-ê ka-tîng,
 Bûn-tsing ta̍k-li̍t to tî-tò puànn tiám-tsing khah-ke,
@@ -14685,7 +14685,7 @@ Lâng kóng tn̄g-tsiúnn tsa-poo tsò siùnn-kang
 Lâng kóng tsò-kuann nā tshing-liâm
 Lâng kóng āu-siū bē thiànn tsîng-lâng-kiánn
 Lâng kóng: Kiann bóo tāi-tiōng-hu
-Lâng kóng：「tē sann tsa-bóo-kiánn tsia̍h miā」
+Lâng kóng：tē sann tsa-bóo-kiánn tsia̍h miā
 Lâng kā i pháinn
 Lâng lâi tō hó
 Lâng lóng kóng i tsia̍h hó tsò khin-khó
@@ -17893,7 +17893,7 @@ I m̄-guān tsò lâng ê sè-î.
 I ngē beh ut-áu--guá.
 I ná lâi ná suí.
 I ná ē bē-tín-bē-tāng?
-I ná ē un--lo̍h-khì？ kín kā i tshah--khí-lâi.
+I ná ē un--lo̍h-khì? kín kā i tshah--khí-lâi.
 I ná-ē hiah tsâi-tsîng.
 I nā beh tsiūnn-tâi ián-káng lóng ē lún-tiûnn.
 I nā bô sńg kah kuè-giàn sī bē tńg--lâi--ê.
@@ -17981,7 +17981,7 @@ I siūnn beh kā in tsa-bóo-kiánn tsò hōo A-ióng-peh--á in hāu-senn.
 I siūnn-beh bán-huê in ài-jîn-á ê sim.
 I siūnn-beh bé tsi̍t tsoo phòng-í.
 I siūnn-beh kiau lí tsò pîng-iú.
-I siūnn-beh phiàn--guá，m̄-koh tsá tō hōo guá khuànn-phuà-kha-tshiú--ah.
+I siūnn-beh phiàn--guá,m̄-koh tsá tō hōo guá khuànn-phuà-kha-tshiú--ah.
 I sī guán sè--ê.
 I sī guán tuā--ê.
 I si̍t-tsāi tsiânn bô-lâng-iân!
@@ -18057,7 +18057,7 @@ I sī tsò-thôo-tsuí--ê.
 I sī tuā-hàn--ê.
 I sī tī tsa-hng tíng-puànn-mê kuè-sin--khì--ê.
 I sī tū-tsuí sí--ê.
-I sī án-tsuánn teh jiáng--lí？
+I sī án-tsuánn teh jiáng--lí?
 I sī-m̄-sī ē tông-ì iáu tsin ò kóng.
 I sīm kui-poo lóng bô kóng-uē.
 I sńg kah kui-sin-khu oo-sô-sô.
@@ -18757,7 +18757,7 @@ Ing-bûn tsin láu
 Ing-hue ê tshiū-sin tsin kim-ku̍t.
 Io gín-á m̄ sī tsi̍t kiānn kán-tan ê tāi-tsì.
 Iok-huē tio̍h-ài tsù-ì khì-hun.
-Io̍h -á tsia̍h liáu ū khah tsha--bô？
+Io̍h -á tsia̍h liáu ū khah tsha--bô?
 Io̍h ko buah--lo̍h-khì lia̍p-á tō siu-tshuì--ah.
 Io̍h póo put jû si̍t-póo.
 Io̍h-hún gíng khah iù--leh.
@@ -19228,7 +19228,7 @@ Kám-mōo ē kuè--lâng.
 Kám-mōo ē tòo--lâng.
 Kám-siā lí kā guá tsai-puê.
 Kám-sī án-ne?
-Kám-sī ū lâng-kheh beh lâi？ e-àm ná ē tsú kah tsiah-nī-á tshenn-tshau?
+Kám-sī ū lâng-kheh beh lâi? e-àm ná ē tsú kah tsiah-nī-á tshenn-tshau?
 Kám-tsîng ê tāi-tsì sī bē-tàng bián-kióng--ê.
 Kám-á-tiàm ê mi̍h-kiānn lóng sī suánn-bē--ê khah tsē.
 Káng-kînn hit khu tshân tsiânn puî.
@@ -19560,7 +19560,7 @@ Lí hōo lâng siat-kè--khì--ah.
 Lí hōo-kháu tī tó-uī?
 Lí ioh liáu tsin tsún.
 Lí iáu-ū siánn-mih tāi-tsì?
-Lí jī siá kah tsiah ló-tshó， siánn-lâng khuànn ū?
+Lí jī siá kah tsiah ló-tshó, siánn-lâng khuànn ū?
 Lí ka-kī ài hó-hó-á pó-tiōng.
 Lí kah i kóng bú-gí mā ē thong.
 Lí kah lín lāu-pē pênn tiâu-ti̍t.
@@ -19627,16 +19627,16 @@ Lí koh kóng--tsi̍t-piàn.
 Lí kuà tsit tuì hīnn-kau tsin suí.
 Lí kuè-nî kám ū beh tò-tńg-khì Lâm-tâu?
 Lí kuí tiám beh tshut mn̂g?
-Lí kám ah i ē tiâu？
+Lí kám ah i ē tiâu?
 Lí kám bat khuànn lâng teh khan-bông?
 Lí kám beh khì kàu-huē tsò lé-pài?
 Lí kám bô beh khì?
 Lí kám kánn tng guá ê bīn kah i tuì-tsí?
-Lí kám m̄-kiann lâng kóng？
+Lí kám m̄-kiann lâng kóng?
 Lí kám tsai-iánn i bih tī tó-uī?
 Lí kám tsai-iánn i kiò tsò siánn-mih miâ?
 Lí kám tsai-iánn i ê tshut-sin?
-Lí kám tsai-iánn tsa-àm hit tiûnn pí-sài ê kiat-kó án-tsuánn？
+Lí kám tsai-iánn tsa-àm hit tiûnn pí-sài ê kiat-kó án-tsuánn?
 Lí kám tsai-iánn tsit siú kua ê khik sī siánn-lâng siá--ê?
 Lí kám ē-sái kā guá tàu kng tsia-ê bí?
 Lí kám ū kā guá sǹg tsāi-lāi?
@@ -20265,7 +20265,7 @@ M̄-thang tshuah thâu-mn̂g.
 M̄-thang tī kong-hn̂g oo-pe̍h bán hue.
 M̄-thang tī lâng ê kha-tsiah-āu kóng lâng ê pháinn-uē.
 M̄-thang uai lâng ê tsînn.
-M̄-tsai i ê sin tíng-si kò-sìng siánn-khuán？
+M̄-tsai i ê sin tíng-si kò-sìng siánn-khuán?
 M̄-tsai senn iā sí.
 M̄-tsai teh bô-îng siánn-mih.
 M̄-tsai án-tsuánn guá kin-á-ji̍t kui-sin-khu nńg-kô-kô?
@@ -21023,7 +21023,7 @@ Tshian hu sóo tsí
 Tshiau-kip-tshī-tiûnn teh piànn sio̍k huè.
 Tshik-tsiáu-á tī mn̂g-kháu-tiânn thó-tsia̍h.
 Tshin-tsiânn kan ê hó pháinn tāi-tsì lí lóng puê-tuè ū tio̍h.
-Tshin-tsiânn ū lé-sòo sio-thīn，khah ē tshin.
+Tshin-tsiânn ū lé-sòo sio-thīn,khah ē tshin.
 Tshing-bîng ài puē-bōng.
 Tshing-bîng ê sî-tsūn guán tau lóng ē tsè-tsóo.
 Tshing-kuan lân tuàn ka-bū sū.
@@ -21230,7 +21230,7 @@ Tsia̍h siánn-mi̍h tsia̍h kah kha̍unnh-kha̍unnh-kiò.
 Tsia̍h suàn-á thòo lōo-giō.
 Tsia̍h thô-á tsia̍h kah thng tsha̍p-tsha̍p-tih.
 Tsia̍h tio̍h khóo-kam-á khóo-kam.
-Tsia̍h tshâ ê pe̍h-hiā、 tsia̍h tsheh ê tsián-thâng-á、tsia̍h bí ê tsiù-ku lóng-tsóng kiò-tsò tsiù-thâng。
+Tsia̍h tshâ ê pe̍h-hiā、 tsia̍h tsheh ê tsián-thâng-á、tsia̍h bí ê tsiù-ku lóng-tsóng kiò-tsò tsiù-thâng.
 Tsia̍h tsiú kái iu-tshiû.
 Tsia̍h--lo̍h-khì ê mi̍h-kiānn lóng tsik tiâu--leh.
 Tsia̍h-hun m̄-nā liáu-tsînn koh ē sún-hāi sin-thé.
@@ -21465,7 +21465,7 @@ Tsit nn̄g niá sī sio-siāng--ê.
 Tsit nn̄g sik bô phuè.
 Tsit nn̄g sik puè tsò-hué bô ha̍h.
 Tsit nn̄g tsióng be̍h-á-tsiú guá lim tio̍h bô-tsha.
-Tsit nn̄g tsióng ū siánn-mih tsing-tsha？
+Tsit nn̄g tsióng ū siánn-mih tsing-tsha?
 Tsit nn̄g ê mi̍h-kiānn bô-kāng--lah! Ài tsim-tsiok khuànn tsiah khuànn ē tshut--lâi.
 Tsit nn̄g ê phuê-pau-á khuànn tio̍h kāng-khuán-á kāng-khuán.
 Tsit nn̄g ê tsìng-jîn sóo kóng ê uē tsin uá-ì.
@@ -22565,7 +22565,7 @@ iám sin su̍t
 ián hōo i tó
 ián-uân ê thè-sin
 iánn-hì kuán
-iáu tsha guā tsē？
+iáu tsha guā tsē?
 iáu tsha gōo-pah.
 iân-lōo khioh-kheh
 ióng-io̍k tsi un
@@ -25966,7 +25966,7 @@ khip-siu ji̍t-gua̍t tsing-huâ,
 tsit-tsūn ê Poo-lí sian-á to̍h ē khui-tshuì kóng-uē--looh,
 kā khǹg leh hīnn-khang-pinn,
 i ē tsiong lí siūnn-beh tsai ê tāi-tsì lóng pò hōo lí tsai-iánn."
-tsit ê oo-jí-sáng sóo kóng ê "Poo-lí sian-á" kah Huâ-gí kóng ê ‘養小鬼’ beh kâng-á-beh-kâng，
+tsit ê oo-jí-sáng sóo kóng ê "Poo-lí sian-á" kah Huâ-gí kóng ê ‘養小鬼’ beh kâng-á-beh-kâng,
 guá ū kā tshíng-kàu sī-án-tsuánn beh hō-tsò "Poo-lí sian-á"--leh?
 i kóng i mā m̄ tsai,
 sī i sè-hàn ê sî thiann lāu-tsi̍t-puè kóng--ê.

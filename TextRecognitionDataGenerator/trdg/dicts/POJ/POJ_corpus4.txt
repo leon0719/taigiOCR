@@ -174,7 +174,7 @@ Kán-tan ê chò-hoat tio̍h-sī:sūn-chhiú kìm chúi-tiān,
 tī-hia pí-chhiú-ōe-to,gia̍h kha ta̍h pō͘
 goán kè-ōe sêng-li̍p"i-ha̍k Tâi-bûn kì kàu-ha̍k Tiong-sim",
 hit-ê phiàn A-bí-á ê lâng tio̍h-sī i,miâ kiò-chò phòng-hong.
-Cheng sang ū pàng chi̍t chhut kì-lo̍k-phìⁿ‘綠的海平線’,
+Cheng sang ū pàng chi̍t chhut kì-lo̍k-phìⁿ
 it kiú sù ngó͘ nî peh goe̍h,Ji̍t-pún chiàn-pāi hiòng bêng-kun tâu-hâng.
 bûn-hòa Tō-sī seng-oa̍h.
 sè-hàn pē-bú bô-êng kā góa sàng tńg--khì chng-kha lāu-chhù,
@@ -784,7 +784,7 @@ koh-ū keng-chè,chèng-tī,bûn-hòa,chiàn-loān chióng-chióng ê hong-thai,
 i chá tiō chai-iáⁿ a tek-á siūⁿ-beh pìⁿ-khang.
 Ài-chêng lêng-lông-se̍h
 Thoân-thóng ê liām-iâu kóng:
-pun-sàng ê chhiú-chheh tiong hù ū chi̍t phiⁿ‘記日據末期赴日本為「海軍工員」之臺灣少年心酸史’,
+pun-sàng ê chhiú-chheh tiong hù ū chi̍t phiⁿ
 Tong-sî,góa chiah ji̍p-o̍h tha̍k-chheh,
 put jû-ì tàn hō͘ khì,
 piah-tó͘ sī ēng chhâ-pang-á liāu lâi keh --ê,
@@ -1787,7 +1787,7 @@ Pàng cháu koh hap khí--lâi,
 chhut-siā-hōe liáu,chiah hoat-hiān tī ha̍k-hāu o̍h bûn-giân bûn kin-pún sī lōng-hùi sî-kan.
 iân-lō͘ chhōe,iân-lō͘ kiò.
 Tiō-sī chi̍t-ê kà-sī,
-m̄-chai ka-tī ê kò͘-hiong,seng-oa̍h／choh-sit ê só͘-chāi,
+m̄-chai ka-tī ê kò͘-hiong,seng-oa̍hchoh-sit ê só͘-chāi,
 Kā gín-á thai tâi tiàm thô͘-kha saⁿ chhioh chhim,
 Pháiⁿ tek chhut hó sún.
 chhân sī lín kā góa pa̍k khì choh --ê,bô hō͘ góa cho͘ á beh nah ē-sái.
@@ -1827,8 +1827,6 @@ Sī-kóng tī chit-ê kho-ki hiah-nī-á hoat-ta̍t ê sî-tāi,
 In tio̍h-sī chhàu-thâu-ke-á bô-lâng-iân,
 lâng-lâng ē-hiáu kóng bó-gí,sè-kài chiah ū hó miâ-siaⁿ.
 khiok-sī hong-hù sèⁿ-miā ê le̍k-sú.
-Tng hòng èng Ji̍t-pún kun koa ê sî,
-提示卡標號：A019
 nn̄g chheng khòng peh nî Si Kiâⁿ tāi-hōe
 Tâi-oân siàu-liân-ke bē tńg-tōa-lâng?
 koh khòaⁿ-tio̍h lán chòe-kīn hoat-seng tī Li̍p-hoat-īⁿ kî-koài ê kí-tōng,
@@ -1870,7 +1868,7 @@ lán iu-goân pit-su óa-khò Chiòng siā úi kah Lí Kang-khioh Tâi-gí Bûn-
 Āu-piah-bīn hō͘-miâ,kháu-chō,tē-chí kah tiān-ōe mā ài siá hō͘ hó.
 chi̍t-pòaⁿ sī-bô àn-sǹg tha̍k Tâi-gí hē iah-sī m̄-chai-iáⁿ Tâi-gí hē sī teh pìⁿ-sáⁿ-báng,
 Phòng-hong khòaⁿ m̄-sī-sè,tō kóaⁿ-kín soan cháu-ah.
-M̄-koán sī sin lāu chha̍t iā-hó,‘八百劣士’ā-hó,
+M̄-koán sī sin lāu chha̍t iā-hóā-hó,
 mh!kim-chîⁿ si̍t-chāi chin-hó,
 Chhiūⁿ ùi"Tâi-oân Hú-siâⁿ kàu-hōe-pò"soán-lo̍k ê"Tōa-siā ê i koán",
 siàu siūⁿ-beh chhòng-chō kong-si ka-pōe siau-siū hām thê-seng ho̍k-bū chit-liōng ê chò-hoat.
@@ -2517,7 +2515,6 @@ kiâⁿ kàu chit sè,
 chin kiaⁿ pàng chi̍t pû liō tō ē khì hō͘ mô͘-sîn-á lia̍h-khì,
 thǹg-khò͘ cháu-bē-lī——kiò-khó͘.
 tio̍h-ài iōng"kiàm"m̄-sī iōng"bi̍t".
-提示卡編號：A015
 chi̍t-tōa-tui hôa-hâng oân-kang ài tòe i khì,
 kóng kàu khah-chá ū kiò-chò hû-á sian kah Hōng-iông-pô,
 Lí kóng kúi-nā pái--ah.
@@ -2642,7 +2639,6 @@ chí-iàu lí kiâⁿ hiòng tāi-chū-jiân.
 chō-sêng tē-kiû loán-hòa;
 tī jī khòng khòng saⁿ nî sêng-li̍p choân-kok-sèng ê jîn-bîn thoân-thé,
 lông-le̍k nî chiah sǹg choân-pō͘ kòe oân.
-‘實質影響力’.
 hit-ê kóng sī phòng-hong lú-pêng-iú ê lâng-miâ kiò-chò A-hoe.
 in-ūi chi̍t-nî ê sî-kan ē-tàng chhau-liān lán ê pian-chi̍p ki-su̍t,
 M̄ sī-kóng beh chò tiō ē-sái chò--ê.
@@ -3072,7 +3068,7 @@ chit ê sè-kài-siōng kiám-chhái tō bē ū chhin-chhiūⁿ Nazi he̍k-chiá
 bē-kò͘-tit tì koe-le̍h-á,
 kiaⁿ góa iau,kiaⁿ góa kôaⁿ,
 lóng ē gián-hoat-chhut it-tó͘ chán ê phín-chéng,
-che chiân-pòe ná-chhiūⁿ leh‘下馬威’~
+che chiân-pòe ná-chhiūⁿ leh
 koh pêng-siông-sî-á gún ū leh hō͘-tōng phah-chio-ho͘,khai-káng,gō͘-sì-saⁿ chin chai-iáⁿ sèng.
 Ū-iáⁿ sī chi̍t hāng chin hó ê kau-thong kang-kū.
 "Góa iōng--ê sī tōng-bu̍t-sèng ê gû-ni iû!"
@@ -3166,7 +3162,6 @@ Che sī chêng sè-hàn kàu-taⁿ,
 M̄-koh,chit chióng seng-oa̍h sī chi̍t-tiám-á phín-chit to bô--ah!
 Góa ê hō͘-chiàu hō-bé sī it kiú sam lio̍k sù it sam chhit chhit
 Kòe-khì chi̍t-pah gō͘-cha̍p nî lâi,pe̍h-ōe-jī thè Tâi-oân-lâng pó-liû bó-gí,
-kóng‘基於筆者讀了自古至今所有臺語小說後,
 só͘ iōng,só͘ chia̍h ê mi̍h-kiāⁿ,
 Saⁿ lâng kāng gō͘ ba̍k,ji̍t-āu bô tn̂g-té-kha-ōe.
 kā chháu ah lo̍h-thô͘.
@@ -3315,7 +3310,7 @@ kui-ōe kok-ka kong-hn̂g,
 a-má koh bat kā góa kóng,
 góa tī siā-thoân se̍k-sāi chiok chē pêng-iú
 Sui-bóng lâng-kheh chiâⁿ chē,m̄-koh thâu-ke hit tūn lâng kha-chhiú mā chiâⁿ liú-lia̍h,
-jî-chhiáⁿ thê-chhut chhit tiám lí-iû kóng‘自古至今，多用羅馬字寫作者大多不是文學作家’,
+jî-chhiáⁿ thê-chhut chhit tiám lí-iû kóng
 ho͘-io̍k"chhùi kóng Tâi-gí,chhiú siá Tâi-bûn",
 phēng tēng bó͘ chi̍t khoán hêng --ê khah hó-sè.
 lo̍h-bóe,mā sī bîn-chiòng leh siū chai-eh.
@@ -3357,7 +3352,7 @@ chhiau-chhōe kòe-khì le̍k-sú chin-siòng ê kha-pō͘ ài khah kín--eh.
 hó-miā,pháiⁿ-miā lóng sī miā,ná-tio̍h it-tēng"ài khòaⁿ-miā".
 koat-tēng chit pái beh chia̍h khah hó --chi̍t-kóa-á,
 "Tâi-oân-ōe bûn lūn-chiàn"bī oân-sêng ê gī-tê.
-‘好’,ū ê lâng kui-khì kā chia-ê gī-tê tòng-chò sī chi̍t chhut liân-sio̍k-kio̍k niā-niā.
+‘’,ū ê lâng kui-khì kā chia-ê gī-tê tòng-chò sī chi̍t chhut liân-sio̍k-kio̍k niā-niā.
 Tong-liân,sin ê ki-su̍t bī-lâi ē án-chóaⁿ hoat-tián,
 chí-hó bián-kióng chioh im,chioh ì,chhong-khiat chhòng jī lâi hoat-hui,
 iá-ū,
@@ -3580,9 +3575,7 @@ in-ūi Kok-bîn-tóng chèng-hú tùi it kiú gō͘ khòng nî-tāi kiông-le̍k
 Koh bô-lōa-kú,
 Lāu-su kóng:"Siaⁿ-in sī chú-kak,bûn-jī sī ūi siaⁿ-in ho̍k-bū",
 ū ê poaⁿ í-liâu,ū ê giâ í-thâu-á,
-ū lâng tiám‘摩卡’,ū lâng tiám‘藍山’,
 àn-tǹg chia̍h-pá liáu-āu,
-kóng chia-ê Tâi-bûn-kài‘羅馬字拼音方式的爭執’,
 kà piàn-tiāu ê sî tiō khí-chhù koh kiò môa-á khui-mn̂g,
 Tiong-kok-lâng chū-chiông se-goân chêng nn̄g-pah jī-cha̍p-it nî khai-sí,
 tō ē chiām-chiām sit-khì i cho̍k-kûn ê bûn-hòa.
@@ -3667,7 +3660,7 @@ m̄ chai siáⁿ-lâng kè-ōe --ê,
 Chiòng iú-chì su-iàu kah sî-kan giú-tōa-soh;
 chháu-meh-kong tiō liòng khí liòng lo̍h phu̍h-phu̍h-poe,
 chin kín tiō kà-soah --ah,
-‘好’,tùi to-su,seng thong-ti hō͘ in chai-iáⁿ ū chit ê kiám-tēng,
+‘’,tùi to-su,seng thong-ti hō͘ in chai-iáⁿ ū chit ê kiám-tēng,
 mā lóng ū liân-sú ho͘-io̍k chèng-hú ài chun-tiōng Siraya cho̍k ê chiàⁿ-miâ koân-lī.
 mā sī bô-khah-choa̍h,
 "gú-bé choán-ōaⁿ"sī chí chi̍t chióng gú-giân chham pa̍t ê gú-giân hêng-sêng hūn-ha̍p ê gú-má,
@@ -3765,7 +3758,7 @@ khai-sí iōng soán-bîn koàn-sì iōng ê bó-gí,
 Chit-má Hôa-gí kiò in‘帝雉’,
 Tī chia-ê tam-jīm kàn-pō͘ lāi-té
 m̄ koaiⁿ ke-bó,phah lâng lā-hio̍h.
-‘好’,lāi-sin siūⁿ-kóng nā ū chhiau-kòe chi̍t-pah lâng bóng sńg tiō hó.
+‘’,lāi-sin siūⁿ-kóng nā ū chhiau-kòe chi̍t-pah lâng bóng sńg tiō hó.
 kám-kak chin ut-chut,
 lán keng-le̍k hô͘-pêng choán-î chip-chèng-khoân ê kòe-thêng,
 ài seng iōng chéng-thâu-á kā cham chi̍t-sut-á lâi chhùi--nih tam khòaⁿ ū kam,phīⁿ khòaⁿ ū phang--bô,
@@ -3994,7 +3987,7 @@ in khì chhōe ok kah bô lâng mn̄g ê sat-lîn-hoān chò hóng-būn,
 soah lâi tūi-tiông,
 kā Tâi-oân pún-té ê bí-lē hun-hióng--chhut-lâi.
 Bûn-hòa sī thêng-hiān le̍k-sú ê kiàⁿ-thâu,
-好,chhiūⁿ kàㄅㄆㄇán-ne,
+chhiūⁿ kàán-ne,
 ta̍k-kang tiō ē taⁿ-tio̍h i hit tàⁿ kê,
 liōng-iok nn̄g-pah kong-chhioh khǹg bah-chàng-kak,
 Oan ji̍p-khì chi̍t tiâu hāng-á-lāi.
@@ -4017,8 +4010,8 @@ kah khòaⁿ ha̍k-seng siá Tâi-gí bûn-chiong tâu-kó.
 ài seng kah ka-sio̍k,i-liâu chiàu-hō͘ siong-koan lîn-oân thó-lūn,
 hiông-hiông siōⁿ-khí chi̍t ê,
 thâu--ê,lí kám ū beh seng --góa?
-‘功過並陳’ê hau-siâu-ōe
-kó͘-chhī nā‘狂奔’,ū lâng chhiò-bún-bún,
+ê hau-siâu-ōe
+kó͘-chhī nā,ū lâng chhiò-bún-bún,
 Tha̍k kui-sì-lâng ê chheh,iu-goân bat bē liáu,
 lán nā oa̍t-thâu kā khòaⁿ,
 Chit tiâu chúi-kau bô gōa tōa,
@@ -4241,7 +4234,7 @@ Teh kà Tâi-gí ê hit kúi nî.
 koh ū chheng-liâng piⁿ tiⁿ ê bí-thai-ba̍k hiān kā chia̍h--lo̍h,
 hó --ah.Taⁿ-á siūⁿ-beh kā lí kóng Tek-á-ô͘ ê chí-iông-hoe tng-leh khui --neh!
 Góa khòaⁿ-māi--leh,he Pîⁿ-khe --lah.
-吳哥窟ê cha-po͘ gín-á──su-khó sò͘-ióng chhōa-thâu ê Tâi-gú kàu-io̍k
+ê cha-po͘ gín-á──su-khó sò͘-ióng chhōa-thâu ê Tâi-gú kàu-io̍k
 Tâi-oân mā bat ū chi̍t ê"ji̍t tng kiā hoan-ông",
 beh tùi chèng-hú koaⁿ-oân hām gī-oân,li̍p-hoat úi-oân ê tùi-ōe,
 bú-gí liû-sit ê sok-tō͘ chiah-nī kiaⁿ--lâng,
@@ -4276,7 +4269,6 @@ Lán chit-má beh chè-tēng"Kok-ka gí-giân hoat-tián-hoat",
 ùi chhiam tiâu-iok khai-sí sǹg,àn-sǹg ài hêng chi̍t-pah tang chiah hêng ē-tit liáu.
 M̄-koh,thui-iūⁿ bô-tiāⁿ-tio̍h chún-khak,
 sim-chêng tiāⁿ-tio̍h chiâⁿ ho̍k-cha̍p.
-‘已無形中傷害了台語運動及台語文學的發展’.
 Nā-chún ū keng-kòe"be̍h-tong-lô͘",
 "A-bú,a-bú,
 hō͘ góa chhim-chhim bê-loân Tâi-oân,
@@ -4301,7 +4293,6 @@ chhòng-chok lán Tâi-oân-lâng ê sin bûn-ha̍k.
 tong-chho͘ chit ê hoat-àn ū lâng chi-chhî,mā ū lâng hoán-tùi,
 A-má kóng ka-kī chú--ê chóng pí gōa-kháu bē--ê khah hó,
 hū-jîn-lâng kí hiòng bô gōa hn̄g ê thâu-chêng,
-所得的印象是——漢字作品的文學性高於羅馬字作品’,
 Lāu-su,koh kā gún tiám--chi̍t-ē."
 lóng ū khó-lêng hō͘ hoān-chiá kám-kak kòe liáu chin bô chun-giâm,
 peng teng:【tó tī thô͘-kha,kui-ê lâng kiu chò-hóe,ná kóng ná khàu chhe.】
@@ -4617,7 +4608,7 @@ koh lâi khòaⁿ Eng-gí ê lē,
 Chèng-chok chin chió teh iōng hòa-ha̍k pûi-liāu,
 khòaⁿ Tâi-oân chit lia̍p bí-lē ê tó-sū,
 Saⁿ tn̂g chhiú-ńg té.
-‘好’,iáu-koh ē-kì-tit chò-seng-lí chêng,
+,iáu-koh ē-kì-tit chò-seng-lí chêng,
 Lâng kóng"ka-tī ê gú-giân ka-tī kiù",
 Chit keng tām-sám-tiàm sī lán ê hó pêng-iú A-kiat
 chò Tâi-oân tōng-bu̍t ê ián-kiù,
@@ -5044,7 +5035,7 @@ tn̂g-kî í-lâi thui-tōng Siraya cho̍k cho̍k-gí ho̍k-io̍k kè-ōe kah ch
 khòaⁿ-oân,kám-khài bû-liōng,
 chit ê kè-ōe chiong-kî-bóe hông àn-hā,
 Saⁿ-kha-niau,beh chhiò chi̍t ba̍k káu.
-‘好’,góa kā ha̍k-seng kóng:lîn-seng m̄ sī it-ti̍t teh khó-chhì,
+‘’,góa kā ha̍k-seng kóng:lîn-seng m̄ sī it-ti̍t teh khó-chhì,
 tong-chho͘ ê hoat-khí-chiá ê oán-kiàn
 Tú-tio̍h bô hàn-jī thang siá ê gí-sû,tiō hoat-bêng hàn-jī lâi siá;
 in-ūi"lâ-lí"bô chhùi-khí,
@@ -5265,7 +5256,7 @@ chin-chiàⁿ sī ū lo̍h bô-khah-choa̍h.
 la̍k-pah sì-cha̍p-saⁿ hō,chhiáⁿ kàu gō͘ hō kūi-tâi
 pit kah chóa mà kâng pō͘ kiâⁿ,
 "Thiⁿ-téng thiⁿ-kong,tē-hā bú-kū-kong"
-chit khoán kóng-hoat kah N̂g Chhun-bêng leh phoe-phoàn lán Tâi-gí bûn-ha̍k su-siá‘不倫不類’,ū siáⁿ-mih bô kâng?
+chit khoán kóng-hoat kah N̂g Chhun-bêng leh phoe-phoàn lán Tâi-gí bûn-ha̍k su-siá,ū siáⁿ-mih bô kâng?
 it-ti̍t kàu it kiú pat khòng nî-tāi Tâi-gí-bûn ūn-tōng
 Tāi-ha̍k ê seng-oa̍h
 Án-ne tiō bô kán-tan--ê,kám m̄ sī?
@@ -5308,7 +5299,7 @@ it-ti̍t kàu kū-nî koh thang-kòe Sêng-tāi gí-bûn tiong-sim pān ê pe̍h
 sòa-lo̍h-lâi khòaⁿ Sin-tek-chhī bîn-á-chài it hō ê thiⁿ-khì
 góa chiah iōng siû --ê saⁿ hoa̍h chò nn̄g hoa̍h piàⁿ li̍p-lâi chhù lāi-té,
 ū chiah-nī chē koan-sin Tâi-gí ê iú-chì tàu-tīn kiâⁿ,
-siū-lia̍p-chèng ê"斯德哥爾摩chèng-hāu-kûn"sī lán tháu bē khui ê sí-kat.
+siū-lia̍p-chèng ê chèng-hāu-kûn"sī lán tháu bē khui ê sí-kat.
 in ê lōe-sim kah chia-ê sat-lîn-hoān ū siáⁿ bô kâng?
 si̍t-chāi ū-kàu hòⁿ-hiân,mā siuⁿ tōa-táⁿ,siong-tong gûi-hiám,
 hō͘ lâng khan leh kiâⁿ.
@@ -5404,7 +5395,7 @@ m̄-koán sī tó chi̍t ê miâ-hō,
 tiāⁿ-tio̍h khah hó.
 tong-sî beh tī tāi-ha̍k hāu-hn̂g kó͘-bú ha̍k-seng siá bó-gí,
 Hāi chi̍t-kóa beh chò-pháiⁿ ê lâng chhiò bē chhut--lâi.
-‘好’,choân-pō͘ àn-nāi hó-sè,
+‘’,choân-pō͘ àn-nāi hó-sè,
 ki-kim-hōe sêng-li̍p liáu-āu khai-sí tēng-kî kí-pān"A-khiok-sióng"chióng-lē bó-gí bûn-ha̍k chhòng-chok,
 i beh o̍h lia̍t-kiông hiòng gōa hoat-tián,
 Tō-án-ne tài-tio̍h bô ì-sek ê"oa̍t-thâu-chèng",
@@ -5528,9 +5519,9 @@ Thâu-ke chin hoaⁿ-hí kóng:
 【iōng chhiú kí chō-kéng hō͘ Kok--á khòaⁿ,sió tùn-teⁿ chiah-koh kóng --loeh】
 M̄-koh ē kòe bē kòe mā ài khòaⁿ lí ka-kī ê hù-chhut,
 soah khì cha̍k-tio̍h khùi,
-‘好’,kó͘-bú chio-seng chit khoán tāi-chì tùi góa lâi kóng chhiūⁿ toh-téng ni kam.
+‘’,kó͘-bú chio-seng chit khoán tāi-chì tùi góa lâi kóng chhiūⁿ toh-téng ni kam.
 lí ūi-siáⁿ-mih beh chhōa góa lâi chia?",
-Iōng-khì cha̍p lé-pài ê sî-kan,tō o̍h ē-hiáuㄅㄆㄇㄈê ho͘-im hong-hoat,
+Iōng-khì cha̍p lé-pài ê sî-kan,tō o̍h ē-hiáuㄈê ho͘-im hong-hoat,
 in kah lán chi-kan,kám chin-chiàⁿ chha ū hiah tōa-bé?
 koh ū pe̍h-sek soa-gâm,le̍k-gâm,
 kà Tâi-gí Lô-má-jī ê hong-hoat;
@@ -5550,7 +5541,7 @@ góa beh pò͘-tap a-má ióng-io̍k --góa ê un-chêng,
 thàu-gi̍t tī gōa-kháu phun-pho͘ cháu-chông,
 Hit-sî piān-nā pài-la̍k lé-pài-á,
 bô tēng-kî lâi"tām-sám"--chi̍t-ē.
-tiāⁿ-tiāⁿ thiaⁿ chiok chē lâng khì吳哥窟sńg,
+tiāⁿ-tiāⁿ thiaⁿ chiok chē lâng khì sńg,
 Góa chi̍t ha̍k-kî ē-sái kà cha̍p-kúi siú Gō͘-pah ê Tâi-gí-koa,
 kó͘-bú khì hia sńg ê lâng bé i ê mi̍h-kiāⁿ.
 hū-jîn-lâng hoaⁿ-thâu-hí-bīn chham lāu-lâng sio-chioh-mn̄g,
@@ -5719,7 +5710,7 @@ chí-sī lán hó-ūn bô tú-tio̍h hit ê"ki-hōe"?
 bô liáu-kái"ke o̍h chi̍t ê gú-giân,ke chi̍t lia̍p thâu-khak,
 hiān-si̍t ê seng-oa̍h mā sī tio̍h kòe.
 hō͘ ka-kī chi̍t-ê-á khong-kan,
-chi̍t ê柬埔寨吳哥窟teh bē kì-liām-phín ê cha-po͘ gín-á,
+chi̍t ê teh bē kì-liām-phín ê cha-po͘ gín-á,
 ta̍k-ke kheh-kheh chò-chi̍t-hóe,
 koh chiong che hūn un-chêng kā thoân--lo̍h-khì.
 ū chhâ-chhiū-á ê só͘-chāi hō͘ ki-bóe ê hio̍h-á kah chhiⁿ-chhùi niâ,
@@ -5895,7 +5886,7 @@ Tâi-oân sio-lō ê lîn-chêng-bī,
 sī chi̍t ê ē hō͘ lâng siàu-liām ê hó só͘-chāi."
 bī-lâi sī to-goân-hòa,hui tián-hêng ê sè-kài,
 pau-koat it kiú pat chhit nî kái-tû kài-giâm-hoat,
-Tâi-gí-lâng m̄-tiō chiâⁿ-chò chin-chin-chiàⁿ-chiàⁿ ê‘龍的傳人’?
+Tâi-gí-lâng m̄-tiō chiâⁿ-chò chin-chin-chiàⁿ-chiàⁿ ê
 che khoân-kéng m̄-nā sī lán lîn-lūi beh seng-oa̍h niā-niā.
 Tiō sī lúi-chek keng-giām,kiàn-li̍p bô͘-sek í-āu,
 Khah bē khì hō͘ chôa,chiáu-á chia̍h--khì.
@@ -5974,7 +5965,7 @@ siōng-bô mā ài tī"Kok-ka gí-giân hoat-tián-hoat"thong-kòe chìn-chêng,
 Ìn-ka tè-kok ê Montezuma chin hó-lé kā Se-pan-gâ ê cheng-piàng-chha̍t chiap ji̍p-khì siâⁿ-lāi,
 siáⁿ-mih pháiⁿ tāi-chì to káⁿ chò.
 Hô-bí chhin-chiâⁿ
-‘好’,tùi kó͘-lē Tâi-gí su-siá khok-tāi kàu gí-giân kap bûn-ha̍k
+‘’,tùi kó͘-lē Tâi-gí su-siá khok-tāi kàu gí-giân kap bûn-ha̍k
 "Hoe-ki chi̍t tiòng-hong --lah!
 Sek-sú ūn-miā sio-thè-ōaⁿ
 lî-chhiáⁿ ū chi̍t-kóa bí ê phang-bī,
@@ -6097,7 +6088,7 @@ bī-lâi biān-lîm soán-tiat ê sî,
 Kū-nî lán-lâng chhe-lī gún koh chhōa lāu-bú tńg-khì thàm-hóng --in,
 i-seng kóng āu-pòaⁿ-sì-lâng lí lóng ài tó leh pēⁿ-chhn̂g,
 Só͘-í,kā i chhiaⁿ-ho͘-chò"saⁿ tiâu thong"tām-sám-tiàm.
-góa tiō‘不信邪’,kui pan saⁿ-cha̍p ê ha̍k-seng,
+góa tiō,kui pan saⁿ-cha̍p ê ha̍k-seng,
 beh kóng Hitler,kám m̄-bián"chiong i ê kong-lô kah chōe-kòa ē chò-hóe khòaⁿ"?
 hái-gōa tō thiàu-kòe"bûn-lī cheng-gī"
 lúi-kì siá-chok keng-giām kah chok-phín,
@@ -6429,7 +6420,7 @@ Kin-á-ji̍t sī káu-goe̍h chhe-it,Pài-it
 Lí Kang-khioh Tâi-gí Bûn-kàu Ki-kim-hōe ê táng-sū:
 ta̍k-ê sin-chhun chòe-tīn,
 Ū chi̍t-pái ū sì gō͘ ê chheng-chhun siàu-liân-ke,chiông kiau-chhia lo̍h--lâi,
-lâi tāi-thè chit-má Hôa-gí êㄅㄆㄇㄈchù-im hû-hō.
+lâi tāi-thè chit-má Hôa-gí êㄈchù-im hû-hō.
 si̍t-chāi sió kah chiâⁿ kó͘-chui,
 khó-lêng sī chi̍t chióng siông-sek,pēng m̄-sī mē-lâng ê ōe.
 lán tio̍h-ài ti-un-pò-pún,
@@ -6859,7 +6850,7 @@ Ho͘h~joa̍h--lâng sî á,
 lâi-pin saⁿ pah cha̍p-sì hō chhiáⁿ-lâi cha̍p-jī hō kūi-tâi pān-lí
 i kóng,"kok thé hoat"siu-hoat sī hi-bāng ē-tàng hō͘ koh khah chē bîn-chiòng chham-ú kah ji̍p-hōe,
 Thàm-thâu khòaⁿ gún chi̍t-ke-hóe-á ê bô-êng,hoaⁿ-hí!
-chhin-chhiūⁿ‘沙灘’,‘太陽傘’,the-í,khan o͘ ba̍k-kiàⁿ,pi kí nih,
+chhin-chhiūⁿ,the-í,khan o͘ ba̍k-kiàⁿ,pi kí nih,
 gún a-bú kóng góa tōa-hàn --lah,
 koh-khah chiâⁿ-chòe chi̍t-ê chiàⁿ-káng ê Tâi-gí-lâng.
 Gún ê kò͘-hiong—Ko-hiông,
@@ -7328,7 +7319,6 @@ sim-lāi-ōe nā-bô kóng--chhut-lâi,
 bāng-lō͘ mā chhin-chhiūⁿ sī chi̍t-keng chhiau-kip tiān-iáⁿ-īⁿ,
 Tâi-gí lāu-su beh ná ū khó-lêng ū hó ê thāi-gū--leh?
 só͘-tì thāi-gū ke chin-hó.
-săn tó͘ it chih,‘氧氣瓶’,‘蛙腳’,ia̍h-á siû,
 put-tek-í tio̍h chiām-thêng êng-gia̍p kui nî ûi-siu pó͘-kiông;
 lâng he sī chiàⁿ-káng sai-hū chò --ê--neh,
 chham soaⁿ iú chò-hóe khì phàu-tê,khai kóng-ah.
@@ -8185,7 +8175,7 @@ chì-chió ū chi̍t chheng-nî,
 ǹg-bāng ko͘-toaⁿ bô-i-bô-óa ê lâng ē-tàng to-to lī-iōng,
 liân kau-thong siōng-khò thong-khîn ê būn-tê mā lóng-chóng kái-koat,
 lán nā-sī ē-tàng kā chit pái gián-si̍p só͘ o̍h--ê ūn-iōng tī leh Tâi-gí thoân-sêng,
-Sè-hàn ê sî,bat sńg--kòe‘老鷹抓小雞’,
+Sè-hàn ê sî,bat sńg--kòe
 thê-kiong Tâi-bûn chok-ka chhòng-chok hoat-piáu ê oân-tē.
 ǹg-bāng gín-á ē-tàng kòe khah hó--leh,
 beh se̍k iáu-ū chi̍t-tōaⁿ sî-kan,
@@ -8889,7 +8879,6 @@ piān-piān ū ê kui-tēng tō kàu-gia̍h thang hō͘ tông-sèng hun-in sûi 
 (Lí Kang-khioh Tâi-gí tha̍k-chheh-hōe tiàu-chi̍p jîn)
 Nā-chún nn̄g nî āu bô li̍p-hoat ia̍h siu-hoat,
 Goân chhù hun hiān-hiān tō ûi-hoat,
-hong bín kah‘糖糖’,Ray kah‘小丁’,
 Tâi-oân phōaⁿ lū khoân-ek chhui-tōng liân-bêng chú-tiuⁿ,
 chiah-sī pn̄g bô-hoat goân.
 Chiàu bîn-hoat kui-tēng,
@@ -9138,7 +9127,7 @@ hō͘ ta-ke kám-kak chin pháiⁿ-sè.
 Í-chá koh tòa chò-hóe,
 góa lóng hiâm i chām mó͘,
 chit-chūn góa chiah liáu-kái,
-chū án-ne,óaⁿ-pôaⁿ tùi i ná-chhiūⁿ ū siáⁿ-mih『致命的吸引力』,
+chū án-ne,óaⁿ-pôaⁿ tùi i ná-chhiūⁿ ū siáⁿ-mih,
 sim-lāi-ōe
 chú-hó chiah taⁿ-khì chhân--lí hō͘ chò-khang-khòe ê lâng chia̍h.
 éng-éng sī lāu-lâng gōng-tai chèng siōng chá chhut-hiān ê chèng-thâu.
