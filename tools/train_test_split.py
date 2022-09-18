@@ -77,7 +77,7 @@ def Gerner_en_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/en/en_article.txt \
-            -fd fonts/train_font/en/ \
+            -fd fonts/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/en --output_dir {save_img_path1}'
     )
@@ -93,7 +93,7 @@ def Gerner_en_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/en/en_article2.txt \
-            -fd fonts/train_font/en/ \
+            -fd fonts/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/en --output_dir {save_img_path2}'
     )
@@ -108,7 +108,7 @@ def Gerner_en_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/en/en_article3.txt \
-            -fd fonts/train_font/en/ \
+            -fd fonts/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/en --output_dir {save_img_path}/en3'
     )
@@ -122,7 +122,7 @@ def Gerner_en_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/en/en_article4.txt \
-            -fd fonts/train_font/en/ \
+            -fd fonts/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/en --output_dir {save_img_path}/en4'
     )
@@ -152,7 +152,7 @@ def Gerner_en_img():
         shutil.move(os.path.join(data_en_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_en):
+    for file in tqdm(Test_en[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_en_img_path, file))
     os.rmdir(data_en_path)
@@ -173,7 +173,7 @@ def Gerner_ch_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/ch/ch_article.txt \
-            -fd fonts/train_font/ch/ \
+            -fd fonts/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path1}'
     )
@@ -189,7 +189,7 @@ def Gerner_ch_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/ch/ch_article2.txt \
-            -fd fonts/train_font/ch/ \
+            -fd fonts/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path2}'
     )
@@ -205,7 +205,7 @@ def Gerner_ch_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/ch/ch_article3.txt \
-            -fd fonts/train_font/ch/ \
+            -fd fonts/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path}/ch3'
     )
@@ -219,7 +219,7 @@ def Gerner_ch_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/ch/ch_article4.txt \
-            -fd fonts/train_font/ch/ \
+            -fd fonts/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path}/ch4'
     )
@@ -251,7 +251,7 @@ def Gerner_ch_img():
         shutil.move(os.path.join(data_ch_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_ch):
+    for file in tqdm(Test_ch[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_ch_img_path, file))
     os.rmdir(data_ch_path)
@@ -272,7 +272,7 @@ def Gerner_POJ_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/POJ/POJ_corpus.txt \
-            -fd fonts/train_font/POJ/ \
+            -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path1}'
     )
@@ -288,7 +288,7 @@ def Gerner_POJ_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/POJ/POJ_corpus2.txt \
-            -fd fonts/train_font/POJ/ \
+            -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path2}'
     )
@@ -304,7 +304,7 @@ def Gerner_POJ_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/POJ/POJ_corpus3.txt \
-            -fd fonts/train_font/POJ/ \
+            -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path}/POJ3'
     )
@@ -318,7 +318,7 @@ def Gerner_POJ_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/POJ/POJ_corpus4.txt \
-            -fd fonts/train_font/POJ/ \
+            -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path}/POJ4'
     )
@@ -350,7 +350,7 @@ def Gerner_POJ_img():
         shutil.move(os.path.join(data_POJ_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_POJ):
+    for file in tqdm(Test_POJ[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_POJ_img_path, file))
     os.rmdir(data_POJ_path)
@@ -371,7 +371,7 @@ def Gerner_TAI_LO_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/TAI_LO/TAI_LO_corpus.txt \
-            -fd fonts/train_font/TAI_LO/ \
+            -fd fonts/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path1}'
     )
@@ -387,7 +387,7 @@ def Gerner_TAI_LO_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/TAI_LO/TAI_LO_corpus2.txt \
-            -fd fonts/train_font/TAI_LO/ \
+            -fd fonts/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path2}'
     )
@@ -403,7 +403,7 @@ def Gerner_TAI_LO_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/TAI_LO/TAI_LO_corpus3.txt \
-            -fd fonts/train_font/TAI_LO/ \
+            -fd fonts/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path}/TAI_LO3'
     )
@@ -417,7 +417,7 @@ def Gerner_TAI_LO_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/TAI_LO/TAI_LO_corpus4.txt \
-            -fd fonts/train_font/TAI_LO/ \
+            -fd fonts/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {save_img_path}/TAI_LO4'
     )
@@ -449,7 +449,7 @@ def Gerner_TAI_LO_img():
         shutil.move(os.path.join(data_TAI_LO_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_TAI_LO):
+    for file in tqdm(Test_TAI_LO[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_TAI_LO_img_path, file))
     os.rmdir(data_TAI_LO_path)
@@ -470,7 +470,7 @@ def Gerner_HAN_LO_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
-            -fd fonts/train_font/HAN_LO/ \
+            -fd fonts/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/HAN_LO --output_dir {save_img_path1}'
     )
@@ -486,7 +486,7 @@ def Gerner_HAN_LO_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
-            -fd fonts/train_font/HAN_LO/ \
+            -fd fonts/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/HAN_LO --output_dir {save_img_path2}'
     )
@@ -502,7 +502,7 @@ def Gerner_HAN_LO_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
-            -fd fonts/train_font/HAN_LO/ \
+            -fd fonts/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/HAN_LO --output_dir {save_img_path}/HAN_LO3'
     )
@@ -516,7 +516,7 @@ def Gerner_HAN_LO_img():
         f'python run.py  \
             -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
-            -fd fonts/train_font/HAN_LO/ \
+            -fd fonts/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/HAN_LO --output_dir {save_img_path}/HAN_LO4'
     )
@@ -548,7 +548,7 @@ def Gerner_HAN_LO_img():
         shutil.move(os.path.join(data_HAN_LO_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_HAN_LO):
+    for file in tqdm(Test_HAN_LO[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_HAN_LO_img_path, file))
     os.rmdir(data_HAN_LO_path)
@@ -569,7 +569,7 @@ def Gerner_jp_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/jp/jp_corpus.txt \
-            -fd fonts/train_font/jp/ \
+            -fd fonts/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path1}'
     )
@@ -585,7 +585,7 @@ def Gerner_jp_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/jp/jp_corpus2.txt \
-            -fd fonts/train_font/jp/ \
+            -fd fonts/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path2}'
     )
@@ -601,7 +601,7 @@ def Gerner_jp_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/jp/jp_corpus3.txt \
-            -fd fonts/train_font/jp/ \
+            -fd fonts/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path}/jp3'
     )
@@ -615,7 +615,7 @@ def Gerner_jp_img():
         f'python run.py  \
             -c 80000 \
             -i dicts/jp/jp_corpus4.txt \
-            -fd fonts/train_font/jp/ \
+            -fd fonts/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/Hanji --output_dir {save_img_path}/jp4'
     )
@@ -647,7 +647,7 @@ def Gerner_jp_img():
         shutil.move(os.path.join(data_jp_path, file),
                     os.path.join(vaild_path, file))
 
-    for file in tqdm(Test_jp):
+    for file in tqdm(Test_jp[:10000]):
         shutil.copy(os.path.join(vaild_path, file),
                     os.path.join(test_jp_img_path, file))
     os.rmdir(data_jp_path)
