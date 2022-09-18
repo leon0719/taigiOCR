@@ -1,0 +1,7 @@
+lán ê tsing-ing hūn-tsú,
+put lû-ì tàn hōo khì,
+ABCDEFGHHIJKLMNMOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890
+" ? . , ' : ; !
+，。；「」？

@@ -171,7 +171,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/ch/ch_article.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -187,7 +187,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/ch/ch_article2.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -203,7 +203,7 @@ def Gerner_ch_img():
     save_img_path3 = f'{save_img_path}/ch3'
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/ch/ch_article3.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -217,7 +217,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/ch/ch_article4.txt \
             -fd fonts/train_font/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -468,7 +468,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -484,7 +484,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -500,7 +500,7 @@ def Gerner_HAN_LO_img():
     save_img_path3 = f'{save_img_path}/HAN_LO3'
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -514,7 +514,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
             -fd fonts/train_font/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\

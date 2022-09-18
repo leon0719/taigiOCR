@@ -1,23 +1,19 @@
+from trdg.utils import load_dict, load_fonts
+from trdg.string_generator import (create_strings_from_dict,
+                                   create_strings_from_file,
+                                   create_strings_from_wikipedia,
+                                   create_strings_randomly)
+from trdg.data_generator import FakeTextDataGenerator
+from tqdm import tqdm
+from multiprocessing import Pool
+import string
+import random as rnd
 import argparse
 import errno
 import os
 import sys
 
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
-
-import random as rnd
-import string
-import sys
-from multiprocessing import Pool
-
-from tqdm import tqdm
-
-from trdg.data_generator import FakeTextDataGenerator
-from trdg.string_generator import (create_strings_from_dict,
-                                   create_strings_from_file,
-                                   create_strings_from_wikipedia,
-                                   create_strings_randomly)
-from trdg.utils import load_dict, load_fonts
 
 
 def margins(margin):
@@ -296,7 +292,8 @@ def parse_arguments():
         type=str,
         nargs="?",
         help="Define an image directory to use when background is set to image",
-        default=os.path.join(os.path.split(os.path.realpath(__file__))[0], "images"),
+        default=os.path.join(os.path.split(
+            os.path.realpath(__file__))[0], "images"),
     )
     parser.add_argument(
         "-ca",
@@ -387,7 +384,8 @@ def main():
     strings = []
 
     if args.use_wikipedia:
-        strings = create_strings_from_wikipedia(args.length, args.count, args.language)
+        strings = create_strings_from_wikipedia(
+            args.length, args.count, args.language)
     elif args.input_file != "":
         strings = create_strings_from_file(args.input_file, args.count)
     elif args.random_sequences:
@@ -418,7 +416,8 @@ def main():
 
         arabic_reshaper = ArabicReshaper()
         strings = [
-            " ".join([get_display(arabic_reshaper.reshape(w)) for w in s.split(" ")[::-1]])
+            " ".join([get_display(arabic_reshaper.reshape(w))
+                     for w in s.split(" ")[::-1]])
             for s in strings
         ]
     if args.case == "upper":
@@ -435,7 +434,8 @@ def main():
             zip(
                 [i for i in range(0, string_count)],
                 strings,
-                [fonts[rnd.randrange(0, len(fonts))] for _ in range(0, string_count)],
+                [fonts[rnd.randrange(0, len(fonts))]
+                 for _ in range(0, string_count)],
                 [args.output_dir] * string_count,
                 [args.format] * string_count,
                 [args.extension] * string_count,
