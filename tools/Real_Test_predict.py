@@ -2,10 +2,10 @@ import os
 
 test_ch_img_path = '/workspace/test_data/Hanji/Hanji_img'
 test_en_img_path = '/workspace/test_data/en/en_img'
-# test_HAN_LO_img_path = '/workspace/test_data/HAN_LO/HAN_LO_img'
+test_HAN_LO_img_path = '/workspace/test_data/HAN_LO/HAN_LO_img'
 # test_POJ_img_path = '/workspace/test_data/POJ/POJ_img'
 
-conbined_list = [test_ch_img_path, test_en_img_path]
+conbined_list = [test_ch_img_path, test_en_img_path,test_HAN_LO_img_path]
 
 if not os.path.exists('real_test_results'):
     os.mkdir('real_test_results')
@@ -18,7 +18,7 @@ for lang in conbined_list:
     os.system(
         f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.infer_img={lang}')
     path = '/workspace/PaddleOCR/output/rec/predicts_my_ocr_model.txt'
-    # python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.infer_img=/test_data/ch/crop/
+
     with open(path, 'r', encoding='utf-8') as f:
         f = f.readlines()
         groud_truths = [line.strip().split('\t')[0].split(
