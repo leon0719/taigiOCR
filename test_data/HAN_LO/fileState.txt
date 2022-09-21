@@ -1,0 +1,5 @@
+E:\workspace\test_data\HAN_LO\HAN_LO_Post-WW2_5.png	1
+E:\workspace\test_data\HAN_LO\HAN_LO_Post-WW2_1.png	1
+E:\workspace\test_data\HAN_LO\HAN_LO_Post-WW2_2.png	1
+E:\workspace\test_data\HAN_LO\HAN_LO_Post-WW2_3.png	1
+E:\workspace\test_data\HAN_LO\HAN_LO_Post-WW2_4.png	1
