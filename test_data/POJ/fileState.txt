@@ -1,0 +1,5 @@
+E:\workspace\test_data\POJ\POJ_Qing_Dynasty2.png	1
+E:\workspace\test_data\POJ\POJ_Japanese_Occupation1.png	1
+E:\workspace\test_data\POJ\POJ_Japanese_Occupation2.png	1
+E:\workspace\test_data\POJ\POJ_Post-WW2_1.png	1
+E:\workspace\test_data\POJ\POJ_Qing_Dynasty1.png	1
