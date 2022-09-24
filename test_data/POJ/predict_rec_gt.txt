@@ -9,48 +9,50 @@ crop_img/POJ_Japanese_Occupation1_crop_7.jpg	I chīu kap cha-bó kíaⁿ saⁿ-k
 crop_img/POJ_Japanese_Occupation1_crop_8.jpg	cha-bó gín-há chē
 crop_img/POJ_Japanese_Occupation1_crop_9.jpg	Hit ê bók-su-nîu chêng jit bat kà cha-bó
 crop_img/POJ_Japanese_Occupation1_crop_10.jpg	gín-ná gîm si-tiāu ehin hó thiaⁿ. Hit jit in-ūi sī
-crop_img/POJ_Japanese_Occupation1_crop_11.jpg	Siàu-liām Chú sí koh oàh ê jit, i kìo in gîm chit
-crop_img/POJ_Japanese_Occupation1_crop_12.jpg	chhíu Si hō tai-ke thiaⁿ; jiân-āu bók-su kîaⁿ
-crop_img/POJ_Japanese_Occupation1_crop_13.jpg	sóe-lé lō in kúi-nā ê cha-bó gín-ná, tāi-ke chin
-crop_img/POJ_Japanese_Occupation1_crop_14.jpg	hoaⁿ-hí, hó-táⁿ jīn Kìu-chú.
-crop_img/POJ_Japanese_Occupation1_crop_15.jpg	Lé-pài liáu lâhg tú beh sì-sòaⁿ ê sî Kài-á ê
-crop_img/POJ_Japanese_Occupation1_crop_16.jpg	lāu-pē peh-khí-lâi khīa, chhíaⁿ bók-sū chún i
-crop_img/POJ_Japanese_Occupation1_crop_17.jpg	kóng kúi-kù-ōe; tāi-ke koh chē, ài thiaⁿ, in-ūi
+crop_img/POJ_Japanese_Occupation1_crop_11.jpg	Siàu-liām Chu sí kol oah ê jit, i kìo in gîm chit
+crop_img/POJ_Japanese_Occupation1_crop_12.jpg	chhíu Sì hōⁿ thi-ke thiaⁿ: jiân-āu bok-su kîaⁿ
+crop_img/POJ_Japanese_Occupation1_crop_13.jpg	Soe-lé lō in kúi-nā ê cha-bóⁿ gín-ná, tāi-ke chin
+crop_img/POJ_Japanese_Occupation1_crop_14.jpg	oaⁿ-lií, hó-táⁿ jīn Iìu-ciú.
+crop_img/POJ_Japanese_Occupation1_crop_15.jpg	Lé-pài liáu lâhg tú beh sì-sòaⁿ ê sî kài-á ê
+crop_img/POJ_Japanese_Occupation1_crop_16.jpg	āu-pē peh-klí-lâi kiia: chhiaⁿ bok-sū chún i
+crop_img/POJ_Japanese_Occupation1_crop_17.jpg	kong kui-kù-ōe: tāi-ko kohⁿ chē, ài thiaⁿ, in-ūi
 crop_img/POJ_Japanese_Occupation1_crop_18.jpg	in lóng chai hit ê lâng chin oàn-hūn tō-lí, ū
-crop_img/POJ_Japanese_Occupation1_crop_19.jpg	khún-tiók i ê kiaⁿ. Taⁿ m chai i hit sî beh sīu-
-crop_img/POJ_Japanese_Occupation1_crop_20.jpg	khì lâi mē lâng á-sī beh sím-mih khoán. I chīu
-crop_img/POJ_Japanese_Occupation1_crop_21.jpg	kóng,"Pêng-iú ah! lín tāi-ke bat góa, chai góa
-crop_img/POJ_Japanese_Occupation1_crop_22.jpg	thiaⁿ chit ê tō-lí. Chóng-sī kîn-á-jit góa pún-sìn
+crop_img/POJ_Japanese_Occupation1_crop_19.jpg	kluiì-tiok i ê kiaⁿ Taⁿ m chai i lhit sí beh sīu
+crop_img/POJ_Japanese_Occupation1_crop_20.jpg	khì lâi mē lâng á-sī beh sím-mih khoán I chīu
+crop_img/POJ_Japanese_Occupation1_crop_21.jpg	kóng,"Pêng-iu ah! lín tāi-ke bat góa, chai góa
+crop_img/POJ_Japanese_Occupation1_crop_22.jpg	thiaⁿ chit ê tō-lí. Ohóng-sī kîn-á-jit góa pún-sìn
 crop_img/POJ_Japanese_Occupation1_crop_23.jpg	lâi thiaⁿ, iáh khòaⁿ chiah ê cha-bó gín-ná sīu
-crop_img/POJ_Japanese_Occupation1_crop_24.jpg	Sóe-lé; iū-koh thiaⁿ in gîm si hiah nih hó-thiaⁿ,
-crop_img/POJ_Japanese_Occupation2_crop_0.jpg	PÍT-SIÂ KUI-CHÈNG
-crop_img/POJ_Japanese_Occupation2_crop_1.jpg	6
-crop_img/POJ_Japanese_Occupation2_crop_2.jpg	tōe chí ū Chit-ê kék tsun-kùi bŏ pí ê Tsú.
-crop_img/POJ_Japanese_Occupation2_crop_3.jpg	Siat-sú ū 2 ê Tsú, Chiū tek-khek ū saⁿ
-crop_img/POJ_Japanese_Occupation2_crop_4.jpg	chiⁿ saⁿ chhiúⁿ. Lí khòaⁿ thiⁿ-téng jit
-crop_img/POJ_Japanese_Occupation2_crop_6.jpg	géh chhiⁿ-sîn mî-jit ūn-tsoán tín-tāng,tùi
-crop_img/POJ_Japanese_Occupation2_crop_7.jpg	kó-tsá kàu hiān-kim kúi-nā chheng nî í-
-crop_img/POJ_Japanese_Occupation2_crop_8.jpg	1âi, bŏ chit si-á  ōe  loān-tsàp Toe-ē
-crop_img/POJ_Japanese_Occupation2_crop_9.jpg	chháu bák sù-sî liû-hêng, Chhun-thiⁿ hoat
-crop_img/POJ_Japanese_Occupation2_crop_10.jpg	hióh,hē-thiⁿ khui hoe, Chhiu-thiⁿ kiat Ké-
-crop_img/POJ_Japanese_Occupation2_crop_11.jpg	Chí, tang-thiⁿ  lóh hióh ko -tâ, bŏ chit tiám-
-crop_img/POJ_Japanese_Occupation2_crop_12.jpg	á ê chha-Chhò. Tùi án-ni lâi khòaⁿ, kiám
-crop_img/POJ_Japanese_Occupation2_crop_13.jpg	thang kóng Thiⁿ-tōe lāi ū 2 ê Tsú mah ?
-crop_img/POJ_Japanese_Occupation2_crop_14.jpg	Tē 6 Chiuⁿ.
-crop_img/POJ_Japanese_Occupation2_crop_15.jpg	Lūn Siōng-tè tùi tah-lóh siⁿ--ê.
-crop_img/POJ_Japanese_Occupation2_crop_16.jpg	Lâhg-kheh kóng, Thiⁿ tōe bān hāng
-crop_img/POJ_Japanese_Occupation2_crop_17.jpg	mih lóng sī tùi Siōng-tè chhòng-tsō, iā
-crop_img/POJ_Japanese_Occupation2_crop_18.jpg	tsai, thiⁿ tōe bān hāng mih chí ū chit-ê
-crop_img/POJ_Japanese_Occupation2_crop_19.jpg	Tsú. Taⁿ Káⁿ koh mǹg Chit-ê Siōng-tè
-crop_img/POJ_Japanese_Occupation2_crop_20.jpg	tùi tah-lóh siⁿ ?
-crop_img/POJ_Japanese_Occupation2_crop_21.jpg	Iǹ kóng,Siōng-tè sī bān hāng ū ê kun-
-crop_img/POJ_Japanese_Occupation2_crop_22.jpg	goân, ka-kī bŏ kun-goân; tsòe bān mih ê
-crop_img/POJ_Japanese_Occupation2_crop_24.jpg	ê siⁿ Siōng-tê, chiū chit-ê Siōng-tè m sī
-crop_img/POJ_Japanese_Occupation2_crop_25.jpg	chin-ê.  Lâng nā kiŏng-kiŏng mǹg hit-ê
-crop_img/POJ_Japanese_Occupation2_crop_26.jpg	siⁿ sī tùi tah-lòh siⁿ--ê,  beh tùi Chia lâi
-crop_img/POJ_Japanese_Occupation2_crop_27.jpg	chhui-sǹg thái-thó ū chīn-thâu? Só-í
-crop_img/POJ_Japanese_Occupation2_crop_28.jpg	bān hāng ū ê chīn-thâu chiū sī Siōng-té.
-crop_img/POJ_Japanese_Occupation2_crop_29.jpg	Tû-khì Siōng-tè í-gōa, bōe ōe koh-tsài ū
+crop_img/POJ_Japanese_Occupation1_crop_24.jpg	Sóe-lé: iū-koh thiaⁿ in gîm si hiah ni bó-thiaⁿ.
+crop_img/POJ_Japanese_Occupation2_crop_0.jpg	Pit-SiA KJi-CihNc
+crop_img/POJ_Japanese_Occupation2_crop_1.jpg	Ô
+crop_img/POJ_Japanese_Occupation2_crop_2.jpg	toe chi ū Chi!-ê kok tsl-kùi po li ê su
+crop_img/POJ_Japanese_Occupation2_crop_3.jpg	Giat-sê ū 2 ê hgú: Ciiú tek-kneK ū san
+crop_img/POJ_Japanese_Occupation2_crop_4.jpg	chiy saⁿ chhiuúⁿMi khòau thin-téug"jit
+crop_img/POJ_Japanese_Occupation2_crop_5.jpg	s
+crop_img/POJ_Japanese_Occupation2_crop_6.jpg	2ei Chhin-sin mî-jit in-tsoái tit-tougtu
+crop_img/POJ_Japanese_Occupation2_crop_7.jpg	kó-tsá kàu hiân-kii kúi-hê chheng ai -
+crop_img/POJ_Japanese_Occupation2_crop_8.jpg	1âi  oó ciit si-á  Ôe  ioáû-tgho   hoe-ê
+crop_img/POJ_Japanese_Occupation2_crop_9.jpg	Chláu bak sh-sí áiû-iêig, Cii iah-tiin lOot
+crop_img/POJ_Japanese_Occupation2_crop_10.jpg	nio,iiGtii k1llioe: Cii u-tiin kiat Ke-
+crop_img/POJ_Japanese_Occupation2_crop_11.jpg	Cií taig-thin  oi líioh ko -tâ Có chit tiáh!-
+crop_img/POJ_Japanese_Occupation2_crop_12.jpg	K ê Cilo-Chiiòrií ái-iì l台í kiorkiá
+crop_img/POJ_Japanese_Occupation2_crop_13.jpg	tâlg kóng"Titin-gōe lâi ū " ê "sú nQaâ ?
+crop_img/POJ_Japanese_Occupation2_crop_14.jpg	T”ō g giûu-.
+crop_img/POJ_Japanese_Occupation2_crop_15.jpg	"i iōla-to tùi taii-ioii giⁿ-ê.
+crop_img/POJ_Japanese_Occupation2_crop_16.jpg	Lâhg-kheh kong "hiⁿ toó bāâ  luâg
+crop_img/POJ_Japanese_Occupation2_crop_17.jpg	tnih long sī tui Giong-te chhon2-tso:i瓷
+crop_img/POJ_Japanese_Occupation2_crop_18.jpg	tsai:thir toe Dbl A瓷tg iil Ciii 頂 Chit-ê
+crop_img/POJ_Japanese_Occupation2_crop_19.jpg	"sú "Iah Ká,ī kolí ī容 tit-ê Giōh2-te
+crop_img/POJ_Japanese_Occupation2_crop_20.jpg	Gui ta-ioh gih c
+crop_img/POJ_Japanese_Occupation2_crop_21.jpg	Iû kóng,Giōug-te sī kān hûng ū ê kuiì-
+crop_img/POJ_Japanese_Occupation2_crop_22.jpg	goân ka-kī b kun-goâi :toòe bān mi ê
+crop_img/POJ_Japanese_Occupation2_crop_23.jpg	kaî-t A k-ki A kiiî-Lia食ll: C i:O： i Ca1t~
+crop_img/POJ_Japanese_Occupation2_crop_24.jpg	ê sin Giōh2-tê ch ù ciit-ê Giong-tè l sī
+crop_img/POJ_Japanese_Occupation2_crop_25.jpg	Cil-ê  âíg i kióig-kióig ng hit-ê
+crop_img/POJ_Japanese_Occupation2_crop_26.jpg	sin sī tùi tah-io si-ê  bel tùì Ciia iâi i
+crop_img/POJ_Japanese_Occupation2_crop_27.jpg	Chhui-sg tái-tho ū cii!-tiâu?  Goⁿ-i
+crop_img/POJ_Japanese_Occupation2_crop_28.jpg	lû g ū ê chiu-tiâu olui si Giōhg~té
+crop_img/POJ_Japanese_Occupation2_crop_29.jpg	Tû-khì Giōng-tè í-goa boe oo koh-tsài ū
 crop_img/POJ_Post-WW2_1_crop_0.jpg	Pî-liap-to ê bīn-chêng iā-sī ēng chit ê chò lî-iû Nā
 crop_img/POJ_Post-WW2_1_crop_1.jpg	tē-chiūⁿ ê seng-oah lóng sî toh sūn-hok Siōng-tè ê
 crop_img/POJ_Post-WW2_1_crop_2.jpg	sī Chú â-so͘ bêng-bêng kā Pî-liap-to kóng,"Góa ê
