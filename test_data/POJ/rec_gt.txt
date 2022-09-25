@@ -51,64 +51,64 @@ crop_img/POJ_Japanese_Occupation2_crop_26.jpg	siⁿ sī tùi tah-lòh siⁿ--ê,
 crop_img/POJ_Japanese_Occupation2_crop_27.jpg	chhui-sǹg thái-thó ū chīn-thâu? Só-í
 crop_img/POJ_Japanese_Occupation2_crop_28.jpg	bān hāng ū ê chīn-thâu chiū sī Siōng-té.
 crop_img/POJ_Japanese_Occupation2_crop_29.jpg	Tû-khì Siōng-tè í-gōa, bōe ōe koh-tsài ū
-crop_img/POJ_Post-WW2_1_crop_0.jpg	Pî-liap-to ê bīn-chêng iā-sī ēng chit ê chò lî-iû Nā
-crop_img/POJ_Post-WW2_1_crop_1.jpg	tē-chiūⁿ ê seng-oah lóng sî toh sūn-hok Siōng-tè ê
-crop_img/POJ_Post-WW2_1_crop_2.jpg	sī Chú â-so͘ bêng-bêng kā Pî-liap-to kóng,"Góa ê
-crop_img/POJ_Post-WW2_1_crop_3.jpg	chî-ìSui-jiân ūi-tioh sūn-hok Siōng-tè ê chí-ì, só
-crop_img/POJ_Post-WW2_1_crop_4.jpg	kok m-sī siok"chit sè-kaaⁿⁿ Ciok-hān t8: 36 Chú
-crop_img/POJ_Post-WW2_1_crop_5.jpg	tioh kiâⁿ ê lō sī kham-khiat khi-khu: iáu-kú Chú
-crop_img/POJ_Post-WW2_1_crop_6.jpg	Iâ-so só͘ beh kiàn-siat ê, gī ho͘Siōng-tè ê kok lîm
-crop_img/POJ_Post-WW2_1_crop_7.jpg	Iâ-so lóng b oàn-giân,it-bī hiòng-chêng kiâⁿ Ū-
-crop_img/POJ_Post-WW2_1_crop_8.jpg	kàu  Siōng-tê ê chí-ì tit chiâⁿ tī tē-nih chhin
-crop_img/POJ_Post-WW2_1_crop_9.jpg	sî Chú lâ-o͘ iā ē ūì-tioh sóⁿ tú-tioh ê kan-khó lâi
-crop_img/POJ_Post-WW2_1_crop_10.jpg	chhiūⁿ tī thiⁿ-nih GMá-thài 6:lo?Só -í Siōng-tè ê
-crop_img/POJ_Post-WW2_1_crop_11.jpg	kiû Siōng-tè kóng,"Nā ōe chòe tit, tioh hō͘ chit
-crop_img/POJ_Post-WW2_1_crop_12.jpg	kok m-sī chāi tīlim-chiah,sī gī kap pêng-an kap
-crop_img/POJ_Post-WW2_1_crop_13.jpg	ê poe lī-khui góaⁿⁿ chóng-sī Chú Iâ-so͘ b  ūi-tioh
-crop_img/POJ_Post-WW2_1_crop_14.jpg	tī Sèng Sîn ê hoaⁿ-hî(L-má l4: 17Aú-ni Siōng-
-crop_img/POJ_Post-WW2_1_crop_15.jpg	só tú-tioh ê kan-khó lâi b sūn-hok Siōng-tè. I tī
-crop_img/POJ_Post-WW2_1_crop_16.jpg	tè ê kok tī sîm-mih sî beh sit-hiān? Che m-sī chin
-crop_img/POJ_Post-WW2_1_crop_17.jpg	kék khó -thàng ê khoân-kéng tiong iáu sī kî-tó
+crop_img/POJ_Post-WW2_1_crop_0.jpg	Pí-liàp-to ê bīn-chêng, iā-sī ēng chit ê chò lî-iû Nā
+crop_img/POJ_Post-WW2_1_crop_1.jpg	tē-chiūⁿ ê seng-oàh lóng sî teh sūn-hòk Siōng-tè ê
+crop_img/POJ_Post-WW2_1_crop_2.jpg	sī Chú Iâ-so͘ bêng-bêng kā Pí-liáp-to kóng,"Góa ê
+crop_img/POJ_Post-WW2_1_crop_3.jpg	chí-ì. Sui-jiân ūi-tióh sūn-hók Siōng-tè ê chí-ì, só
+crop_img/POJ_Post-WW2_1_crop_4.jpg	kok m-sī siok chit sè-kan "(Iok-hān 18:36) Chú
+crop_img/POJ_Post-WW2_1_crop_5.jpg	tióh kiâⁿ ê lō sī kham-khiat khi-khu; iáu-kú Chú
+crop_img/POJ_Post-WW2_1_crop_6.jpg	Iâ-so só͘ beh kiàn-siat ê, sī ho͘ Siōng-tè ê kok lîm
+crop_img/POJ_Post-WW2_1_crop_7.jpg	Iâ-so lóng bŏ oàn-giân, it-bī hiòng-chêng kiâⁿ. Ū-
+crop_img/POJ_Post-WW2_1_crop_8.jpg	kàu, Siōng-tê ê chí-ì tit chiâⁿ tī tē-nih chhin-
+crop_img/POJ_Post-WW2_1_crop_9.jpg	sî Chú lâ-so͘ iā ē ūi-tióh só tú-tióh ê kan-khó lâi
+crop_img/POJ_Post-WW2_1_crop_10.jpg	chhiūⁿ tī thiⁿ-nih (Má-thài 6:10). Só-í Siōng-tè ê
+crop_img/POJ_Post-WW2_1_crop_11.jpg	kiû Siōng-tè kóng,"Nā ōe chòe tit, tióh hō͘ chit
+crop_img/POJ_Post-WW2_1_crop_12.jpg	kok m-sī chāi tī lim-chiàh, sī gī kap pêng-an kap
+crop_img/POJ_Post-WW2_1_crop_13.jpg	ê poe lī-khui góa", chóng-sī Chú Iâ-so͘ bŏ ūi-tióh
+crop_img/POJ_Post-WW2_1_crop_14.jpg	tī Sèng Sîn ê hoaⁿ-hí(Lŏ-má l4:17).Ań-ni Siōng-
+crop_img/POJ_Post-WW2_1_crop_15.jpg	só tû-tióh ê kan-khó lâi bŏ sūn-hók Siōng-tè. I tī
+crop_img/POJ_Post-WW2_1_crop_16.jpg	tè ê kok tī sím-mih sî beh sit-hiān? Che m-sī chin
+crop_img/POJ_Post-WW2_1_crop_17.jpg	kék khó-thàng ê khoân-kéng tiong iáu sī kî-tó
 crop_img/POJ_Post-WW2_1_crop_18.jpg	kú chiong-lâi ê sū, sī í-keng sit-hiān tī tē-chiūⁿ
-crop_img/POJ_Post-WW2_1_crop_19.jpg	kóng,"W-sī chiàu góa só" ài, sī chiàu Lí só ài."
-crop_img/POJ_Post-WW2_1_crop_20.jpg	Chú Hâ-8o͘ⁿ kóng,"Góa nākhò Siong-tê"ê sîn kóaⁿ
-crop_img/POJ_Post-WW2_1_crop_21.jpg	LMá-thài 26:3go Aú-ni thang chai, nā-sī Siōng-tè
-crop_img/POJ_Post-WW2_1_crop_22.jpg	kúi, chiū Siong-tè ê kok í-keng kàu lín lahⁿ GMá
-crop_img/POJ_Post-WW2_1_crop_23.jpg	ê chî-ì, Chú lâ-so͘ lóng m káⁿ ûi-keh͘ Só͘-î Pó-l
-crop_img/POJ_Post-WW2_1_crop_24.jpg	thài 12:28oAú-ni lâng nā sūn-hok Siong-tè,Siōng
-crop_img/POJ_Post-WW2_1_crop_25.jpg	kóng,"I pún ū Siōng-tè ê hêng-chōng, b liah kap
-crop_img/POJ_Post-WW2_1_crop_26.jpg	tè ê koân-lêng hián-hiān ê sî, giōng-tè ê kok î.
-crop_img/POJ_Post-WW2_1_crop_27.jpg	Siōng-tè pîⁿ-téng chòe sóⁿ tioh chip-siú ê,hoân-tńg
-crop_img/POJ_Post-WW2_1_crop_28.jpg	keng lîm-kàu tī tē-chiūⁿ Chú Iâ-soⁿ khiâ lû jip Iâ.
-crop_img/POJ_Post-WW2_1_crop_29.jpg	piàⁿ khang ka-kī, chhú l -pok ê hêng-chōng, chiâⁿ
-crop_img/POJ_Post-WW2_1_crop_30.jpg	Iōⁿ-sat-léng sī boh hōⁿ lâng chaiⁿ chit ê gū Sian-ti
-crop_img/POJ_Post-WW2_1_crop_31.jpg	chòe lâng ê iūⁿ-siûⁿ, í-keng ū chhin-chhiūⁿ lâng ê
-crop_img/POJ_Post-WW2_1_crop_32.jpg	Sat-ka-lī-a kóng͘,- Khòaⁿ ah lí ê ng lâi chiû-kīn
-crop_img/POJ_Post-WW2_1_crop_33.jpg	khoán-sit, chiū khut ka-kī sūn-hok kàu tī sî, sīm
-crop_img/POJ_Post-WW2_1_crop_34.jpg	 lí, I sī kong-gī koh kiâⁿ chîn-kiù, un-jiû koh khia
-crop_img/POJ_Post-WW2_1_crop_35.jpg	chì sí tī sip-jī-kè(Hui-lip-pí 2: G-—8o Chú Iâ-soⁿ ê
-crop_img/POJ_Post-WW2_1_crop_36.jpg	lû'」 beh  tûi liat kok thoân h-pêng: I ê  koân
-crop_img/POJ_Post-WW2_1_crop_37.jpg	sūn-hok sī beh chò sūn-hok ê bⁿ-iūⁿ ho͘ kìⁿ-nā
-crop_img/POJ_Post-WW2_1_crop_38.jpg	pèng beh tùi chit ê hái kàu hit ê hái,tûi Tōa h
-crop_img/POJ_Post-WW2_1_crop_39.jpg	sìn I ê lâng tùi I ê sūn-hok lâi tit-kiû  Chhin-
-crop_img/POJ_Post-WW2_1_crop_40.jpg	kàu tē-kék"(9: 9——-lQ)
-crop_img/POJ_Post-WW2_1_crop_41.jpg	chhiūⁿ Pó-l kóng,"In-ūi chhin-chhiūⁿ tûi chit ê
-crop_img/POJ_Post-WW2_1_crop_42.jpg	lâng ê ûi-keh hōⁿ chèng-lâng chòe ū chōe ê, chiū
-crop_img/POJ_Post-WW2_1_crop_43.jpg	H. Chú lâ-so͘ khái-soân iip-siâⁿ, piáu-sī ! oân
-crop_img/POJ_Post-WW2_1_crop_44.jpg	tûi chit ê lâng ê sūn-thàn hōⁿ chèng-lâng chò ū gī
-crop_img/POJ_Post-WW2_1_crop_45.jpg	sêng sūn-hokSiōng-tè ê kang.
-crop_img/POJ_Post-WW2_1_crop_46.jpg	ê iā gī án-ni." GLó-má 5: lg?"
-crop_img/POJ_Post-WW2_1_crop_47.jpg	Chú Iâ-soⁿ bat kóng,Tok-tok beh hō͘ sè-kan
-crop_img/POJ_Post-WW2_1_crop_48.jpg	chai góa thiàⁿ Pē,iā chiàu Pē só bēng-lēng góa ê
-crop_img/POJ_Post-WW2_1_crop_49.jpg	Bek-sióng: 1） Chú iâ-soⁿ sī  Bí-sài-a, I beh chò ng  tī
-crop_img/POJ_Post-WW2_1_crop_50.jpg	tak lâng ê sim-lāi. Chhiáⁿ imng lí m-chai tū chhiat-sit
-crop_img/POJ_Post-WW2_1_crop_51.jpg	góa án-ni lâi kiâⁿ Gok-hān l4: 3h? Chú iâ-so͘ tī
-crop_img/POJ_Post-WW2_1_crop_52.jpg	chiap-lap Chú Iâ-soⁿ chò lí ê Kiû-chú,͘ hō͘ I chò͘ ng tī
+crop_img/POJ_Post-WW2_1_crop_19.jpg	kóng,"M-sī chiàu góa só ài, sī chiàu Lí só ài."
+crop_img/POJ_Post-WW2_1_crop_20.jpg	Chú Iâ-so͘ kóng,"Góa nā khò Siōng-tè ê sîn kóaⁿ
+crop_img/POJ_Post-WW2_1_crop_21.jpg	(Má-thài 26:39) Ań-ni thang chai, nā-sī Siōng-tè
+crop_img/POJ_Post-WW2_1_crop_22.jpg	kúi, chiū Siōng-tè ê kok í-keng kàu lín lah" (Má
+crop_img/POJ_Post-WW2_1_crop_23.jpg	ê chí-ì, Chú lâ-so͘ lóng m káⁿ ûi-keh. Só͘-î Pó-lŏ
+crop_img/POJ_Post-WW2_1_crop_24.jpg	thài 12:28)Ań-ni lâng nā sūn-hók Siōng-tè,Siōng
+crop_img/POJ_Post-WW2_1_crop_25.jpg	kóng,"I pún ū Siōng-tè ê hêng-chōng, bŏ liàh kap
+crop_img/POJ_Post-WW2_1_crop_26.jpg	tè ê koân-lêng hián-hiān ê sî, Siōng-tè ê kok î
+crop_img/POJ_Post-WW2_1_crop_27.jpg	Siōng-tè pîⁿ-téng chòe só tióh chip-siú ê,hoán-tńg
+crop_img/POJ_Post-WW2_1_crop_28.jpg	keng lîm-kàu tī tē-chiūⁿ Chú Iâ-so khiâ lû jip Iâ
+crop_img/POJ_Post-WW2_1_crop_29.jpg	piàⁿ khang ka-kī, chhú lŏ-pók ê hêng-chōng, chiâⁿ
+crop_img/POJ_Post-WW2_1_crop_30.jpg	Iō-sat-léng sī beh hō lâng chai chit ê sū. Sian-ti
+crop_img/POJ_Post-WW2_1_crop_31.jpg	chòe lâng ê iūⁿ-siùⁿ, í-keng ū chhin-chhiūⁿ lâng ê
+crop_img/POJ_Post-WW2_1_crop_32.jpg	Sat-ka-lī-a kóng, "Khòaⁿ ah lí ê ŏng lâi chiū-kīn
+crop_img/POJ_Post-WW2_1_crop_33.jpg	khoán-sit, chiū khut ka-kī sūn-hók kàu tī sí, sīm
+crop_img/POJ_Post-WW2_1_crop_34.jpg	lí, I sī kong-gī koh kiâⁿ chín-kiù, un-jiû koh khia
+crop_img/POJ_Post-WW2_1_crop_35.jpg	chì sí tī sip-jī-kè(Hui-lip-pí 2: 6——8). Chú Iâ-so ê
+crop_img/POJ_Post-WW2_1_crop_36.jpg	lû…I beh  tûi liát kok thoân hŏ-pêng; I ê koân
+crop_img/POJ_Post-WW2_1_crop_37.jpg	sūn-hók sī beh chò sūn-hók ê bŏ-iūⁿ, hō kìⁿ-nā
+crop_img/POJ_Post-WW2_1_crop_38.jpg	pèng beh tùi chit ê hái kàu hit ê hái,tùi Tōa hŏ
+crop_img/POJ_Post-WW2_1_crop_39.jpg	sìn I ê lâng tùi I ê sūn-hók lâi tit-kiù. Chhin-
+crop_img/POJ_Post-WW2_1_crop_40.jpg	kàu tē-kék."(9: 9——l0)
+crop_img/POJ_Post-WW2_1_crop_41.jpg	chhiūⁿ Pó-lŏ kóng,"In-ūi chhin-chhiūⁿ tùi chit ê
+crop_img/POJ_Post-WW2_1_crop_42.jpg	lâng ê ûi-keh hō chèng-lâng chòe ū chōe ê, chiū
+crop_img/POJ_Post-WW2_1_crop_43.jpg	III. Chú lâ-so͘ khái-soân jip-siâⁿ, piáu-sī I oân
+crop_img/POJ_Post-WW2_1_crop_44.jpg	tùi chit ê lâng ê sūn-thàn hō chèng-lâng chò ū gī
+crop_img/POJ_Post-WW2_1_crop_45.jpg	sêng sūn-hók Siōng-tè ê kang.
+crop_img/POJ_Post-WW2_1_crop_46.jpg	ê iā sī án-ni." (Lŏ-má 5: l9).
+crop_img/POJ_Post-WW2_1_crop_47.jpg	Chú Iâ-so bat kóng,"Tók-tók beh hō͘ sè-kan
+crop_img/POJ_Post-WW2_1_crop_48.jpg	chai góa thiàⁿ Pē,iā chiàu Pē só bēng-lēng góa ê,
+crop_img/POJ_Post-WW2_1_crop_49.jpg	Bèk-sióng: 1) Chú iâ-so sī  Bí-sài-a, I beh chò ŏng tī
+crop_img/POJ_Post-WW2_1_crop_50.jpg	ták lâng ê sim-lāi. Chhiáⁿ mng lí m-chai ū chhiat-sit
+crop_img/POJ_Post-WW2_1_crop_51.jpg	góa án-ni lâi kiâⁿ" (Iok-hān l4: 31) Chú Iâ-so͘ tī
+crop_img/POJ_Post-WW2_1_crop_52.jpg	chiap-làp Chú Iâ-so chò lí ê Kiù-chú,͘ hō͘ I chò͘ ŏng tī
 crop_img/POJ_Post-WW2_1_crop_53.jpg	8
-crop_img/POJ_Post-WW2_1_crop_54.jpg	Q
-crop_img/POJ_Qing_Dynasty1_crop_0.jpg	5
-crop_img/POJ_Qing_Dynasty1_crop_1.jpg	Lûggiat-lip1ong-oh
-crop_img/POJ_Qing_Dynasty1_crop_2.jpg	kohkóe-gehbōe it-têng ê ân-kò,
+crop_img/POJ_Post-WW2_1_crop_54.jpg	9
+crop_img/POJ_Qing_Dynasty1_crop_0.jpg	3
+crop_img/POJ_Qing_Dynasty1_crop_1.jpg	Lūn Siat-lip Tiong-oh
+crop_img/POJ_Qing_Dynasty1_crop_2.jpg	koh kóe-gehbōe it-têng ê ân-kò,
 crop_img/POJ_Qing_Dynasty1_crop_3.jpg	"aⁿ tâi-liok kú-khí chit-aìg jī
 crop_img/POJ_Qing_Dynasty1_crop_4.jpg	Giat-ltp"iohg-oa ê -gù gī choi-iûⁿ?
 crop_img/POJ_Qing_Dynasty1_crop_5.jpg	chòe pûn-kù Chhàn-chhiūⁿ kò--jī,
