@@ -3,9 +3,10 @@ import os
 test_ch_img_path = '/workspace/test_data/Hanji/Hanji_img'
 test_en_img_path = '/workspace/test_data/en/en_img'
 test_HAN_LO_img_path = '/workspace/test_data/HAN_LO/HAN_LO_img'
-# test_POJ_img_path = '/workspace/test_data/POJ/POJ_img'
+test_POJ_img_path = '/workspace/test_data/POJ/POJ_img'
 
-conbined_list = [test_ch_img_path, test_en_img_path,test_HAN_LO_img_path]
+conbined_list = [test_ch_img_path, test_en_img_path,
+                 test_HAN_LO_img_path, test_POJ_img_path]
 
 if not os.path.exists('real_test_results'):
     os.mkdir('real_test_results')
