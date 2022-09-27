@@ -74,7 +74,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -d 3 \
             -f 48 \
             -i dicts/en/en_article.txt \
@@ -87,7 +87,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -d 3 \
             -f 48 \
             -i dicts/en/en_article2.txt \
@@ -99,7 +99,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/en/en_article3.txt \
             -fd fonts/en/ \
@@ -110,7 +110,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/en/en_article4.txt \
             -fd fonts/en/ \
@@ -157,7 +157,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -d 3 \
             -i dicts/ch/ch_article.txt \
@@ -170,7 +170,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -d 3 \
             -i dicts/ch/ch_article2.txt \
@@ -183,7 +183,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/ch/ch_article3.txt \
             -fd fonts/ch/ \
@@ -195,7 +195,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/ch/ch_article4.txt \
             -fd fonts/ch/ \
@@ -243,7 +243,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus.txt \
             -fd fonts/POJ/ \
@@ -255,7 +255,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus2.txt \
             -fd fonts/POJ/ \
@@ -267,7 +267,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus3.txt \
             -fd fonts/POJ/ \
@@ -278,7 +278,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus4.txt \
             -fd fonts/POJ/ \
@@ -327,7 +327,7 @@ def Gerner_TAI_LO_img():
     print('生成TAI_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/TAI_LO/TAI_LO_corpus.txt \
             -fd fonts/TAI_LO/ \
@@ -340,7 +340,7 @@ def Gerner_TAI_LO_img():
     print('生成TAI_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/TAI_LO/TAI_LO_corpus2.txt \
             -fd fonts/TAI_LO/ \
@@ -352,7 +352,7 @@ def Gerner_TAI_LO_img():
     print('生成TAI_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/TAI_LO/TAI_LO_corpus3.txt \
             -fd fonts/TAI_LO/ \
@@ -365,7 +365,7 @@ def Gerner_TAI_LO_img():
     print('生成TAI_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 80000 \
+            -c 100000 \
             -f 48 \
             -i dicts/TAI_LO/TAI_LO_corpus4.txt \
             -fd fonts/TAI_LO/ \
@@ -414,7 +414,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
@@ -427,7 +427,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
@@ -441,7 +441,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
             -fd fonts/HAN_LO/ \
@@ -453,7 +453,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 200000 \
+            -c 300000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
             -fd fonts/HAN_LO/ \
