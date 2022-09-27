@@ -49,7 +49,7 @@ chit-má chit ê siā-hōe,
 góa ta̍k-kang chhut-mn̂g thiaⁿ--tio̍h--ê,
 lóng sī kóng Hôa-gí khah chē.
 góa kā chi̍t ê bē chá-tǹg ê a-chí kóng"gâu-chá",
-i ìn kóng‘早安’,
+i ìn kóng,
 ah góa bêng-bêng tio̍h kā kóng Tâi-gí,
 i koh ìn Hôa-gí!
 lán Tâi-oân-lâng phó͘-phiàn bô chū-sìn,
@@ -520,7 +520,7 @@ chhiūⁿ chhàu-thâu kāng-khoán,
 a-má khòaⁿ-tio̍h chiâⁿ m̄-kam,
 tō cháu khì tiong-io̍h-tiàm kap chin-chu-hún tńg-lâi hō͘ góa chia̍h,koh hō͘ góa boah.
 góa tī-leh siūⁿ,tin-chu-hún it-tēng sī kùi-som-som,
-a-má tio̍h-ài khioh gōa-chē ki‘寶特瓶’chiah ū-thang bé chin-chu-hún?
+a-má tio̍h-ài khioh gōa-chē ki chiah ū-thang bé chin-chu-hún?
 siūⁿ kàu chia,
 góa kám-siū-tio̍h a-má sī sè-kan siōng ài góa ê lâng.
 góa chit-má teh tha̍k kok-sió,
@@ -530,7 +530,7 @@ a-má ē kûn moâi,chian nn̄g,
 koh chhá chi̍t hāng chheⁿ-chhài hō͘ góa phòe.
 a-má kóng ka-kī chú--ê chóng pí gōa-kháu bē--ê khah hó,
 chia̍h-tio̍h mā khah an-sim.
-chit-má tiān-sī koh it-ti̍t pò hit-lō‘塑化劑’,
+chit-má tiān-sī koh it-ti̍t pò hit-lō,
 nā chia̍h siuⁿ chē,tùi sin-thé chiâⁿ bái;
 lí gín-á-lâng tú beh tōa,
 sin-thé ài kò͘ hō͘ kiāⁿ,
@@ -1425,7 +1425,7 @@ Ka-pi ē o̍h-tio̍h pa̍t ê gín-á ê Hôa-gí,
 pa̍t ê gín-á khiok bô àn Ka-pi hia o̍h-tio̍h bó-gí?"
 che tio̍h-ài mn̄g gín-á ê a-kong,a-má--ah.
 Ji̍t-gí kah Eng-gí sī khòaⁿ tiān-sī o̍h--ê,
-a-kong pôe i khòaⁿ‘卡通’.
+a-kong pôe i khòaⁿ.
 khòaⁿ-liáu,kong-sun-á ē thó-lūn kio̍k-chêng,
 m̄-nā o̍h-tio̍h gí-giân,
 kong-sun-á kám-chêng mā hó kah hông him-siān.
@@ -3006,7 +3006,7 @@ khòaⁿ chit-má ê gín-á,chhiú put-tōng sam-pó,
 "ū su-sim"kah"su ū-sim"──phian-oán ha̍k-hāu su-chu būn-tê ê su-khó
 chok-chiá:ông siù-iông
 cha̍p-goe̍h lī gō͘,li̍p-hoat-īⁿ leh sím-cha"phian-oán tē-khu ha̍k-hāu kàu-io̍k hoat-tián tiâu-lē"chhó-àn,
-hán-tit‘nâ--ê’,‘le̍k--ê’ê úi-oân,
+hán-tit‘nâ--ê,le̍k--ê ê úi-oân,
 lóng piàn-chò lán Tâi-gí kóng--ê"chheⁿ--ê".
 ta̍k-ke chhiùⁿ kāng siaⁿ,
 lóng leh kek thâu-khak siūⁿ kóng,
@@ -3040,7 +3040,7 @@ góa sī khì kàu Sin-pak-chhī U-lai kok-tiong-sió chò ha̍k-hāu ê ha̍k-b
 góa chheh kà lī-cha̍p-lī tang--ah,
 sim-lāi it-ti̍t kám-kak,
 ài kā tong-chho͘ lâu chit thêng sin,khì tha̍k gián-kiù-só͘ khiàm Jîn-ài kok-tiong ê nn̄g tang hêng--lâng.
-hit-chūn,tú-tio̍h lī khòng it ngó͘ nî‘So͘-te̍k-le̍k’chai-āu tiông-kiàn ê kan-khó͘,
+hit-chūn,tú-tio̍h lī khòng it ngó͘ nî‘So͘-te̍k-le̍kchai-āu tiông-kiàn ê kan-khó͘,
 chi̍t tang tú nn̄g tang,
 hêng-liáu,góa mā sim-an--ah.
 tī hia,góa bat chi̍t ê chāi-tē--ê,chiok iu-siù ê goân-chū-bîn tāi-khò lāu-su.
@@ -3306,7 +3306,7 @@ kàu-sî nā chhoah liáu-liáu,
 góa m̄-tō piàn thut-thâu?
 tōa-hàn liáu-āu,
 chiah chai-iáⁿ a-kong kóng ê"tē-gû"
-tō sī choan-bûn chia̍h káu-hiā ê‘hiā-sai’,
+tō sī choan-bûn chia̍h káu-hiā ê‘hiā-sai,
 i ē bih tī soa-á-tē ia̍h-sī chháu-po͘ ê thô͘-kha-té,
 lî-chhiáⁿ i sī"soa-gû"m̄ sī"tē-gû",
 in-ūi a-kong m̄ bat-jī,
@@ -3578,7 +3578,7 @@ tú tng-beh bîn--khì ê sî,
 "chit~chit~chit"hiông-hiông thiaⁿ-tio̍h gín-á-sî se̍k-sāi ê siaⁿ-im,
 kóaⁿ-kín tùi chhn̂g téng thiàu--lo̍h-lâi khì cháu-chhōe chin kú bô thiaⁿ-kìⁿ ê lāu koa-khek.
 goân-lâi,hāu-hn̂g--lí chi̍t pâi chi̍t pâi ê chhiū-châng--lí,
-sī in‘hā-kùi nā hiàm’im-ga̍k-hōe ê bú-tâi.
+sī in‘hā-kùi nā hiàmim-ga̍k-hōe ê bú-tâi.
 "chit~chit~chit…"
 chiâⁿ cha̍p nî-chêng,
 poaⁿ-lâi chit ê khiā tī chhī-khu ê siā-khu,
@@ -3737,11 +3737,11 @@ lán seng-oa̍h tang-tiong ū chiok chē hûi-á ê chè-phín,
 m̄-kò he tàu-té sī siáⁿ-mih-khoán châi-chit--leh,
 chiok chē lâng sa-bô-cháng,
 koh-khah mài-kóng beh án-chóaⁿ lâi khu-pia̍t--o͘h!
-tāi-seng,Hôa-gú kóng--ê‘陶’,
+tāi-seng,Hôa-gú kóng--ê,
 lán tō kā kiò-chò chho͘-hûi;
-nā-sī Hôa-gú kóng--ê‘瓷’,
+nā-sī Hôa-gú kóng--ê,
 lán tō kā kiò-chò iù-hûi;
-it-poaⁿ Hôa-gú nā-sī chheng-ho͘ chò‘陶瓷’,
+it-poaⁿ Hôa-gú nā-sī chheng-ho͘ chò,
 lán tō ti̍t-chiap kā kiò-chò hûi-á tiō hó.
 m̄-kò,
 chho͘-hûi kah iù-hûi beh án-chóaⁿ lâi khu-pia̍t?
@@ -4363,7 +4363,7 @@ iáu ū chi̍t kù ōe"lak-tē-á chàng chàng",
 khóⁿ-lêng chin chē lâng m̄ bat thiaⁿ--kòe,
 kah khò͘-tē-á tē pōng-chí kāng ì-sù,
 chèng-tī lîn-bu̍t tn̄g-tio̍h soán-kú sî,
-it-ti̍t kōaⁿ chi̍t kōaⁿ bah-chàng tàm tâi-téng hoah‘凍蒜’‘凍蒜’,
+it-ti̍t kōaⁿ chi̍t kōaⁿ bah-chàng tàm tâi-téng hoah,
 sû put ti kan-na khòaⁿ-tio̍h hit kōaⁿ"chàng-chàng",
 kám bē hō͘ lâng kám-kak bô siáⁿ-siâu-á lō͘-ēng.
 gō͘、Bûn-chiong saⁿ
@@ -6803,7 +6803,7 @@ Ji̍t-pún-lâng it kiú khòng khòng nî chip-hêng"chhī-ke kái-chèng"khai-
 Se-mn̂g sī thâu chi̍t chō hông thiah ê siâⁿ-mn̂g;
 tī iú-chì tîn-chêng,bîn-kan hoán-tôaⁿ chi-hā,
 chhun ê sì chō kàu it kiú sam ngó͘ nî thàu-kòe"sú-chek pó-chûn-hoat"pó-liû--lo̍h-lâi.
-m̄-koh,1966 nî Tâi-pak chhī-chèng-hú iōng‘chéng-tùn chhī-iông’ê lí-iû,
+m̄-koh,1966 nî Tâi-pak chhī-chèng-hú iōng‘chéng-tùn chhī-iông ê lí-iû,
 tî-liáu Pak-mn̂g î-chhî goân-pún âng hiā hông-ōe-sek siâⁿ-lâu lia̍h gōa,
 kî-thaⁿ saⁿ chō ê nî-chîⁿ,
 lóng hông hoan-chò hóng le̍k liû-lî-hiā ê Tiong-kok pak-hong lâu-koh hêng-thài.
@@ -7693,8 +7693,8 @@ tiō hàiⁿ-thâu kóng:
 liân thiⁿ pang--lo̍h-lâi,
 góa khòaⁿ lí mā m̄ chai."
 thiⁿ ná ē pang--lo̍h-lâi?
-goán a-bú si̍t-chāi sī‘’.
-kî-si̍t‘’chit kù sêng-gí,
+goán a-bú si̍t-chāi sī.
+kî-si̍t chit kù sêng-gí,
 mā sī góa tī"sêng-gí kò͘-sū"lāi-té o̍h--lâi--ê.
 He sī leh kóng tī chhun-chhiu sî-tāi,
 Kí-kok ū chi̍t ê lâng chiok sîn-keng-chit,
@@ -8021,7 +8021,7 @@ liâm-mi thó beh chia̍h he,
 chi̍t ki chhùi chia̍h bô thêng.
 Hit ê sî-chūn,
 chhù--lí ê sī-tōa-lâng ū khó-lêng chhut-siaⁿ mē kóng:
-"lí chit ê gín-á‘bô kòa gû-chhùi-lông’ná ē-sái--tit!"
+"lí chit ê gín-á‘bô kòa gû-chhùi-lôngná ē-sái--tit!"
 góa tang-sî ê tē-it ê hoán-èng sī,
 lâng m̄ sī gû,
 sī beh án-ná kòa gû-chhùi-lông--leh?
@@ -8090,7 +8090,7 @@ liân chúi-gû to̍h hán-tit khòaⁿ--tio̍h--ah.
 Mài kóng chiong-lâi,
 tio̍h sī kin-á-ji̍t,
 lí mē chi̍t ê chhùi chin put-liâm ê gín-á:
-"lí chit ê gín-á‘bô kòa chhùi-gû-lông’ná ē-sái--tit!"
+"lí chit ê gín-á‘bô kòa chhùi-gû-lôngná ē-sái--tit!"
 siong-sìn thiaⁿ-tio̍h chit kù ōe ê lâng,
 lóng ē mn̄g kóng:
 gû-chhùi-lông sī siáⁿ?
