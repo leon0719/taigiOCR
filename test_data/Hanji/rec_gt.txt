@@ -42,7 +42,6 @@ crop_img/Hanji_Post-WW2_2_crop_12.jpg	毋過一隻胡蠅蠓仔嘛瑞無，攑頭
 crop_img/Hanji_Post-WW2_2_crop_13.jpg	光會閃爍的光影劃過天邊。
 crop_img/Hanji_Post-WW2_2_crop_14.jpg	「這个怪奇的查埔囡仔竟然就按呢消失去矣。」
 crop_img/Hanji_Post-WW2_2_crop_15.jpg	伊吐一口大氣，有夠失望，轉來到房間，發現來
-crop_img/Hanji_Post-WW2_2_crop_16.jpg	4
 crop_img/Hanji_Post-WW2_3_crop_0.jpg	1998.10.1茄苳NO.24台語人NO.2
 crop_img/Hanji_Post-WW2_3_crop_1.jpg	第2頁
 crop_img/Hanji_Post-WW2_3_crop_2.jpg	台灣人的民族情操了後，嘛愛擱有行動。目前大
@@ -137,4 +136,3 @@ crop_img/Hanji_Post-WW2_4_crop_17.jpg	基於本公約須尊重與確保每個人
 crop_img/Hanji_Post-WW2_4_crop_18.jpg	包括種族、膚色、性别、語言、宗教、政治或是其他主張、民
 crop_img/Hanji_Post-WW2_4_crop_19.jpg	族或社會出身、財富、出身、或是其他地位。
 crop_img/Hanji_Post-WW2_4_crop_20.jpg	五丶1990年『保障所有移民工作者興所屬家庭權利之國際
-crop_img/Hanji_Post-WW2_4_crop_21.jpg	6
