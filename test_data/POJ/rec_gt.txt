@@ -25,15 +25,15 @@ crop_img/POJ_Japanese_Occupation1_crop_23.jpg	lâi thiaⁿ, iáh khòaⁿ chiah 
 crop_img/POJ_Japanese_Occupation1_crop_24.jpg	Sóe-lé; iū-koh thiaⁿ in gîm si hiah nih hó-thiaⁿ,
 crop_img/POJ_Japanese_Occupation2_crop_0.jpg	PÍT-SIÂ KUI-CHÈNG
 crop_img/POJ_Japanese_Occupation2_crop_1.jpg	6
-crop_img/POJ_Japanese_Occupation2_crop_2.jpg	tōe chí ū Chit-ê kék tsun-kùi bŏ pí ê Tsú.
+crop_img/POJ_Japanese_Occupation2_crop_2.jpg	tōe chí ū Chit-ê kék tsun-kùi bô pí ê Tsú.
 crop_img/POJ_Japanese_Occupation2_crop_3.jpg	Siat-sú ū 2 ê Tsú, Chiū tek-khek ū saⁿ
 crop_img/POJ_Japanese_Occupation2_crop_4.jpg	chiⁿ saⁿ chhiúⁿ. Lí khòaⁿ thiⁿ-téng jit
 crop_img/POJ_Japanese_Occupation2_crop_6.jpg	géh chhiⁿ-sîn mî-jit ūn-tsoán tín-tāng,tùi
 crop_img/POJ_Japanese_Occupation2_crop_7.jpg	kó-tsá kàu hiān-kim kúi-nā chheng nî í-
-crop_img/POJ_Japanese_Occupation2_crop_8.jpg	1âi, bŏ chit si-á  ōe  loān-tsàp Toe-ē
+crop_img/POJ_Japanese_Occupation2_crop_8.jpg	1âi, bô chit si-á  ōe  loān-tsàp Toe-ē
 crop_img/POJ_Japanese_Occupation2_crop_9.jpg	chháu bák sù-sî liû-hêng, Chhun-thiⁿ hoat
 crop_img/POJ_Japanese_Occupation2_crop_10.jpg	hióh,hē-thiⁿ khui hoe, Chhiu-thiⁿ kiat Ké-
-crop_img/POJ_Japanese_Occupation2_crop_11.jpg	Chí, tang-thiⁿ  lóh hióh ko -tâ, bŏ chit tiám-
+crop_img/POJ_Japanese_Occupation2_crop_11.jpg	Chí, tang-thiⁿ  lóh hióh ko -tâ, bô chit tiám-
 crop_img/POJ_Japanese_Occupation2_crop_12.jpg	á ê chha-Chhò. Tùi án-ni lâi khòaⁿ, kiám
 crop_img/POJ_Japanese_Occupation2_crop_13.jpg	thang kóng Thiⁿ-tōe lāi ū 2 ê Tsú mah ?
 crop_img/POJ_Japanese_Occupation2_crop_14.jpg	Tē 6 Chiuⁿ.
@@ -44,9 +44,9 @@ crop_img/POJ_Japanese_Occupation2_crop_18.jpg	tsai, thiⁿ tōe bān hāng mih c
 crop_img/POJ_Japanese_Occupation2_crop_19.jpg	Tsú. Taⁿ Káⁿ koh mǹg Chit-ê Siōng-tè
 crop_img/POJ_Japanese_Occupation2_crop_20.jpg	tùi tah-lóh siⁿ ?
 crop_img/POJ_Japanese_Occupation2_crop_21.jpg	Iǹ kóng,Siōng-tè sī bān hāng ū ê kun-
-crop_img/POJ_Japanese_Occupation2_crop_22.jpg	goân, ka-kī bŏ kun-goân; tsòe bān mih ê
+crop_img/POJ_Japanese_Occupation2_crop_22.jpg	goân, ka-kī bô kun-goân; tsòe bān mih ê
 crop_img/POJ_Japanese_Occupation2_crop_24.jpg	ê siⁿ Siōng-tê, chiū chit-ê Siōng-tè m sī
-crop_img/POJ_Japanese_Occupation2_crop_25.jpg	chin-ê.  Lâng nā kiŏng-kiŏng mǹg hit-ê
+crop_img/POJ_Japanese_Occupation2_crop_25.jpg	chin-ê.  Lâng nā kiông-kiông mǹg hit-ê
 crop_img/POJ_Japanese_Occupation2_crop_26.jpg	siⁿ sī tùi tah-lòh siⁿ--ê,  beh tùi Chia lâi
 crop_img/POJ_Japanese_Occupation2_crop_27.jpg	chhui-sǹg thái-thó ū chīn-thâu? Só-í
 crop_img/POJ_Japanese_Occupation2_crop_28.jpg	bān hāng ū ê chīn-thâu chiū sī Siōng-té.
@@ -58,15 +58,15 @@ crop_img/POJ_Post-WW2_1_crop_3.jpg	chí-ì. Sui-jiân ūi-tióh sūn-hók Siōng
 crop_img/POJ_Post-WW2_1_crop_4.jpg	kok m-sī siok chit sè-kan "(Iok-hān 18:36) Chú
 crop_img/POJ_Post-WW2_1_crop_5.jpg	tióh kiâⁿ ê lō sī kham-khiat khi-khu; iáu-kú Chú
 crop_img/POJ_Post-WW2_1_crop_6.jpg	Iâ-so só͘ beh kiàn-siat ê, sī ho͘ Siōng-tè ê kok lîm
-crop_img/POJ_Post-WW2_1_crop_7.jpg	Iâ-so lóng bŏ oàn-giân, it-bī hiòng-chêng kiâⁿ. Ū-
+crop_img/POJ_Post-WW2_1_crop_7.jpg	Iâ-so lóng bô oàn-giân, it-bī hiòng-chêng kiâⁿ. Ū-
 crop_img/POJ_Post-WW2_1_crop_8.jpg	kàu, Siōng-tê ê chí-ì tit chiâⁿ tī tē-nih chhin-
 crop_img/POJ_Post-WW2_1_crop_9.jpg	sî Chú lâ-so͘ iā ē ūi-tióh só tú-tióh ê kan-khó lâi
 crop_img/POJ_Post-WW2_1_crop_10.jpg	chhiūⁿ tī thiⁿ-nih (Má-thài 6:10). Só-í Siōng-tè ê
 crop_img/POJ_Post-WW2_1_crop_11.jpg	kiû Siōng-tè kóng,"Nā ōe chòe tit, tióh hō͘ chit
 crop_img/POJ_Post-WW2_1_crop_12.jpg	kok m-sī chāi tī lim-chiàh, sī gī kap pêng-an kap
-crop_img/POJ_Post-WW2_1_crop_13.jpg	ê poe lī-khui góa", chóng-sī Chú Iâ-so͘ bŏ ūi-tióh
-crop_img/POJ_Post-WW2_1_crop_14.jpg	tī Sèng Sîn ê hoaⁿ-hí(Lŏ-má l4:17).Ań-ni Siōng-
-crop_img/POJ_Post-WW2_1_crop_15.jpg	só tû-tióh ê kan-khó lâi bŏ sūn-hók Siōng-tè. I tī
+crop_img/POJ_Post-WW2_1_crop_13.jpg	ê poe lī-khui góa", chóng-sī Chú Iâ-so͘ bô ūi-tióh
+crop_img/POJ_Post-WW2_1_crop_14.jpg	tī Sèng Sîn ê hoaⁿ-hí(Lô-má l4:17).Ań-ni Siōng-
+crop_img/POJ_Post-WW2_1_crop_15.jpg	só tû-tióh ê kan-khó lâi bô sūn-hók Siōng-tè. I tī
 crop_img/POJ_Post-WW2_1_crop_16.jpg	tè ê kok tī sím-mih sî beh sit-hiān? Che m-sī chin
 crop_img/POJ_Post-WW2_1_crop_17.jpg	kék khó-thàng ê khoân-kéng tiong iáu sī kî-tó
 crop_img/POJ_Post-WW2_1_crop_18.jpg	kú chiong-lâi ê sū, sī í-keng sit-hiān tī tē-chiūⁿ
@@ -74,36 +74,36 @@ crop_img/POJ_Post-WW2_1_crop_19.jpg	kóng,"M-sī chiàu góa só ài, sī chiàu
 crop_img/POJ_Post-WW2_1_crop_20.jpg	Chú Iâ-so͘ kóng,"Góa nā khò Siōng-tè ê sîn kóaⁿ
 crop_img/POJ_Post-WW2_1_crop_21.jpg	(Má-thài 26:39) Ań-ni thang chai, nā-sī Siōng-tè
 crop_img/POJ_Post-WW2_1_crop_22.jpg	kúi, chiū Siōng-tè ê kok í-keng kàu lín lah" (Má
-crop_img/POJ_Post-WW2_1_crop_23.jpg	ê chí-ì, Chú lâ-so͘ lóng m káⁿ ûi-keh. Só͘-î Pó-lŏ
+crop_img/POJ_Post-WW2_1_crop_23.jpg	ê chí-ì, Chú lâ-so͘ lóng m káⁿ ûi-keh. Só͘-î Pó-lô
 crop_img/POJ_Post-WW2_1_crop_24.jpg	thài 12:28)Ań-ni lâng nā sūn-hók Siōng-tè,Siōng
-crop_img/POJ_Post-WW2_1_crop_25.jpg	kóng,"I pún ū Siōng-tè ê hêng-chōng, bŏ liàh kap
+crop_img/POJ_Post-WW2_1_crop_25.jpg	kóng,"I pún ū Siōng-tè ê hêng-chōng, bô liàh kap
 crop_img/POJ_Post-WW2_1_crop_26.jpg	tè ê koân-lêng hián-hiān ê sî, Siōng-tè ê kok î
 crop_img/POJ_Post-WW2_1_crop_27.jpg	Siōng-tè pîⁿ-téng chòe só tióh chip-siú ê,hoán-tńg
 crop_img/POJ_Post-WW2_1_crop_28.jpg	keng lîm-kàu tī tē-chiūⁿ Chú Iâ-so khiâ lû jip Iâ
-crop_img/POJ_Post-WW2_1_crop_29.jpg	piàⁿ khang ka-kī, chhú lŏ-pók ê hêng-chōng, chiâⁿ
+crop_img/POJ_Post-WW2_1_crop_29.jpg	piàⁿ khang ka-kī, chhú lô-pók ê hêng-chōng, chiâⁿ
 crop_img/POJ_Post-WW2_1_crop_30.jpg	Iō-sat-léng sī beh hō lâng chai chit ê sū. Sian-ti
 crop_img/POJ_Post-WW2_1_crop_31.jpg	chòe lâng ê iūⁿ-siùⁿ, í-keng ū chhin-chhiūⁿ lâng ê
-crop_img/POJ_Post-WW2_1_crop_32.jpg	Sat-ka-lī-a kóng, "Khòaⁿ ah lí ê ŏng lâi chiū-kīn
+crop_img/POJ_Post-WW2_1_crop_32.jpg	Sat-ka-lī-a kóng, "Khòaⁿ ah lí ê ông lâi chiū-kīn
 crop_img/POJ_Post-WW2_1_crop_33.jpg	khoán-sit, chiū khut ka-kī sūn-hók kàu tī sí, sīm
 crop_img/POJ_Post-WW2_1_crop_34.jpg	lí, I sī kong-gī koh kiâⁿ chín-kiù, un-jiû koh khia
 crop_img/POJ_Post-WW2_1_crop_35.jpg	chì sí tī sip-jī-kè(Hui-lip-pí 2: 6——8). Chú Iâ-so ê
-crop_img/POJ_Post-WW2_1_crop_36.jpg	lû…I beh  tûi liát kok thoân hŏ-pêng; I ê koân
-crop_img/POJ_Post-WW2_1_crop_37.jpg	sūn-hók sī beh chò sūn-hók ê bŏ-iūⁿ, hō kìⁿ-nā
-crop_img/POJ_Post-WW2_1_crop_38.jpg	pèng beh tùi chit ê hái kàu hit ê hái,tùi Tōa hŏ
+crop_img/POJ_Post-WW2_1_crop_36.jpg	lû…I beh  tûi liát kok thoân hô-pêng; I ê koân
+crop_img/POJ_Post-WW2_1_crop_37.jpg	sūn-hók sī beh chò sūn-hók ê bô-iūⁿ, hō kìⁿ-nā
+crop_img/POJ_Post-WW2_1_crop_38.jpg	pèng beh tùi chit ê hái kàu hit ê hái,tùi Tōa hô
 crop_img/POJ_Post-WW2_1_crop_39.jpg	sìn I ê lâng tùi I ê sūn-hók lâi tit-kiù. Chhin-
 crop_img/POJ_Post-WW2_1_crop_40.jpg	kàu tē-kék."(9: 9——l0)
-crop_img/POJ_Post-WW2_1_crop_41.jpg	chhiūⁿ Pó-lŏ kóng,"In-ūi chhin-chhiūⁿ tùi chit ê
+crop_img/POJ_Post-WW2_1_crop_41.jpg	chhiūⁿ Pó-lô kóng,"In-ūi chhin-chhiūⁿ tùi chit ê
 crop_img/POJ_Post-WW2_1_crop_42.jpg	lâng ê ûi-keh hō chèng-lâng chòe ū chōe ê, chiū
 crop_img/POJ_Post-WW2_1_crop_43.jpg	III. Chú lâ-so͘ khái-soân jip-siâⁿ, piáu-sī I oân
 crop_img/POJ_Post-WW2_1_crop_44.jpg	tùi chit ê lâng ê sūn-thàn hō chèng-lâng chò ū gī
 crop_img/POJ_Post-WW2_1_crop_45.jpg	sêng sūn-hók Siōng-tè ê kang.
-crop_img/POJ_Post-WW2_1_crop_46.jpg	ê iā sī án-ni." (Lŏ-má 5: l9).
+crop_img/POJ_Post-WW2_1_crop_46.jpg	ê iā sī án-ni." (Lô-má 5: l9).
 crop_img/POJ_Post-WW2_1_crop_47.jpg	Chú Iâ-so bat kóng,"Tók-tók beh hō͘ sè-kan
 crop_img/POJ_Post-WW2_1_crop_48.jpg	chai góa thiàⁿ Pē,iā chiàu Pē só bēng-lēng góa ê,
-crop_img/POJ_Post-WW2_1_crop_49.jpg	Bèk-sióng: 1) Chú iâ-so sī  Bí-sài-a, I beh chò ŏng tī
+crop_img/POJ_Post-WW2_1_crop_49.jpg	Bèk-sióng: 1) Chú iâ-so sī  Bí-sài-a, I beh chò ông tī
 crop_img/POJ_Post-WW2_1_crop_50.jpg	ták lâng ê sim-lāi. Chhiáⁿ mng lí m-chai ū chhiat-sit
 crop_img/POJ_Post-WW2_1_crop_51.jpg	góa án-ni lâi kiâⁿ" (Iok-hān l4: 31) Chú Iâ-so͘ tī
-crop_img/POJ_Post-WW2_1_crop_52.jpg	chiap-làp Chú Iâ-so chò lí ê Kiù-chú,͘ hō͘ I chò͘ ŏng tī
+crop_img/POJ_Post-WW2_1_crop_52.jpg	chiap-làp Chú Iâ-so chò lí ê Kiù-chú,͘ hō͘ I chò͘ ông tī
 crop_img/POJ_Post-WW2_1_crop_53.jpg	8
 crop_img/POJ_Post-WW2_1_crop_54.jpg	9
 crop_img/POJ_Qing_Dynasty1_crop_0.jpg	3
@@ -114,9 +114,9 @@ crop_img/POJ_Qing_Dynasty1_crop_4.jpg	Siat-lìp Tiong-óh ê ì-sù sī chái-i�
 crop_img/POJ_Qing_Dynasty1_crop_5.jpg	chòe pîn-kù Chhin-chhiūⁿ kò--jī,
 crop_img/POJ_Qing_Dynasty1_crop_6.jpg	Sī in-ūi lâng tī hiah-ê Sío-óh thàk
 crop_img/POJ_Qing_Dynasty1_crop_7.jpg	ū só-chāi kóe chòe iân-kò͘, ū só-chāi
-crop_img/POJ_Qing_Dynasty1_crop_8.jpg	bŏ lōa chhim, iā sī kan-ta thàk-jī nāⁿ
+crop_img/POJ_Qing_Dynasty1_crop_8.jpg	bô lōa chhim, iā sī kan-ta thàk-jī nāⁿ
 crop_img/POJ_Qing_Dynasty1_crop_9.jpg	kóe chòe pún-jiân, ū  só-chāi kóe
-crop_img/POJ_Qing_Dynasty1_crop_10.jpg	tiāⁿ,bŏ sím-mih óh pát-hāng; só-í
+crop_img/POJ_Qing_Dynasty1_crop_10.jpg	tiāⁿ,bô sím-mih óh pát-hāng; só-í
 crop_img/POJ_Qing_Dynasty1_crop_11.jpg	chòe só-í Koh chhin-chhiūⁿ í--jī,
 crop_img/POJ_Qing_Dynasty1_crop_12.jpg	goán sīuⁿ tī Hú-siâⁿ tióh siat chit-ê
 crop_img/POJ_Qing_Dynasty1_crop_13.jpg	Tiong-óh hō lâng thang sīu tàk-hāng
@@ -135,20 +135,20 @@ crop_img/POJ_Qing_Dynasty1_crop_25.jpg	chhiáⁿ Siù-chaì lâi kà Sèhg-chheh
 crop_img/POJ_Qing_Dynasty1_crop_26.jpg	Lâng nāⁿ beh chhe i-ê hāu-siⁿ lâi chia
 crop_img/POJ_Qing_Dynasty1_crop_27.jpg	thák, i tióh kìa-phoe hō goán chai, á-
 crop_img/POJ_Qing_Dynasty1_crop_28.jpg	iáh bat kóe-seh m-tióh, m-sī in-ūi i
-crop_img/POJ_Qing_Dynasty1_crop_29.jpg	sī tióh thong-ti Thŏan-tō-lí ê lâng,
+crop_img/POJ_Qing_Dynasty1_crop_29.jpg	sī tióh thong-ti Thôan-tō-lí ê lâng,
 crop_img/POJ_Qing_Dynasty1_crop_30.jpg	m-bat jī, á-sī bōe hiáu--tit kóe-seh,
 crop_img/POJ_Qing_Dynasty1_crop_31.jpg	hō in thang thong-ti goán. Sian-si
 crop_img/POJ_Qing_Dynasty1_crop_32.jpg	tók-tók sī in-ūi jī-gī ê kóe-seh bōe
 crop_img/POJ_Qing_Dynasty1_crop_33.jpg	ōe it-tēng ê iân-kò. Taⁿ hit-hō ū
 crop_img/POJ_Qing_Dynasty1_crop_34.jpg	ták-lâng tióh tam-tng ka-kī hóe-sit ê
-crop_img/POJ_Qing_Dynasty1_crop_35.jpg	bák-būn ê lâng siŏng-chhíaⁿ bōe-ōe
+crop_img/POJ_Qing_Dynasty1_crop_35.jpg	bák-būn ê lâng siông-chhíaⁿ bōe-ōe
 crop_img/POJ_Qing_Dynasty1_crop_36.jpg	só-hùi nāⁿ-tiāⁿ, chit goèh jit chha-put
-crop_img/POJ_Qing_Dynasty1_crop_37.jpg	kóe-seh kàu tú-hó,hŏ-hòng chhián-
+crop_img/POJ_Qing_Dynasty1_crop_37.jpg	kóe-seh kàu tú-hó,hô-hòng chhián-
 crop_img/POJ_Qing_Dynasty1_crop_38.jpg	to chit-ê gîn-chîⁿ. Chit-ê Tiong-óh
 crop_img/POJ_Qing_Dynasty1_crop_39.jpg	tióh 8 goéh chhe--nih chiah ē khui;
 crop_img/POJ_Qing_Dynasty1_crop_40.jpg	hák ê lâng thài-thó  ōe  kóe-seh
 crop_img/POJ_Qing_Dynasty1_crop_41.jpg	hit-tiàp Tōa-óh thák-chheh ê hák-
-crop_img/POJ_Qing_Dynasty1_crop_42.jpg	Sèng-chheh kàu bŏ chhò-gō ah? Nā
+crop_img/POJ_Qing_Dynasty1_crop_42.jpg	Sèng-chheh kàu bô chhò-gō ah? Nā
 crop_img/POJ_Qing_Dynasty1_crop_43.jpg	seng beh koh-lâi Hú--nih chū-chip,
 crop_img/POJ_Qing_Dynasty1_crop_44.jpg	bōe-ōe kóe-seh Sèng-chheh, beh thái
 crop_img/POJ_Qing_Dynasty1_crop_45.jpg	chīu hiah ê Tiong-óh ê hák-seng
@@ -167,16 +167,16 @@ crop_img/POJ_Qing_Dynasty1_crop_57.jpg	Kû-nîⁿ goán ū gī-lūn beh Tāi-hō
 crop_img/POJ_Qing_Dynasty1_crop_58.jpg	tit kóe-seh, só-í chiah chòe chit-ê
 crop_img/POJ_Qing_Dynasty1_crop_59.jpg	péh-ōe-jī hō͘ lóng-chóng ê lâng
 crop_img/POJ_Qing_Dynasty1_crop_60.jpg	aū-lâi in-ūi Tāi-Hoat-kok kiáu-jiáu
-crop_img/POJ_Qing_Dynasty1_crop_61.jpg	peh-sèⁿ só-í bŏ chū-ohip͘. Taⁿ in-ūi
+crop_img/POJ_Qing_Dynasty1_crop_61.jpg	peh-sèⁿ só-í bô chū-ohip͘. Taⁿ in-ūi
 crop_img/POJ_Qing_Dynasty1_crop_62.jpg	thang óh; koh chiong Sèng-chheh
 crop_img/POJ_Qing_Dynasty1_crop_63.jpg	chit-ê 4 goéh 26 jit nng kok ū saⁿ-hó,
 crop_img/POJ_Qing_Dynasty1_crop_64.jpg	kap ták-hō ê chheh hoan-ék péh-ōe-
 crop_img/POJ_Qing_Dynasty1_crop_65.jpg	peh-sèⁿ lóng an-chēng, goán siūⁿ kin-
 crop_img/POJ_Qing_Dynasty1_crop_66.jpg	jī,hō bat péh-ōe-jī ê lâng thang ka-
-crop_img/POJ_Qing_Dynasty1_crop_67.jpg	nî tióh ū Tâi-hōe, sŏ-í chhíaⁿ tâk Kàu-
+crop_img/POJ_Qing_Dynasty1_crop_67.jpg	nî tióh ū Tâi-hōe, sô-í chhíaⁿ tâk Kàu-
 crop_img/POJ_Qing_Dynasty1_crop_68.jpg	kī thàk,ka-kī káng-kiù chheh-lāì ê
 crop_img/POJ_Qing_Dynasty1_crop_69.jpg	hōe ê tiúⁿ-ló chip-sū kàu pún-nî 9
-crop_img/POJ_Qing_Dynasty1_crop_70.jpg	sō-lí. Siat-sú bŏ chit hō péh-ōe-jī,
+crop_img/POJ_Qing_Dynasty1_crop_70.jpg	sō-lí. Siat-sú bô chit hō péh-ōe-jī,
 crop_img/POJ_Qing_Dynasty1_crop_71.jpg	goèh chhe-chhit-jit chīu-sī pài-saⁿ lâi
 crop_img/POJ_Qing_Dynasty1_crop_72.jpg	Hú-siâⁿ, tī pài-sì, pài-gō, pài-làk chīū-
 crop_img/POJ_Qing_Dynasty1_crop_73.jpg	chīu put-chí chío lâng ōe  hiáu-tit
@@ -195,25 +195,25 @@ crop_img/POJ_Qing_Dynasty2_crop_1.jpg	2
 crop_img/POJ_Qing_Dynasty2_crop_2.jpg	lâng. Tī chit-ê lâu-téng, lâu-thui-kak ê só-chāi
 crop_img/POJ_Qing_Dynasty2_crop_3.jpg	ū chat-keng kék-sè ê pâng. Lāi-bīn ū chit-ê lāu-
 crop_img/POJ_Qing_Dynasty2_crop_4.jpg	lâng teh tòa; i-ê miâ kiò-chò Tok-hui, bīn ū tài-
-crop_img/POJ_Qing_Dynasty2_crop_5.jpg	chhiò-iŏng ê khoán-sit. Tī teh choān-khîm ū im-
+crop_img/POJ_Qing_Dynasty2_crop_5.jpg	chhiò-iông ê khoán-sit. Tī teh choān-khîm ū im-
 crop_img/POJ_Qing_Dynasty2_crop_6.jpg	tiāu chhut-lâi hóng-hut sī khek ê siaⁿ-im, chhin-
-crop_img/POJ_Qing_Dynasty2_crop_7.jpg	bŏ tè thang pí-phēng góa ê ke."
-crop_img/POJ_Qing_Dynasty2_crop_8.jpg	Nā-sī chit-ê khîm-tiāu só tńg ê An-lók-ke bŏ
+crop_img/POJ_Qing_Dynasty2_crop_7.jpg	bô tè thang pí-phēng góa ê ke."
+crop_img/POJ_Qing_Dynasty2_crop_8.jpg	Nā-sī chit-ê khîm-tiāu só tńg ê An-lók-ke bô
 crop_img/POJ_Qing_Dynasty2_crop_9.jpg	kap chit-ê lâu-téng sio-siāng; in-ūi chit-ê lâu-
-crop_img/POJ_Qing_Dynasty2_crop_10.jpg	téng sī kiŏng-khó ê só-chāi, éh-éh, bŏ khoan-
-crop_img/POJ_Qing_Dynasty2_crop_11.jpg	khòaⁿ, o-àm bē kng; chū-jiân tòa tī-hia bŏ khòaⁿ-
-crop_img/POJ_Qing_Dynasty2_crop_12.jpg	oáh, bŏ chhin-chhiūⁿ tī ke-lai ê lī-piān.
+crop_img/POJ_Qing_Dynasty2_crop_10.jpg	téng sī kiông-khó ê só-chāi, éh-éh, bô khoan-
+crop_img/POJ_Qing_Dynasty2_crop_11.jpg	khòaⁿ, o-àm bē kng; chū-jiân tòa tī-hia bô khòaⁿ-
+crop_img/POJ_Qing_Dynasty2_crop_12.jpg	oáh, bô chhin-chhiūⁿ tī ke-lai ê lī-piān.
 crop_img/POJ_Qing_Dynasty2_crop_13.jpg	Tí lâu-ē kúi-chàn khiā-khí ê lâng ū-ê tī phòa-
 crop_img/POJ_Qing_Dynasty2_crop_14.jpg	chhňg téng, poàⁿ-khùn poàⁿ-chhéⁿ, thiaⁿ-kìⁿ chit-ê
 crop_img/POJ_Qing_Dynasty2_crop_15.jpg	khîm ê khek, siūⁿ-khí ka-tī ê ke, ìáh bat hióng
 crop_img/POJ_Qing_Dynasty2_crop_16.jpg	hok hit-hō hó-chhù. Nā-sī lī-khûi ke-lāi tú-tióh
 crop_img/POJ_Qing_Dynasty2_crop_17.jpg	kan-khó ê kéng-hóng͘. Kàu mê-chhim ê sî-chūn,
-crop_img/POJ_Qing_Dynasty2_crop_18.jpg	teng-hóe teh-beh hoa, hóe-lŏ ê hóe teh-beh kòe,
+crop_img/POJ_Qing_Dynasty2_crop_18.jpg	teng-hóe teh-beh hoa, hóe-lô ê hóe teh-beh kòe,
 crop_img/POJ_Qing_Dynasty2_crop_19.jpg	Chit-ê iāu-lâng ìáu-kú teh choān-khîm.
 crop_img/POJ_Qing_Dynasty2_crop_20.jpg	Goân-lâi Tok-hui tī lâu-téng teh tòa,toaⁿ-sin
-crop_img/POJ_Qing_Dynasty2_crop_21.jpg	ko-khó͘, bŏ chhin-chiek thang khò, bŏ pêhg-iú
+crop_img/POJ_Qing_Dynasty2_crop_21.jpg	ko-khó͘, bô chhin-chiek thang khò, bô pêhg-iú
 crop_img/POJ_Qing_Dynasty2_crop_22.jpg	thaug kiû. Hoān só chhin-ài ê lâng lóng-chóng
-crop_img/POJ_Qing_Dynasty2_crop_23.jpg	sí--liáu. pēng-bŏ chit-lâng sim-būn kì-liām i-ê
-crop_img/POJ_Qing_Dynasty2_crop_24.jpg	khó-chhó. I iàh bŏ sim-koaⁿ thang keng-êng bŏ
+crop_img/POJ_Qing_Dynasty2_crop_23.jpg	sí--liáu. pēng-bô chit-lâng sim-būn kì-liām i-ê
+crop_img/POJ_Qing_Dynasty2_crop_24.jpg	khó-chhó. I iàh bô sim-koaⁿ thang keng-êng bô
 crop_img/POJ_Qing_Dynasty2_crop_25.jpg	oàh, tàk-jit choān-khîm nā-tiāⁿ; ū-sî siū thiaⁿ
 crop_img/POJ_Qing_Dynasty2_crop_26.jpg	khîm ê lāu Thài-thài kap ko-niû tām-póh chî hō
