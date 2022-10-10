@@ -16,7 +16,7 @@ for lang in conbined_list:
 
     os.chdir('/workspace/PaddleOCR')
     os.system(
-        f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.infer_img={lang}')
+        f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy Global.infer_img={lang}')
     path = '/workspace/PaddleOCR/output/rec/predicts_my_ocr_model.txt'
 
     with open(path, 'r', encoding='utf-8') as f:
