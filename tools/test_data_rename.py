@@ -1,9 +1,9 @@
 import os
-with open('/home/leon/taigiOCR/test_data/POJ/rec_gt.txt', 'r', encoding='utf8') as f:
+with open('/home/leon/taigiOCR/test_data_extend/Hanji/rec_gt.txt', 'r', encoding='utf8') as f:
     f = f.readlines()
     line_list = [line.strip().split('\t') for line in f]
 
-img_path = '/home/leon/taigiOCR/test_data/POJ'
+img_path = '/home/leon/taigiOCR/test_data_extend/Hanji'
 
 count = 1
 for line in line_list:
