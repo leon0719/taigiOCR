@@ -230,6 +230,89 @@ def Gerner_ch_img():
                     os.path.join(test_ch_img_path, file))
     os.rmdir(data_ch_path)
 
+# def Gerner_POJ_img():
+#     data_POJ_path = os.path.join(save_img_path, 'POJ')
+#     if not os.path.exists(data_POJ_path):
+#         os.mkdir(data_POJ_path)
+#     if not os.path.exists(test_POJ_img_path):
+#         os.makedirs(test_POJ_img_path)
+
+#     os.chdir(text_gerner)
+
+#     print('生成POJ_img_data')
+#     os.system(
+#         f'python run.py  \
+#             -c 100000 \
+#             -f 48 \
+#             -i dicts/POJ/POJ_corpus.txt \
+#             -fd fonts/POJ/ \
+#             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
+#             -id images/POJ --output_dir {data_POJ_path}'
+#     )
+#     # -----------------------------------------------------------
+
+#     print('生成POJ_img_data')
+#     os.system(
+#         f'python run.py  \
+#             -c 100000 \
+#             -f 48 \
+#             -i dicts/POJ/POJ_corpus2.txt \
+#             -fd fonts/POJ/ \
+#             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
+#             -id images/POJ --output_dir {data_POJ_path}'
+#     )
+
+#     # -----------------------------------------------------------
+#     print('生成POJ_img_data')
+#     os.system(
+#         f'python run.py  \
+#             -c 100000 \
+#             -f 48 \
+#             -i dicts/POJ/POJ_corpus3.txt \
+#             -fd fonts/POJ/ \
+#             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
+#             -id images/POJ --output_dir {data_POJ_path}'
+#     )
+#     # -----------------------------------------------------------
+#     print('生成POJ_img_data')
+#     os.system(
+#         f'python run.py  \
+#             -c 100000 \
+#             -f 48 \
+#             -i dicts/POJ/POJ_corpus4.txt \
+#             -fd fonts/POJ/ \
+#             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
+#             -id images/POJ --output_dir {data_POJ_path}'
+#     )
+
+#     # -----------------------------------------------------------
+#     for file in os.listdir(data_POJ_path):
+#         os.rename(
+#             os.path.join(data_POJ_path, file),
+#             os.path.join(data_POJ_path, file.replace(' ', '_'))
+#         )
+
+#     data_POJ = os.listdir(data_POJ_path)
+#     train_POJ, vaild_POJ = train_test_split(
+#         data_POJ, test_size=0.1, random_state=0)
+
+#     Test_POJ, Vaild_POJ = train_test_split(
+#         vaild_POJ, test_size=0.5, random_state=0)
+
+#     print('切割訓練集.....')
+#     for file in tqdm(train_POJ):
+#         shutil.move(os.path.join(data_POJ_path, file),
+#                     os.path.join(train_path, file))
+#     print('切割驗證集.....')
+#     for file in tqdm(vaild_POJ):
+#         shutil.move(os.path.join(data_POJ_path, file),
+#                     os.path.join(vaild_path, file))
+
+#     for file in tqdm(Test_POJ[:10000]):
+#         shutil.copy(os.path.join(vaild_path, file),
+#                     os.path.join(test_POJ_img_path, file))
+#     os.rmdir(data_POJ_path)
+
 
 def Gerner_POJ_img():
     data_POJ_path = os.path.join(save_img_path, 'POJ')
@@ -239,32 +322,39 @@ def Gerner_POJ_img():
         os.makedirs(test_POJ_img_path)
 
     os.chdir(text_gerner)
-
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
             -c 100000 \
             -f 48 \
+            -d 3 \
             -i dicts/POJ/POJ_corpus.txt \
             -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {data_POJ_path}'
     )
     # -----------------------------------------------------------
-
+    save_img_path2 = f'{save_img_path}/POJ2'
+    os.chdir(text_gerner)
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
             -c 100000 \
             -f 48 \
+            -d 3 \
             -i dicts/POJ/POJ_corpus2.txt \
             -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -id images/POJ --output_dir {data_POJ_path}'
+            -id images/POJ --output_dir {save_img_path2}'
     )
 
+    dilate(save_img_path2, data_POJ_path)
+
+    shutil.rmtree(save_img_path2)
     # -----------------------------------------------------------
+    os.chdir(text_gerner)
     print('生成POJ_img_data')
+    save_img_path3 = f'{save_img_path}/POJ3'
     os.system(
         f'python run.py  \
             -c 100000 \
@@ -272,9 +362,13 @@ def Gerner_POJ_img():
             -i dicts/POJ/POJ_corpus3.txt \
             -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
-            -id images/POJ --output_dir {data_POJ_path}'
+            -id images/POJ --output_dir {save_img_path}/POJ3'
     )
+    closing(save_img_path3, data_POJ_path)
+
+    shutil.rmtree(save_img_path3)
     # -----------------------------------------------------------
+    os.chdir(text_gerner)
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
@@ -285,7 +379,6 @@ def Gerner_POJ_img():
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
             -id images/POJ --output_dir {data_POJ_path}'
     )
-
     # -----------------------------------------------------------
     for file in os.listdir(data_POJ_path):
         os.rename(
