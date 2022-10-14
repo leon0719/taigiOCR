@@ -1,7 +1,7 @@
 import os
 os.chdir('/workspace/PaddleOCR')
 os.system(
-    f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/multi_language/chinese_cht_PP-OCRv3_rec.yml -o Global.pretrained_model=ch-cht-Pretrained/best_accuracy  Global.infer_img=/workspace/test_data/HAN_LO/HAN_LO_img')
+    f'python3 tools/infer_rec.py -c configs/rec/PP-OCRv3/multi_language/chinese_cht_PP-OCRv3_rec.yml -o Global.pretrained_model=/workspace/PaddleOCR/Pretrained_model/en-cht-Pretrained/best_accuracy Global.infer_img=/workspace/test_data/en/en_img')
 with open('/workspace/PaddleOCR/output/rec/predicts_ppocrv3_chinese_cht.txt', 'r', encoding='utf-8') as f:
     f = f.readlines()
     a = [[' '.join(x.split('/')[-1].split('\t')[0].split('_')[:-1]), x.split('\t')[1]]
