@@ -75,7 +75,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 500000 \
             -f 48 \
             -d 3 \
             -i dicts/en/en_article.txt \
@@ -90,9 +90,8 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 500000 \
             -f 48 \
-            -d 3 \
             -i dicts/en/en_article2.txt \
             -fd fonts/en/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -107,7 +106,7 @@ def Gerner_en_img():
     save_img_path3 = f'{save_img_path}/en3'
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 500000 \
             -f 48 \
             -i dicts/en/en_article3.txt \
             -fd fonts/en/ \
@@ -122,7 +121,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 500000 \
             -f 48 \
             -i dicts/en/en_article4.txt \
             -fd fonts/en/ \
@@ -185,7 +184,6 @@ def Gerner_ch_img():
         f'python run.py  \
             -c 300000 \
             -f 48 \
-            -d 3 \
             -i dicts/ch/ch_article2.txt \
             -fd fonts/ch/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -279,7 +277,6 @@ def Gerner_POJ_img():
         f'python run.py  \
             -c 100000 \
             -f 48 \
-            -d 3 \
             -i dicts/POJ/POJ_corpus2.txt \
             -fd fonts/POJ/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -373,7 +370,6 @@ def Gerner_TAI_LO_img():
         f'python run.py  \
             -c 100000 \
             -f 48 \
-            -d 3 \
             -i dicts/TAI_LO/TAI_LO_corpus2.txt \
             -fd fonts/TAI_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -467,7 +463,6 @@ def Gerner_HAN_LO_img():
         f'python run.py  \
             -c 100000 \
             -f 48 \
-            -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
             -fd fonts/HAN_LO/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
@@ -561,7 +556,6 @@ def Gerner_jp_img():
         f'python run.py  \
             -c 80000 \
             -f 48 \
-            -d 3 \
             -i dicts/jp/jp_corpus2.txt \
             -fd fonts/jp/ \
             -t $(cat /proc/cpuinfo | grep "processor" |  wc -l)\
