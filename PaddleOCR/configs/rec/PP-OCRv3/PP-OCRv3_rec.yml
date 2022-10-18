@@ -1,11 +1,11 @@
 Global:
   debug: false
   use_gpu: true
-  epoch_num: 12
+  epoch_num: 5
   log_smooth_window: 20
   print_batch_step: 10
   save_model_dir: ./output/my_ocr_model
-  save_epoch_step: 8
+  save_epoch_step: 2
   eval_batch_step: [0, 1000]
   cal_metric_during_train: true
   pretrained_model:
