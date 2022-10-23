@@ -3,3 +3,8 @@ E:\workspace\test_data\Hanji\Hanji_Post-WW2_1.png	1
 E:\workspace\test_data\Hanji\Hanji_Post-WW2_2.png	1
 E:\workspace\test_data\Hanji\Hanji_Post-WW2_3.png	1
 E:\workspace\test_data\Hanji\Hanji_Post-WW2_4.png	1
+E:\workspace\test_data_extend\Hanji\Hanji_Post-WW2_15.png	1
+E:\workspace\test_data_extend\Hanji\Hanji_Post-WW2_11.png	1
+E:\workspace\test_data_extend\Hanji\Hanji_Post-WW2_12.png	1
+E:\workspace\test_data_extend\Hanji\Hanji_Post-WW2_13.png	1
+E:\workspace\test_data_extend\Hanji\Hanji_Post-WW2_14.png	1

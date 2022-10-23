@@ -3,3 +3,8 @@ E:\workspace\test_data\en\en_Post-WW2_1.png	1
 E:\workspace\test_data\en\en_Post-WW2_2.png	1
 E:\workspace\test_data\en\en_Post-WW2_3.png	1
 E:\workspace\test_data\en\en_Qing_Dynasty1.png	1
+C:\Users\leon0\Desktop\test_data_expand\en\en_Post-WW2_4.png	1
+C:\Users\leon0\Desktop\test_data_expand\en\en_Post-WW2_5.png	1
+C:\Users\leon0\Desktop\test_data_expand\en\en_Post-WW2_6.png	1
+C:\Users\leon0\Desktop\test_data_expand\en\en_Qing_Dynasty3.png	1
+C:\Users\leon0\Desktop\test_data_expand\en\en_Qing_Dynasty4.png	1
