@@ -75,7 +75,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 500000 \
+            -c 600000 \
             -f 48 \
             -d 3 \
             -i dicts/en/en_article.txt \
@@ -90,7 +90,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 500000 \
+            -c 600000 \
             -f 48 \
             -i dicts/en/en_article2.txt \
             -fd fonts/en/ \
@@ -106,7 +106,7 @@ def Gerner_en_img():
     save_img_path3 = f'{save_img_path}/en3'
     os.system(
         f'python run.py  \
-            -c 500000 \
+            -c 600000 \
             -f 48 \
             -i dicts/en/en_article3.txt \
             -fd fonts/en/ \
@@ -121,7 +121,7 @@ def Gerner_en_img():
     print('生成en_img_data')
     os.system(
         f'python run.py  \
-            -c 500000 \
+            -c 600000 \
             -f 48 \
             -i dicts/en/en_article4.txt \
             -fd fonts/en/ \
@@ -168,7 +168,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 400000 \
             -f 48 \
             -d 3 \
             -i dicts/ch/ch_article.txt \
@@ -182,7 +182,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 400000 \
             -f 48 \
             -i dicts/ch/ch_article2.txt \
             -fd fonts/ch/ \
@@ -199,7 +199,7 @@ def Gerner_ch_img():
     save_img_path3 = f'{save_img_path}/ch3'
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 400000 \
             -f 48 \
             -i dicts/ch/ch_article3.txt \
             -fd fonts/ch/ \
@@ -214,7 +214,7 @@ def Gerner_ch_img():
     print('生成ch_img_data')
     os.system(
         f'python run.py  \
-            -c 300000 \
+            -c 400000 \
             -f 48 \
             -i dicts/ch/ch_article4.txt \
             -fd fonts/ch/ \
@@ -261,7 +261,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -d 3 \
             -i dicts/POJ/POJ_corpus.txt \
@@ -275,7 +275,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus2.txt \
             -fd fonts/POJ/ \
@@ -292,7 +292,7 @@ def Gerner_POJ_img():
     save_img_path3 = f'{save_img_path}/POJ3'
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus3.txt \
             -fd fonts/POJ/ \
@@ -307,7 +307,7 @@ def Gerner_POJ_img():
     print('生成POJ_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/POJ/POJ_corpus4.txt \
             -fd fonts/POJ/ \
@@ -447,7 +447,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
@@ -461,7 +461,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
             -fd fonts/HAN_LO/ \
@@ -478,7 +478,7 @@ def Gerner_HAN_LO_img():
     save_img_path3 = f'{save_img_path}/HAN_LO3'
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
             -fd fonts/HAN_LO/ \
@@ -493,7 +493,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 100000 \
+            -c 200000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
             -fd fonts/HAN_LO/ \
