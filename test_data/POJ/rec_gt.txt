@@ -217,3 +217,153 @@ crop_img/POJ_Qing_Dynasty2_crop_23.jpg	sí--liáu. pēng-bô chit-lâng sim-būn
 crop_img/POJ_Qing_Dynasty2_crop_24.jpg	khó-chhó. I iàh bô sim-koaⁿ thang keng-êng bô
 crop_img/POJ_Qing_Dynasty2_crop_25.jpg	oàh, tàk-jit choān-khîm nā-tiāⁿ; ū-sî siū thiaⁿ
 crop_img/POJ_Qing_Dynasty2_crop_26.jpg	khîm ê lāu Thài-thài kap ko-niû tām-póh chî hō
+crop_img/POJ_Japanese_Occupation3_crop_0.jpg	KIA̍M-HOAT
+crop_img/POJ_Japanese_Occupation3_crop_1.jpg	Koh; tùi chit-tiám̍ kàu tsáp-jī tiám tióh phah kúi-ē?
+crop_img/POJ_Japanese_Occupation3_crop_2.jpg	11. Ē-mn̂g tah hé-hun-tsûn beh khì Tāi-Eng kok, tsúi-lō
+crop_img/POJ_Japanese_Occupation3_crop_3.jpg	chīu-sī Ē-mn̂g kàu Hiong-káng 930 lí, Hiong-káng kàu Sit-lát
+crop_img/POJ_Japanese_Occupation3_crop_4.jpg	4790 lí, Sit-lat kàu Pin-nn̂g-sū 1270͘ lí, Pin-nn̂g-sū kàu Sek-lân
+crop_img/POJ_Japanese_Occupation3_crop_5.jpg	3037 lí, Sek-lân kàu An̂g-hái 7113 lí,kè An̂g-hái 4360,kè Ai-
+crop_img/POJ_Japanese_Occupation3_crop_6.jpg	kip ê tōa-káng 270 lí, tōa-káng kàu Bí-lī-tāi 3180,Bí-lī-tāi kàu
+crop_img/POJ_Japanese_Occupation3_crop_7.jpg	Se-pan-ngá ê lâm-hn̂g 3270 lí. Se-pan-ngá ê lâm-hn̂g kàu Tāi-
+crop_img/POJ_Japanese_Occupation3_crop_8.jpg	kàu Pin-nn̂g-sū kúi lí ? koh, Ē-mn̂g kàu Tāi-Eng kok kúi lí ?
+crop_img/POJ_Japanese_Occupation3_crop_9.jpg	l2. Siat-sú Tit-lē ū saⁿ-chheng ban lâng,Kang-so͘ sì-chheng
+crop_img/POJ_Japanese_Occupation3_crop_10.jpg	bān lâng,An-hui saⁿ-chheng lák-pah bān,Soaⁿ-sai chit-chheng
+crop_img/POJ_Japanese_Occupation3_crop_11.jpg	gō͘-pah bān, Soaⁿ-tang saⁿ-chheng chit pah bān, Hô-lâm nn̂g
+crop_img/POJ_Japanese_Occupation3_crop_12.jpg	chheng sì-pah bān,Siám-sai chit-chheng gō͘-pah bān, Kam-siok
+crop_img/POJ_Japanese_Occupation3_crop_13.jpg	chi̍t-chheng lák-pah bān,Chiat-kang nn̄g-chheng poeh-pah bān,
+crop_img/POJ_Japanese_Occupation3_crop_14.jpg	Kang-sai saⁿ-ohheng nn̄g-pah bān,O-pak nn̄g-chheng poeh-pah
+crop_img/POJ_Japanese_Occupation3_crop_15.jpg	bān,O-lâm nn̄g-chheng bān, Sù-chhoan nn̄g-chheng nn̄g-pah
+crop_img/POJ_Japanese_Occupation3_crop_16.jpg	bān,Hok-kiàn chit-chheng poeh-pah bān,Kńg-tang nn̄g-chheng
+crop_img/POJ_Japanese_Occupation3_crop_17.jpg	saⁿ-pah bān,Kńg-sai poeh-pah bān, Hûn-lâm gō͘-pah gō-tsáp
+crop_img/POJ_Japanese_Occupation3_crop_18.jpg	bān,Kùí-chiu gō͘-pah gō͘-tsáp bān ;Chīu tsáp-poeh séng lóng.
+crop_img/POJ_Japanese_Occupation3_crop_19.jpg	kiōng jōa-tsōe lâng?
+crop_img/POJ_Japanese_Occupation3_crop_20.jpg	KIA̍M-HOAT.
+crop_img/POJ_Japanese_Occupation3_crop_21.jpg	Lâi pí-phēng nn̄g tiâu-siàu, ēng khah-sòe-tiâu
+crop_img/POJ_Japanese_Occupation3_crop_22.jpg	khàu-tû khah tōa-tiâu khòaⁿ ū chhun jōa-tsōe, hō
+crop_img/POJ_Japanese_Occupation3_crop_23.jpg	tsòe Kiám-hoat. Kiám-hoat Ka-hoat saⁿ-tùi-hoán.
+crop_img/POJ_Japanese_Occupation3_crop_24.jpg	liát, khah-sòe-tiâu tióh hoâiⁿ-liát tī ē-bīn ; toaⁿ ê ūi
+crop_img/POJ_Japanese_Occupation3_crop_25.jpg	tùi toaⁿ ê ūī, tsáp ê ūi tùi tsáp ê ūi,í-siōng kok tùi
+crop_img/POJ_Japanese_Occupation3_crop_26.jpg	i ê ūi pâi. Pâi-liát bêng-pék,tióh úih-hûn keh-kài;
+crop_img/POJ_Japanese_Occupation3_crop_27.jpg	tāi-seng tùi toaⁿ ê ūi kiám-khí, ēng ē-siàu kiám
+crop_img/POJ_Japanese_Occupation3_crop_28.jpg	téng-siàu, khòaⁿ ehhun jōa-tsōe, chīu kì tī pún-ūi ê
+crop_img/POJ_Japanese_Occupation3_crop_29.jpg	hûn-ē. Kok-ūi tio̍h chiàu chit-ê hoat-tō͘.
+crop_img/POJ_Japanese_Occupation3_crop_30.jpg	Beh tùi 3897 lâi kiám 1326, khoaⁿ kai chhun jōa-tsōe ;tio̍h
+crop_img/POJ_Japanese_Occupation3_crop_31.jpg	chiong tōa siàu siá téng-bīn liàt, sió siàu siá ē-tóe liát,
+crop_img/POJ_Japanese_Occupation3_crop_32.jpg	úih-hûn keh-kài ; khòaⁿ toaⁿ-ūi ê 7 kiám 6 sīn l, tio̍h
+crop_img/POJ_Japanese_Occupation3_crop_33.jpg	3897
+crop_img/POJ_Japanese_Occupation3_crop_34.jpg	kì l tī pún-ūi hûn-ē , tsáp ūi ê 9 kiám 2 sīn 7, pah-l326
+crop_img/POJ_Japanese_Occupation3_crop_35.jpg	ūi ê 8 kiám 3 sīn 5, chheng-ūi ê 3 kiám 1 sīn 2,kok
+crop_img/POJ_Japanese_Occupation3_crop_36.jpg	tùi pún-ūi ê hûn-ē lâi kì, chīu tsai tōa siàu só͘ chhun 2571
+crop_img/POJ_Japanese_Occupation3_crop_37.jpg	chīu-sī 2571.
+crop_img/POJ_Japanese_Occupation3_crop_38.jpg	Khah-tōa-tiâu-siàu tio̍h thán-hoâiⁿ siá tsòe téng-
+crop_img/POJ_Japanese_Occupation4_crop_0.jpg	PIT SOÁN Ê CHHO HÁK
+crop_img/POJ_Japanese_Occupation4_crop_1.jpg	20
+crop_img/POJ_Japanese_Occupation4_crop_2.jpg	24. Siat-sú tùi tōe kàu géh ū hé-hun-chhia ê lō͘, iā hé-hun
+crop_img/POJ_Japanese_Occupation4_crop_3.jpg	chhia, chit-tiám-cheng kú kiâⁿ 160 lí, tio̍h kiâⁿ nn̄g-pah-jit
+crop_img/POJ_Japanese_Occupation4_crop_4.jpg	chiah ōe kàu, chīu géh lī tōe kúi-lí ?
+crop_img/POJ_Japanese_Occupation4_crop_5.jpg	Tek 768000.
+crop_img/POJ_Japanese_Occupation4_crop_6.jpg	25. Siat-sú tōa-chhèng ê chit-liap-chí, chit-biáu-kú ōe kiâⁿ
+crop_img/POJ_Japanese_Occupation4_crop_7.jpg	chit-lí, chīu kiâⁿ liân-liân 9 jit kú ōe kàu-geh, iā kiâⁿ 10 nî
+crop_img/POJ_Japanese_Occupation4_crop_8.jpg	chiah ōe kàu jit-thâu: taⁿ sǹg chit-nî 365 jit chīu géh lī tōe
+crop_img/POJ_Japanese_Occupation4_crop_9.jpg	kúi-lí? Koh jit lī tōe kúi-lí?
+crop_img/POJ_Japanese_Occupation4_crop_10.jpg	Tek777600;315360000
+crop_img/POJ_Japanese_Occupation4_crop_11.jpg	26.Siat-sú kng, chit-biáu-kú ōe kiâⁿ 620130 lí, iā kng tùi
+crop_img/POJ_Japanese_Occupation4_crop_12.jpg	jit kàu tōe tio̍h kiâⁿ 8 hun koh 13 biáu,(lóng-tsóng 493 biáu)
+crop_img/POJ_Japanese_Occupation4_crop_13.jpg	chiah ōe kàu ; chīu jit lī tōe kúi-lí ?
+crop_img/POJ_Japanese_Occupation4_crop_14.jpg	Tek 305724090
+crop_img/POJ_Japanese_Occupation4_crop_15.jpg	27. Siat-sú tùi siōng-kūn ê chhiⁿ, kng tio̍h kiâⁿ sì-nî kú
+crop_img/POJ_Japanese_Occupation4_crop_16.jpg	chiah ōe kau-tóe, chīu siōng-kūn ê chhiⁿ lī tōe jōa-hn̂g?
+crop_img/POJ_Japanese_Occupation4_crop_17.jpg	78225678720000 lí
+crop_img/POJ_Japanese_Occupation4_crop_18.jpg	28. Bó͘-lâng ū lák-kho͘-gûn, chít-kho͘ ōaⁿ-tit 1146 chîⁿ;
+crop_img/POJ_Japanese_Occupation4_crop_19.jpg	chiong chîⁿ khì bóe 4 tè kau-í, chít-tè 560 chîⁿ; nn̄g-tè-toh,
+crop_img/POJ_Japanese_Occupation4_crop_20.jpg	chi̍t-tè 1455 chîⁿ;chián-pò͘ 17 chhioh, chit-chhioh 73 chîⁿ: taⁿ
+crop_img/POJ_Japanese_Occupation4_crop_21.jpg	mn̂g, chîⁿ iáu-chhun jōa-tsōe ?
+crop_img/POJ_Japanese_Occupation4_crop_22.jpg	Tek 485
+crop_img/POJ_Japanese_Occupation4_crop_23.jpg	29. Bó͘-lâng hē thn̂g 6761 tàⁿ, tsài khì Soaⁿ-tang hoat-bōe;
+crop_img/POJ_Japanese_Occupation4_crop_24.jpg	chi̍t taⁿ 3 kho pún.Kau-káng chīu 860 tàⁿ bōe 4 kho,iáu-ê
+crop_img/POJ_Japanese_Occupation4_crop_25.jpg	bōe 5 kho͘: taⁿ mn̂g,lóng-kiōng thàn kúi-kho͘? Tek 12662
+crop_img/POJ_Japanese_Occupation4_crop_26.jpg	30. Bó͘-lâng beh tù-chheh, chít-pún252 iáh,chit-iáh 18 tsōa,
+crop_img/POJ_Japanese_Occupation4_crop_27.jpg	chit-tsōa 19 jī; chīu khì kap iǹ-pán-tiàm siong-liông, khek-pán
+crop_img/POJ_Japanese_Occupation4_crop_28.jpg	chit-jī tio̍h nn̄g-ê-îⁿ,khek-liáu, chheh-sin,pò͘-phê, iǹ-kang, kap
+crop_img/POJ_Japanese_Occupation4_crop_29.jpg	kang, múi-pún tio̍h 232 chîⁿ: taⁿ mn̂g, 8000 pún só͘-hùi lóng
+crop_img/POJ_Japanese_Occupation4_crop_30.jpg	kiōng tio̍h jōa-tsōe ?
+crop_img/POJ_Japanese_Occupation4_crop_31.jpg	2028368 chîⁿ
+crop_img/POJ_Japanese_Occupation4_crop_32.jpg	31. Bó͘-lâng khiàm-chè 583 kho͘ bo gûn thang hêng; nā-sī
+crop_img/POJ_Japanese_Occupation4_crop_33.jpg	ū saⁿ-chiah bé, múi-chiah tát-tit 75 kho, lák-chiah-gû, múi
+crop_img/POJ_Japanese_Occupation4_crop_34.jpg	chiah tat-tit t8̍kho, jī-tsap-it chiah ti, múi-chiah tat-tit 3 kho͘,
+crop_img/POJ_Japanese_Occupation4_crop_35.jpg	saⁿ-tsáp-lák chiah iûⁿ, múi-chiah tát-tit 2 kho : chīu chiong
+crop_img/POJ_Japanese_Occupation4_crop_36.jpg	chiah-ê chêng-siⁿ lâi kó͘-hêng, iáu-khiàm kúi-kho͘? Tek 115,
+crop_img/POJ_Japanese_Occupation4_crop_37.jpg	PUN-HOAT
+crop_img/POJ_Japanese_Occupation4_crop_38.jpg	Pun-hoat iā thang kiò-tsòe Tû-hoat.
+crop_img/POJ_Japanese_Occupation4_crop_39.jpg	Pun-hoat kap Kiám-hoat siāng-lūi, hoat-tō͘ kap
+crop_img/POJ_Japanese_Occupation4_crop_40.jpg	sêng-hoat saⁿ-tùi-hoán. Kiám-chhái chhái-tiâu-siàu
+crop_img/POJ_Japanese_Occupation4_crop_41.jpg	ài pun tsòe kúi-nā tiâu,kiám-hoat hùi-khì, pun-hoat
+crop_img/POJ_Japanese_Occupation4_crop_42.jpg	khah kín-khoài.
+crop_img/POJ_Post-WW2_2_crop_0.jpg	Sin-pán Sū-bûn
+crop_img/POJ_Post-WW2_2_crop_1.jpg	Pún-su kū-pán chhut-pán āu, pún-lâng ták chá-khí chiū ēng
+crop_img/POJ_Post-WW2_2_crop_2.jpg	che chòe keng-bûn lêng-siu. Khí-chho͘ sī lân-lân-san-san kám
+crop_img/POJ_Post-WW2_2_crop_3.jpg	Kak su-iàu siu-kái--ê, chiah kā in chòe kì-hō khí--lâi. Aū-lâi che kì
+crop_img/POJ_Post-WW2_2_crop_4.jpg	hō ná tún ná chōe, chiū koat-ì chôan-pún tiōng-sin phian-tù
+crop_img/POJ_Post-WW2_2_crop_5.jpg	Tī chài phian-tù ê chok-giáp-tiong, ték-piát chù-ì ē-bīn ê
+crop_img/POJ_Post-WW2_2_crop_6.jpg	tiám:
+crop_img/POJ_Post-WW2_2_crop_7.jpg	1.Uî ài hō͘ Iâ-hô-hoa kap Í-sek-liát Chú-bîn ê tùi-ōa
+crop_img/POJ_Post-WW2_2_crop_8.jpg	(dialogue) koh khah bêng-hián, ū pit-iàu ê keng-chat, chiū cheng
+crop_img/POJ_Post-WW2_2_crop_9.jpg	2.Hui-siông chōe koh ho̍k-cháp ê put-tông tāi-bêng-sû, sī
+crop_img/POJ_Post-WW2_2_crop_10.jpg	teh chí siáⁿ-lâng, chīn-liōng ló͘-lék hō͘ in bêng
+crop_img/POJ_Post-WW2_2_crop_11.jpg	3.Tī hiān-tāi Tâi-ôan khah bô teh iōng ê Ē-mǹg ê kóng
+crop_img/POJ_Post-WW2_2_crop_12.jpg	hoat, khòaⁿ chòe su-iàu ê, chiū kā in kái chòe pún-thó͘ ê hoat-im
+crop_img/POJ_Post-WW2_2_crop_13.jpg	Tùikū-pán beh kái chòe sin-pán ê chok-giáp,ū Kong-pò-siā
+crop_img/POJ_Post-WW2_2_crop_14.jpg	ê Chhòe Hūi-lêng Sió-chiá hū-chek. I ū khì Lâm-Sîn Tâi-gú Bûn
+crop_img/POJ_Post-WW2_2_crop_15.jpg	hòa Kàu-sek thák tiong-kip Tâi-gú. Só͘-í i ê Péh-ōe-jī chin cheng
+crop_img/POJ_Post-WW2_2_crop_16.jpg	bi̍t. Ka-chài ū Hūi-lêng Sió-chiá ê pang-chān, tī kàu-chèng hong
+crop_img/POJ_Post-WW2_2_crop_17.jpg	bīn, i kā góa séng chin-chōe sî-kan. Tī chia ài kā i soeh to-siā
+crop_img/POJ_Post-WW2_2_crop_18.jpg	2006 nî 8 go̍eh 31 ji̍t
+crop_img/POJ_Post-WW2_2_crop_19.jpg	Tīⁿ Jî-gio̍k
+crop_img/POJ_Post-WW2_3_crop_0.jpg	Phian-tù-chiá ê Sū-bûn
+crop_img/POJ_Post-WW2_3_crop_1.jpg	Cháp-sò͘-nî-chêng teh lêng-siu ê sî, nā thák--tio̍h Si-phian
+crop_img/POJ_Post-WW2_3_crop_2.jpg	kám-kak, che nā ū ah-ūn, khó-lêng ōe só͘ niá-siū ê un-tián koh
+crop_img/POJ_Post-WW2_3_crop_3.jpg	khah hong-hù. Tùi hit-sî khí ná lêng-siu ná kā in ah-ūn khòaⁿ-māi
+crop_img/POJ_Post-WW2_3_crop_4.jpg	leh. Aū-lâi só͘ ah-ūn ê Si-phian ná lâi ná chōe. Lō͘-bóe-chhiú chiū
+crop_img/POJ_Post-WW2_3_crop_5.jpg	kui-pún ēng khé-èng ê hong-sek kā i phian-chok. Chit-ê chok-giáp
+crop_img/POJ_Post-WW2_3_crop_6.jpg	nn̄g-nî- chêng chiū kiat-sok.
+crop_img/POJ_Post-WW2_3_crop_7.jpg	Chóng-sī ōe chhiân-kàu nn̄g-nî-gōa-āu chiah beh chhut
+crop_img/POJ_Post-WW2_3_crop_8.jpg	pán, sī in-ūi Pe̍h-ōe-jī beh siōng-hā phòe-ha̍p Tâi-gú Hàn-jī ê in
+crop_img/POJ_Post-WW2_3_crop_9.jpg	toaⁿ. Tī tiān-náu chok-gia̍p, che sī hui-siông mâ-hôan ê tāi-chì.
+crop_img/POJ_Post-WW2_3_crop_10.jpg	Tiān-náu ê chok-gia̍p khí-chho͘ ū Hù-jîn Tāi-ha̍k ê Pò͘ Un
+crop_img/POJ_Post-WW2_3_crop_11.jpg	pêng Tông-ha̍k, sòa--lo̍h-khì ū Tâi-pak Tâi-gú Thôan-pò͘ Khì-gia̍p
+crop_img/POJ_Post-WW2_3_crop_12.jpg	Kong-si ê Tân Hong-hūi kap Koeh Bûn-chhái nn̄g-ūi sió-chiá chiap.
+crop_img/POJ_Post-WW2_3_crop_13.jpg	Chòe-āu ū Tâi-lâm Sîn-ha̍k-īⁿ ê Gô͘ Jîn-sek Lāu-su chóng chéng-lí
+crop_img/POJ_Post-WW2_3_crop_14.jpg	kā i ôan-sêng. Put-kò tī chit tiong-kan ia̍h ū lô-hôan Chiúⁿ En̂g
+crop_img/POJ_Post-WW2_3_crop_15.jpg	sēng Bo̍k-su,Gô͘ Bûn Bo̍k-su-niû Gî Bí-lē Lú-sū, í-ki̍p Tiuⁿ Bí-lī
+crop_img/POJ_Post-WW2_3_crop_16.jpg	Sió-chiá kàu-chèng. Pit-chiá ài tī Chú ê miâ kā in kám-siā in ê sin
+crop_img/POJ_Post-WW2_3_crop_17.jpg	khó͘.
+crop_img/POJ_Post-WW2_3_crop_18.jpg	Pit-chiá siong-sìn chit-pún "Ah-ūn Khé-èng Si-phian" m̄
+crop_img/POJ_Post-WW2_3_crop_19.jpg	nā kan-ta ū sek-ha̍p kong-chiòng lé-pài ê khé-èng iōng, iā ū sek
+crop_img/POJ_Post-WW2_3_crop_20.jpg	iōng tī kò-jîn ê lêng-siu. Sūn-sòa iā hō͘ lâng chòe Tâi-gú si-bûn ê
+crop_img/POJ_Post-WW2_3_crop_21.jpg	khò-pún.
+crop_img/POJ_Post-WW2_3_crop_22.jpg	Chòe-āu pit-chiá ài kám-siā Tâi-ôan Ki-tok Tiúⁿ-ló Kàu-hōe
+crop_img/POJ_Post-WW2_3_crop_23.jpg	ê Jîn-kong Chhut-pán-siā khin-khòai chiū sêng-lo̍k beh chhut-pán
+crop_img/POJ_Post-WW2_3_crop_24.jpg	pún-su.
+crop_img/POJ_Post-WW2_3_crop_25.jpg	2002 nî 9 go̍eh
+crop_img/POJ_Post-WW2_3_crop_26.jpg	12
+crop_img/POJ_Post-WW2_4_crop_1.jpg	1. Hoaⁿ-hí, kau-pôe, sim-sek, phoe—choá, chhiong-moá
+crop_img/POJ_Post-WW2_4_crop_2.jpg	hoe-hn̂g, o͘-àm, Kng-bêng, the-í, hong-khîm
+crop_img/POJ_Post-WW2_4_crop_3.jpg	im-ga̍k, koaiⁿ-mn̂g, sin-thé, sian-siⁿ, sio-thàm, saⁿ-sî
+crop_img/POJ_Post-WW2_4_crop_4.jpg	2. Soé-e̍k, siá-jī, káng-gī, chhiú-kin, chhiú-chí, chhoán-khùi
+crop_img/POJ_Post-WW2_4_crop_5.jpg	hóe-lô͘, só-sî, niá-tòa, ióng-kiāⁿ, hó-miā, hó-gia̍h, pó-hō͘
+crop_img/POJ_Post-WW2_4_crop_6.jpg	ún-tàng, kám-kek
+crop_img/POJ_Post-WW2_4_crop_7.jpg	3. chhèng-chí, kiù-chú, Sè-hē, làu-kín, èng-giām, sèng-keng
+crop_img/POJ_Post-WW2_4_crop_8.jpg	sèng-si, sèng-sîn, sià-chōe, khòai-lo̍k, chòe-kang, sè-kan
+crop_img/POJ_Post-WW2_4_crop_9.jpg	sàm-pō͘, tì-sek, sòng-hiong, kàu-sek, chiàu-kò͘
+crop_img/POJ_Post-WW2_4_crop_10.jpg	4. Siat-sú, koh-chài, ut-táu, phah-kiû,koh-lâi, kut-thâu
+crop_img/POJ_Post-WW2_4_crop_11.jpg	hok-khì, chheh-tû, iok-sok, toh-téng
+crop_img/POJ_Post-WW2_4_crop_12.jpg	5.chîⁿ-châi, sî-tāi, sûi-sî, gû-leng, sêng-kong,thâu-mn̂g, kî-tó
+crop_img/POJ_Post-WW2_4_crop_13.jpg	gîm-si, iân-pit, pâng-keng, phôe-ê,tê-poe,phôe-pau,
+crop_img/POJ_Post-WW2_4_crop_14.jpg	thâu-khak, tê-koàn, pêng-iú, Iâ-so͘.
+crop_img/POJ_Post-WW2_4_crop_15.jpg	7. Chhiūⁿ-gê, ūn-ton̄g, tāi-khài, tōa-hàn, bōe-hiáu, siōng-tè
+crop_img/POJ_Post-WW2_4_crop_16.jpg	phīⁿ-khang,lāi-saⁿ, tē-tô͘, tiān-hóe, chē-chhia, hō͘-sòaⁿ, góa
+crop_img/POJ_Post-WW2_4_crop_17.jpg	Saⁿ, chhiūⁿ-chúi.
+crop_img/POJ_Post-WW2_4_crop_18.jpg	8.Kut-thô͘, ba̍k-chúi, ta̍k-lâng, chha̍t-thâu, sit-chāi, ba̍k-chiu
+crop_img/POJ_Post-WW2_4_crop_19.jpg	ba̍k-kiàⁿ ha̍k-seng, ha̍k-hāu, jia̍t-sim, chi̍p-hōe, chio̍h-thâu
+crop_img/POJ_Post-WW2_4_crop_20.jpg	go̍k-hî.
+crop_img/POJ_Post-WW2_4_crop_21.jpg	12
