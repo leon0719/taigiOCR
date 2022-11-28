@@ -8,7 +8,6 @@ PaddleOCR/inference_results*
 tools/result
 PaddleOCR/output_v1
 tools/real_test_results*
-test
 PaddleOCR/Pretrained_model
 test_GPU2.sh
 test_GPU3.sh
