@@ -8,3 +8,6 @@ C:\Users\leon0\Desktop\test_data_expand\en\en_Post-WW2_5.png	1
 C:\Users\leon0\Desktop\test_data_expand\en\en_Post-WW2_6.png	1
 C:\Users\leon0\Desktop\test_data_expand\en\en_Qing_Dynasty3.png	1
 C:\Users\leon0\Desktop\test_data_expand\en\en_Qing_Dynasty4.png	1
+D:\en_extend\en_Japanese_occupation3.png	1
+D:\en_extend\en_Japanese_occupation1.png	1
+D:\en_extend\en_Japanese_occupation2.png	1

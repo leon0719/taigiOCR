@@ -529,3 +529,42 @@ crop_img/en_Qing_Dynasty9_crop_4.jpg	TO HIS UNWEARIED LABOURS
 crop_img/en_Qing_Dynasty9_crop_5.jpg	AS A CHRISTIAN MISSIONARY,
 crop_img/en_Qing_Dynasty9_crop_6.jpg	AND HIS PRE-EMINENT POSITION
 crop_img/en_Qing_Dynasty9_crop_7.jpg	AS A CHINESE SCHOLAR.
+crop_img/en_Japanese_occupation3_crop_0.jpg	iii
+crop_img/en_Japanese_occupation3_crop_1.jpg	The following are the changes that take place in combination:-
+crop_img/en_Japanese_occupation3_crop_2.jpg	The first becomes the third.
+crop_img/en_Japanese_occupation3_crop_3.jpg	The second becomes the first.
+crop_img/en_Japanese_occupation3_crop_4.jpg	The third becomes the second
+crop_img/en_Japanese_occupation3_crop_5.jpg	The fourth becomes the eighth
+crop_img/en_Japanese_occupation3_crop_6.jpg	The fifth becomes the third.
+crop_img/en_Japanese_occupation3_crop_7.jpg	The seventh becomes the third.
+crop_img/en_Japanese_occupation3_crop_8.jpg	The eighth becomes the fourth.
+crop_img/en_Japanese_occupation3_crop_9.jpg	Great difficulty has been experienced throughout the entire
+crop_img/en_Japanese_occupation3_crop_10.jpg	preparation of the book in getting Chinese characters which
+crop_img/en_Japanese_occupation3_crop_11.jpg	would give the exact meaning of the various words and phrases
+crop_img/en_Japanese_occupation3_crop_12.jpg	used in it. Many words being purely colloquial have no characters
+crop_img/en_Japanese_occupation3_crop_13.jpg	of their own. To meet the difficulty, characters having the same
+crop_img/en_Japanese_occupation3_crop_14.jpg	borrowed, and when this has not been found practicable, words of
+crop_img/en_Japanese_occupation3_crop_15.jpg	a kindred meaning, though of different pronunciation, have been
+crop_img/en_Japanese_occupation3_crop_16.jpg	adopted. Even these resources have not been found available in
+crop_img/en_Japanese_occupation3_crop_17.jpg	all cases, and consequently many words have been left unrepresent-
+crop_img/en_Japanese_occupation3_crop_18.jpg	ed by any Chinese characters
+crop_img/en_Japanese_occupation3_crop_19.jpg	JOHN MACGOWAN.
+crop_img/en_Japanese_occupation3_crop_20.jpg	Amoy, Sep 26th, 1898.
+crop_img/en_Japanese_occupation1_crop_0.jpg	A MANUAL
+crop_img/en_Japanese_occupation1_crop_1.jpg	OF THE
+crop_img/en_Japanese_occupation1_crop_2.jpg	AMOY
+crop_img/en_Japanese_occupation1_crop_3.jpg	COLLOQUIAL,
+crop_img/en_Japanese_occupation1_crop_4.jpg	BY
+crop_img/en_Japanese_occupation1_crop_5.jpg	REV. J. MACGOWAN,
+crop_img/en_Japanese_occupation1_crop_6.jpg	OF THE
+crop_img/en_Japanese_occupation1_crop_7.jpg	LONDON MISSIONARY SOCIETY.
+crop_img/en_Japanese_occupation1_crop_11.jpg	FOURTH EDITION
+crop_img/en_Japanese_occupation1_crop_13.jpg	KULANGSEU: PRINTED. AT CHUI KENG TONG
+crop_img/en_Japanese_occupation1_crop_14.jpg	1898.
+crop_img/en_Japanese_occupation2_crop_0.jpg	THE NEW YOK
+crop_img/en_Japanese_occupation2_crop_1.jpg	PUBLIC LIRARY
+crop_img/en_Japanese_occupation2_crop_2.jpg	890386A
+crop_img/en_Japanese_occupation2_crop_3.jpg	ASTOR,LENOX AND
+crop_img/en_Japanese_occupation2_crop_4.jpg	TILDEN FOUNDATIONS
+crop_img/en_Japanese_occupation2_crop_5.jpg	R
+crop_img/en_Japanese_occupation2_crop_6.jpg	1937
