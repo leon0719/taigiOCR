@@ -6,7 +6,7 @@ Global:
   print_batch_step: 10
   save_model_dir: ./output/my_ocr_model
   save_epoch_step: 2
-  eval_batch_step: [0, 1000]
+  eval_batch_step: [0, 20000]
   cal_metric_during_train: true
   pretrained_model:
   checkpoints:
@@ -99,7 +99,7 @@ Train:
             - valid_ratio
   loader:
     shuffle: true
-    batch_size_per_card: 32
+    batch_size_per_card: 16
     drop_last: true
     num_workers: 8
 Eval:
@@ -125,5 +125,5 @@ Eval:
   loader:
     shuffle: false
     drop_last: false
-    batch_size_per_card: 32
+    batch_size_per_card: 16
     num_workers: 8
