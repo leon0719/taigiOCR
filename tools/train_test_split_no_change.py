@@ -331,7 +331,7 @@ def Gerner_HAN_LO_img():
     print('生成HAN_LO_img_data')
     os.system(
         f'python run.py  \
-            -c 400000 \
+            -c 500000 \
             -f 48 \
             -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus.txt \
@@ -342,7 +342,7 @@ def Gerner_HAN_LO_img():
     # -----------------------------------------------------------
     os.system(
         f'python run.py  \
-            -c 400000 \
+            -c 500000 \
             -f 48 \
             -d 3 \
             -i dicts/HAN_LO/HAN_LO_corpus2.txt \
@@ -354,7 +354,7 @@ def Gerner_HAN_LO_img():
     # -----------------------------------------------------------
     os.system(
         f'python run.py  \
-            -c 400000 \
+            -c 500000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus3.txt \
             -fd fonts/HAN_LO/ \
@@ -365,7 +365,7 @@ def Gerner_HAN_LO_img():
     # -----------------------------------------------------------
     os.system(
         f'python run.py  \
-            -c 400000 \
+            -c 500000 \
             -f 48 \
             -i dicts/HAN_LO/HAN_LO_corpus4.txt \
             -fd fonts/HAN_LO/ \

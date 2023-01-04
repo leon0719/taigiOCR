@@ -18,3 +18,6 @@ D:\test_data_expand\HAN_LO\HAN_LO_Post-WW2_16.png	1
 D:\test_data_expand\HAN_LO\HAN_LO_Post-WW2_17.png	1
 D:\test_data_expand\HAN_LO\HAN_LO_Post-WW2_18.png	1
 D:\test_data_expand\HAN_LO\HAN_LO_Post-WW2_19.png	1
+D:\HAN_LO_extend\HAN_LO_Post-WW2_23.png	1
+D:\HAN_LO_extend\HAN_LO_Post-WW2_21.png	1
+D:\HAN_LO_extend\HAN_LO_Post-WW2_22.png	1
