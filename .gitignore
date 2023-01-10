@@ -13,5 +13,4 @@ test_GPU2.sh
 test_GPU3.sh
 GPU4_docker.sh
 tools/ch_pre_trained
-__pycache__
 data
