@@ -15,3 +15,4 @@ GPU4_docker.sh
 tools/ch_pre_trained
 data
 __pycache__/
+PaddleOCR/ppocr/utils/dict/vocab.txt
