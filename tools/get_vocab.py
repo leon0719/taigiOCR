@@ -11,7 +11,7 @@ def load_dict(path: str) -> List[str]:
 if __name__ == "__main__":
     start =time.time()
 
-    train_data = '/nfs/TS-1635AX/WorkSpace/leon/GPU4/train_data/train_label.txt'
+    train_data = '/train_data/train_data/train_label.txt'
 
     line_list = load_dict(train_data)
 

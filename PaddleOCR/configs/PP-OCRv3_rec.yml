@@ -13,7 +13,7 @@ Global:
   save_inference_dir:
   use_visualdl: false
   infer_img: doc/imgs_words/ch/word_1.jpg
-  character_dict_path: ppocr/utils/dict/total_dic.txt
+  character_dict_path: ppocr/utils/dict/vocab.txt
   max_text_length: &max_text_length 128
   infer_mode: false
   use_space_char: true
@@ -101,7 +101,7 @@ Train:
     shuffle: true
     batch_size_per_card: 16
     drop_last: true
-    num_workers: 8
+    num_workers: 7
 Eval:
   dataset:
     name: SimpleDataSet
@@ -126,4 +126,4 @@ Eval:
     shuffle: false
     drop_last: false
     batch_size_per_card: 16
-    num_workers: 8
+    num_workers: 7
