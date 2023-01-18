@@ -2,7 +2,7 @@ English | [Chinese](README_ch.md)
 
 # Applications
 
-Recognize and save Chinese,English ,Japanese ,mixed Hanji, Tâi-lô and Peh-oe-ji characters as text files
+Recognize and save Chinese,English , mixed Hanji, Tâi-lô and Peh-oe-ji characters as text files
 
 ![image](images/result_ch.jpg "中")
 
@@ -26,7 +26,7 @@ Using Docker image to build environment, install library, CUDA and CUDA Toolkit
 #Create a folder to save pictures
 mkdir img_data
 
-docker run --gpus all -it --name OCR_ENV -v /path/to/taigiOCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.6 /bin/bash
+docker run --gpus all -it --name OCR_ENV -v /path/to/taigiOCR:/workspace/ -v /path/to/img_data:/train_data/ --shm-size=120g --ulimit memlock=-1 leonhilty/ocr_search:v1.0.8 /bin/bash
 
 ```
 
@@ -41,43 +41,22 @@ and simulated test data
 
 ```
 cd tools/
-python train_test_split.py
+python get_data.py
 ```
 
 Generating Results
 
 ![image](images/ch.png "中")
 ![image](images/en.jpg "英")
-![image](images/jp.jpg "日")
 ![image](images/POJ.jpg "白話字")
 ![image](images/TAI_LO.jpg "台羅")
 ![image](images/HAN_LO.jpg "漢羅")
-
-Training Set and Validation Set
-
-|                      | Training Set | Validation Set |
-| -------------------- | ------------ | -------------- |
-| Chinese              | 360,000      | 40,000         |
-| English              | 360,000      | 40,000         |
-| Japanese             | 360,000      | 40,000         |
-| POJ                  | 360,000      | 40,000         |
-| Tâi-lô               | 360,000      | 40,000         |
-| mixed Hanji          | 360,000      | 40,000         |
-| Total(Images)        | 2,160,000    | 240,000        |
-| Number of characters | 100,000,000+ | 17,000,000+    |
 
 Folder Trees
 
 ```
 /train_data/
     (Simulation test data)
-    ├── test_ch
-    ├── test_en
-    ├── test_HAN_LO
-    ├── test_jp
-    ├── test_POJ
-    ├── test_TAI_LO
-    └── train_data
         ├── test (Validation set Img)
         ├── test_label.txt (Validation set Labels)
         ├── train (Training Set Img)
@@ -86,14 +65,12 @@ Folder Trees
 
 ## Training
 
-Modify the PaddleOCR/configs/rec/PP-OCRv3/PP-OCRv3_rec.yml configuration file
+Modify the PaddleOCR/configs/PP-OCRv3_rec.yml configuration file
 
 |                         | Modify                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------- |
 | num_workers             | Number of GPUs                                                                        |
 | character_dict_path     | Customized dictionary path e.x. ppocr/utils/dict/total_dic.txt                        |
-| Architecture-Algorithm: | SVTR、PREN、Rosetta、RARE、STARNet、SRN、NRTR、CRNN、SEED、SAR                        |
-| Architecture-Backbone:  | MobileNetV1Enhance、EfficientNetb3_PREN、MobileNetV3、SVTRNet、ResNetFPN、MTB、ResNet |
 
 Start training after modification
 
@@ -127,7 +104,7 @@ my_ocr_model/
 
 ## Predicted results for each language
 
-Using tools/Real_Test_predict.py to predict and calculate CERs for **simulated test image data**.
+Using tools/Real_Test_predict.py to predict and calculate CERs for **test image data**.
 
 ```
 cd tools/
@@ -142,7 +119,7 @@ Converting trained **text recognition** models into inference models
 
 ```
 cd PaddleOCR
-python3 tools/export_model.py -c configs/rec/PP-OCRv3/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.save_inference_dir=./rec_inference/
+python3 tools/export_model.py -c configs/PP-OCRv3_rec.yml -o Global.pretrained_model=output/my_ocr_model/best_accuracy  Global.save_inference_dir=./rec_inference/
 ```
 
 After conversion, it will be in the PaddleOCR/rec_inference directory.
@@ -163,7 +140,7 @@ Use PaddleOCR/tools/infer/predict_system.py to make predictions about the pictur
 #Image Path --image_dir
 #Font Path --vis_font_path
 cd PaddleOCR
-python tools/infer/predict_system.py --det_model_dir="./det_inference" --rec_model_dir="./rec_inference" --rec_char_dict_path=./ppocr/utils/dict/total_dic.txt --vis_font_path=./test/font/ch_en.ttf --image_dir=./test/test_ch/ch.jpg
+sh final_infere.sh
 ```
 
 Prediction results are saved under the PaddleOCR/inference_results directory

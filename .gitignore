@@ -6,11 +6,14 @@ TextRecognitionDataGenerator/trdg/out
 img_data
 PaddleOCR/inference_results*
 tools/result
-PaddleOCR/output_v1
+PaddleOCR/output*
 tools/real_test_results*
 PaddleOCR/Pretrained_model
 test_GPU2.sh
 test_GPU3.sh
 GPU4_docker.sh
 tools/ch_pre_trained
-__pycache__
+data
+__pycache__/
+PaddleOCR/ppocr/utils/dict/vocab.txt
+.vscode
